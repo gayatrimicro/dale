@@ -39,21 +39,24 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="114x114" href="">
 	
 
-  <title>Dale R. Rose Injury Lawyers | McKinney, TX</title>
+  <title>Contact Us | Dale R. Rose PLLC</title>
 
-  <meta name="description" content="Dale R. Rose has the experience &amp; integrity to represent you for your case. Feel free to contact us for a free consultation regarding your claims." >
+  <meta name="description" content="Call Dale Rose for a free consultation about your case (972)-737-1333. Email dale@mckinneylaw.com to file a personal injury claim now for car crash & more." >
+
+  <meta name="keywords" content="contact us for free case review, mckinney auto accident lawyer, work accident attorney, dog bite injury lawyer, specialised personal injury attorney, i need an injury lawyer, personal injury claims, catastrophic injury compensation attorney,  work related injury lawyer near me">
+
 
   <meta property="og:locale" content="en_US">
   <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
   <meta property="og:type" content="Website">
-  <meta property="og:title" content="Dale R. Rose Injury Lawyers | McKinney, TX">
-  <meta property="og:description" content="Dale R. Rose has the experience &amp; integrity to represent you for your case. Feel free to contact us for a free consultation regarding your claims.">
+  <meta property="og:title" content="Contact Us | Dale R. Rose PLLC">
+  <meta property="og:description" content="Call Dale Rose for a free consultation about your case (972)-737-1333. Email dale@mckinneylaw.com to file a personal injury claim now for car crash & more.">
   <meta property="og:url" content="https://roseknowslaw.com/contact-us/">
   <meta property="og:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Dale R. Rose Injury Lawyers | McKinney, TX">
-  <meta name="twitter:description" content="Dale R. Rose has the experience &amp; integrity to represent you for your case. Feel free to contact us for a free consultation regarding your claims.">
+  <meta name="twitter:title" content="Contact Us | Dale R. Rose PLLC">
+  <meta name="twitter:description" content="Call Dale Rose for a free consultation about your case (972)-737-1333. Email dale@mckinneylaw.com to file a personal injury claim now for car crash & more.">
   <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
   <meta name="twitter:url" content="https://roseknowslaw.com/contact-us/">
 

@@ -40,21 +40,24 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
 
-    <title>McKinney Workplace Accident Claims Lawyers | Dale R. Rose</title>
+    <title>Workplace Accident Lawyer | Dale R. Rose PLLC</title>
 
-    <meta name="description" content="Experienced McKinney Workplace Accident Lawyers. Dale Rose works solely for the injured or mistreated, refuses to represent employers or insurance companies." >
+    <meta name="description" content="Do you need a lawyer for a work related injury? Call 972-737-1333 for filing a work accident compensation claim. Free consultation in McKinney, Texas." >
+
+    <meta name="keywords" content="work related accident lawyers near me, how do accident lawyers work, work injury and workers’ compensation lawyers, best work injury lawyers, workers comp lawyer fees, hurt on the job lawyers near me, work related injury lawyer near me">
+
 
     <meta property="og:locale" content="en_US">
     <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
     <meta property="og:type" content="Website">
-    <meta property="og:title" content="McKinney Workplace Accident Claims Lawyers | Dale R. Rose">
-    <meta property="og:description" content="Experienced McKinney Workplace Accident Lawyers. Dale Rose works solely for the injured or mistreated, refuses to represent employers or insurance companies.">
+    <meta property="og:title" content="Workplace Accident Lawyer | Dale R. Rose PLLC">
+    <meta property="og:description" content="Do you need a lawyer for a work related injury? Call 972-737-1333 for filing a work accident compensation claim. Free consultation in McKinney, Texas.">
     <meta property="og:url" content="https://roseknowslaw.com/practice-areas/accident-at-work/">
     <meta property="og:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="McKinney Workplace Accident Claims Lawyers | Dale R. Rose">
-    <meta name="twitter:description" content="Experienced McKinney Workplace Accident Lawyers. Dale Rose works solely for the injured or mistreated, refuses to represent employers or insurance companies.">
+    <meta name="twitter:title" content="Workplace Accident Lawyer | Dale R. Rose PLLC">
+    <meta name="twitter:description" content="Do you need a lawyer for a work related injury? Call 972-737-1333 for filing a work accident compensation claim. Free consultation in McKinney, Texas.">
     <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
     <meta name="twitter:url" content="https://roseknowslaw.com/practice-areas/accident-at-work/">
 

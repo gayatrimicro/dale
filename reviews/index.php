@@ -44,20 +44,26 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" href="assets/images/favicon.ico">
     <link rel="apple-touch-icon" sizes="72x72" href="">
     <link rel="apple-touch-icon" sizes="114x114" href="">
-	<title>Review - Dale R. Rose</title>
+	<title>Testimonials | Dale R. Rose PLLC</title>
 
 
-<meta name="description" content=""/>
-	<link rel="canonical" href="#" />
+    <meta name="description" content="Find out what past clients say about McKinney’s top-rated personal injury attorney, Dale Rose.  Experience integrity & justice. Call for Free Consultation."/>
+	
 	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Forefront - page" />
-	<meta property="og:description" content="" />
-	<meta property="og:url" content="#" />
-	<meta property="og:site_name" content="" />
-	<meta name="twitter:card" content="" />
-	<meta name="twitter:description" content="" />
-	<meta name="twitter:title" content="Forefront" />
+	<meta property="og:type" content="Website" />
+	<meta property="og:title" content="Testimonials | Dale R. Rose PLLC" />
+	<meta property="og:description" content="Find out what past clients say about McKinney’s top-rated personal injury attorney, Dale Rose.  Experience integrity & justice. Call for Free Consultation." />
+	<meta property="og:url" content="https://roseknowslaw.com/reviews/" />
+	<meta property="og:site_name" content="Dale R. Rose PLLC" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:description" content="Find out what past clients say about McKinney’s top-rated personal injury attorney, Dale Rose.  Experience integrity & justice. Call for Free Consultation." />
+	<meta name="twitter:title" content="Testimonials | Dale R. Rose PLLC" />
+    <meta name="twitter:url" content="https://roseknowslaw.com/reviews/">
+
+    <meta name="robots" content="index, follow" />
+
+    <link rel="canonical" href="https://roseknowslaw.com/reviews/">
+    <link rel="alternate" href="https://roseknowslaw.com/reviews/" hreflang="en-us" />
 
 
 		<style type="text/css">

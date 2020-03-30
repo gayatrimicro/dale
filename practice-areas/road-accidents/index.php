@@ -40,21 +40,24 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
 
-    <title>Dale R. Rose | Car Accident Lawyer | McKinney, Texas </title>
+    <title>Road Accident Lawyer | Dale R. Rose PLLC</title>
 
-    <meta name="description" content="As experienced McKinney Car Accident Lawyer, Dale Rose is committed to supporting who have been injured on the roads." >
+    <meta name="description" content="Hire a car and truck accident lawyer today for your road accident injury claim in mckinney texas. We fight for our people against wrongdoers for justice." >
+
+    <meta name="keywords" content="auto accident lawyer, local accident attorney, mckinney truck accident lawyer, skilled legal representation in texas, whiplash injury lawyer, trusted car accident lawyer near you, road accident compensation lawyer, dedicated truck accident lawyer in mckinney">
+
 
     <meta property="og:locale" content="en_US">
     <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
     <meta property="og:type" content="Website">
-    <meta property="og:title" content="Dale R. Rose | Car Accident Lawyer | McKinney, Texas ">
-    <meta property="og:description" content="As experienced McKinney Car Accident Lawyer, Dale Rose is committed to supporting who have been injured on the roads.">
+    <meta property="og:title" content="Road Accident Lawyer | Dale R. Rose PLLC">
+    <meta property="og:description" content="Hire a car and truck accident lawyer today for your road accident injury claim in mckinney texas. We fight for our people against wrongdoers for justice.">
     <meta property="og:url" content="https://www.roseknowslaw.com/practice-areas/road-accidents/">
     <meta property="og:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Dale R. Rose | Car Accident Lawyer | McKinney, Texas">
-    <meta name="twitter:description" content="As experienced McKinney Car Accident Lawyer, Dale Rose is committed to supporting who have been injured on the roads.">
+    <meta name="twitter:title" content="Road Accident Lawyer | Dale R. Rose PLLC">
+    <meta name="twitter:description" content="Hire a car and truck accident lawyer today for your road accident injury claim in mckinney texas. We fight for our people against wrongdoers for justice.">
     <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
     <meta name="twitter:url" content="https://www.roseknowslaw.com/practice-areas/road-accidents/">
 

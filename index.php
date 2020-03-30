@@ -42,21 +42,24 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
           href="">
     
 
-    <title>Dale R. Rose, PLLC: Personal Injury Lawyer in McKinney TX</title>
+    <title>McKinney Personal Injury Lawyer | Dale Rose. PLLC</title>
 
-    <meta name="description" content="Dale R. Rose is an experienced Personal injury lawyer. Specialized in Personal Injury Claims, Car Wrecks, Truck Wrecks, Construction Accidents and more." >
+    <meta name="description" content="Get a free consultation from the best personal injury attorney in McKinney, Texas. Car wreck, semi crash, & serious accident lawyer who’ll help you find justice." >
+
+    <meta name="keywords" content="McKinney personal injury attorneys, trip and fall injury attorney, car crash law firms, accident lawyer near me, workplace injury lawyers near me, dog bites child law, injury claim lawyer, catastrophic injury law firm, pedestrian accident attorney, wrongful death compensation lawyer">
+
 
     <meta property="og:locale" content="en_US">
     <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
     <meta property="og:type" content="Website">
-    <meta property="og:title" content="Dale R. Rose, PLLC: Personal Injury Lawyer in McKinney TX">
-    <meta property="og:description" content="Dale R. Rose is an experienced Personal injury lawyer. Specialized in Personal Injury Claims, Car Wrecks, Truck Wrecks, Construction Accidents and more.">
+    <meta property="og:title" content="McKinney Personal Injury Lawyer | Dale Rose. PLLC">
+    <meta property="og:description" content="Get a free consultation from the best personal injury attorney in McKinney, Texas. Car wreck, semi crash, & serious accident lawyer who’ll help you find justice.">
     <meta property="og:url" content="https://roseknowslaw.com/">
     <meta property="og:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Dale R. Rose, PLLC: Personal Injury Lawyer in McKinney TX">
-    <meta name="twitter:description" content="Dale R. Rose is an experienced Personal injury lawyer. Specialized in Personal Injury Claims, Car Wrecks, Truck Wrecks, Construction Accidents and more.">
+    <meta name="twitter:title" content="McKinney Personal Injury Lawyer | Dale Rose. PLLC">
+    <meta name="twitter:description" content="Get a free consultation from the best personal injury attorney in McKinney, Texas. Car wreck, semi crash, & serious accident lawyer who’ll help you find justice.">
     <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
     <meta name="twitter:url" content="https://roseknowslaw.com/">
 

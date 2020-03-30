@@ -40,21 +40,24 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
 
-    <title>Best Personal Injury Lawyer | Dale R. Rose | McKinney, TX</title>
+    <title>McKinney Personal Injury Attorney | Dale R. Rose PLLC</title>
 
-    <meta name="description" content="Dale has been working on personal injury cases for the past 23 years &amp; how to maximize your damages. Give him a call @ (972) 737-1333" >
+    <meta name="description" content="We fight for the recovery of all personal injury victims. Schedule a free consultation to discuss your case. Email Us dale@mckinneylaw.com for legal help." >
+
+    <meta name="keywords" content="experienced injury attorney, legal compensation for injury victims, accident lawyers near mckinney, personal injury claim, truck wreck, 18 wheeler crash lawyer, burn injury law firm, best injury lawyer near me ">
+
 
     <meta property="og:locale" content="en_US">
     <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
     <meta property="og:type" content="Website">
-    <meta property="og:title" content="Best Personal Injury Lawyer | Dale R. Rose | McKinney, TX">
-    <meta property="og:description" content="Dale has been working on personal injury cases for the past 23 years &amp; how to maximize your damages. Give him a call @ (972) 737-1333">
+    <meta property="og:title" content="McKinney Personal Injury Attorney | Dale R. Rose PLLC">
+    <meta property="og:description" content="We fight for the recovery of all personal injury victims. Schedule a free consultation to discuss your case. Email Us dale@mckinneylaw.com for legal help.">
     <meta property="og:url" content="https://www.roseknowslaw.com/practice-areas/personal-injury/">
     <meta property="og:image" content="">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Best Personal Injury Lawyer | Dale R. Rose | McKinney, TX">
-    <meta name="twitter:description" content="Dale has been working on personal injury cases for the past 23 years &amp; how to maximize your damages. Give him a call @ (972) 737-1333">
+    <meta name="twitter:title" content="McKinney Personal Injury Attorney | Dale R. Rose PLLC">
+    <meta name="twitter:description" content="We fight for the recovery of all personal injury victims. Schedule a free consultation to discuss your case. Email Us dale@mckinneylaw.com for legal help.">
     <meta name="twitter:image" content="">
     <meta name="twitter:url" content="https://www.roseknowslaw.com/practice-areas/personal-injury/">
 

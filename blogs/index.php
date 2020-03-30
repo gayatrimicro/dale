@@ -44,19 +44,22 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     
     <title>Blog | Dale R. Rose</title>
 
-    <meta name="description" content="" >
+    <meta name="description" content="Read the latest personal injury news &amp; legal articles from filing a claim to getting the compensation you deserve. Educate yourself about the law." >
+
+    <meta name="keywords" content="work accident attorney, dog bite injury lawyer, specialised personal injury attorney, i need an injury lawyer, personal injury claims, when to hire a personal injury attorney, eligibility for personal injury claim, car accident and auto injury lawyer, catastrophic injury compensation attorney">
+
 
     <meta property="og:locale" content="en_US">
     <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
     <meta property="og:type" content="Blog">
     <meta property="og:title" content="Blog | Dale R. Rose">
-    <meta property="og:description" content="">
+    <meta property="og:description" content="Read the latest personal injury news &amp; legal articles from filing a claim to getting the compensation you deserve. Educate yourself about the law.">
     <meta property="og:url" content="https://roseknowslaw.com/blogs/">
     <meta property="og:image" content="https://roseknowslaw.com/assets/images/blog-banner-reason-to-hire.jpg">
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Blog | Dale R. Rose">
-    <meta name="twitter:description" content="">
+    <meta name="twitter:description" content="Read the latest personal injury news &amp; legal articles from filing a claim to getting the compensation you deserve. Educate yourself about the law.">
     <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/blog-banner-reason-to-hire.jpg">
     <meta name="twitter:url" content="https://roseknowslaw.com/blogs/">
 

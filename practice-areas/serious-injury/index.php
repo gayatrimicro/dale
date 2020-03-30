@@ -39,21 +39,24 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="72x72" href="">
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
-    <title>Serious Injury Lawyers | Dale R. Rose | McKinney, TX</title>
+    <title>Serious Injury Lawyers | Dale R. Rose PLLC</title>
 
-    <meta name="description" content="Our Serious Injury Lawyers work with specialists to quickly establish how the injury has affected you or your loved one." >
+    <meta name="description" content="With the experience of 155 first-chair jury trials &amp; 25 years, Dale Rose will help you win the best settlement for your case. Personal Injury Expert." >
+
+    <meta name="keywords" content="personal injury claim settlement, mckinney personal injury attorney, work accident lawyer, pedestrian accidents, construction accidents, drunk driving accidents, spinal cord & brain injuries, burn injuries lawyer">
+
 
     <meta property="og:locale" content="en_US">
     <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
     <meta property="og:type" content="Website">
-    <meta property="og:title" content="Serious Injury Lawyers | Dale R. Rose | McKinney, TX">
-    <meta property="og:description" content="Our Serious Injury Lawyers work with specialists to quickly establish how the injury has affected you or your loved one.">
+    <meta property="og:title" content="Serious Injury Lawyers | Dale R. Rose PLLC">
+    <meta property="og:description" content="With the experience of 155 first-chair jury trials &amp; 25 years, Dale Rose will help you win the best settlement for your case. Personal Injury Expert.">
     <meta property="og:url" content="https://www.roseknowslaw.com/practice-areas/serious-injury/">
     <meta property="og:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Serious Injury Lawyers | Dale R. Rose | McKinney, TX">
-    <meta name="twitter:description" content="Our Serious Injury Lawyers work with specialists to quickly establish how the injury has affected you or your loved one.">
+    <meta name="twitter:title" content="Serious Injury Lawyers | Dale R. Rose PLLC">
+    <meta name="twitter:description" content="With the experience of 155 first-chair jury trials &amp; 25 years, Dale Rose will help you win the best settlement for your case. Personal Injury Expert.">
     <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
     <meta name="twitter:url" content="https://www.roseknowslaw.com/practice-areas/serious-injury/">
 

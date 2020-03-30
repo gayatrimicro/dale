@@ -42,21 +42,24 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="72x72" href="">
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
-    <title>Dale R. Rose | Personal Injury Attorney | McKinney, TX</title>
+    <title>Who We Are | Dale R. Rose PLLC</title>
 
-    <meta name="description" content="Dale R. Rose is an experienced personal injury trial attorney, with over 150 first chair jury trials to date. One of texas's leading personal injury law firm." >
+    <meta name="description" content="Dale Rose is a champion of people who has been fighting for them since 25 years. He cares about helping you get the best compensation for your injuries." >
+
+    <meta name="keywords" content="accomplished accident lawyer, personal injury tort, serious injury litigation, negligence attorney, truck accident claim, wrongful death claims, texas auto accident lawyer, personalized legal services, defective product lawsuit">
+
 
     <meta property="og:locale" content="en_US">
     <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
     <meta property="og:type" content="Website">
-    <meta property="og:title" content="Dale R. Rose | Personal Injury Attorney | McKinney, TX">
-    <meta property="og:description" content="Dale R. Rose is an experienced personal injury trial attorney, with over 150 first chair jury trials to date. One of texas's leading personal injury law firm.">
+    <meta property="og:title" content="Who We Are | Dale R. Rose PLLC">
+    <meta property="og:description" content="Dale Rose is a champion of people who has been fighting for them since 25 years. He cares about helping you get the best compensation for your injuries.">
     <meta property="og:url" content="https://roseknowslaw.com/about-us/">
     <meta property="og:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
 
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Dale R. Rose | Personal Injury Attorney | McKinney, TX">
-    <meta name="twitter:description" content="Dale R. Rose is an experienced personal injury trial attorney, with over 150 first chair jury trials to date. One of texas's leading personal injury law firm.">
+    <meta name="twitter:card" content="sWho We Are | Dale R. Rose PLLCummary">
+    <meta name="twitter:title" content="">
+    <meta name="twitter:description" content="Dale Rose is a champion of people who has been fighting for them since 25 years. He cares about helping you get the best compensation for your injuries.">
     <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
     <meta name="twitter:url" content="https://roseknowslaw.com/about-us/">
 

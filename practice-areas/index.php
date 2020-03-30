@@ -39,21 +39,24 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
 
-    <title>Practice Areas | Personal Injury Lawyer | Dale R. Rose</title>
+    <title>Practice Areas | Dale R. Rose PLLC</title>
 
-    <meta name="description" content="Dale’s areas of practice are personal &amp; workplace injury, trucking accidents, wrongful death, business representation, &amp; non-subscriber representation." >
+    <meta name="description" content="Areas of practice for McKinney, Texas personal injury lawyer. Call 972-737-1333 for a free consultation 24/7. We help those who are in need, to find justice." >
+
+    <meta name="keywords" content="road accidents, wrongful death, slip-and-fall injuries, falling object injuries, product liability, workers compensation attorney, dog bites, catastrophic injuries, distracted driver accidents, truck accidents">
+
 
     <meta property="og:locale" content="en_US">
     <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
     <meta property="og:type" content="Website">
-    <meta property="og:title" content="Practice Areas | Personal Injury Lawyer | Dale R. Rose">
-    <meta property="og:description" content="Dale’s areas of practice are personal &amp; workplace injury, trucking accidents, wrongful death, business representation, &amp; non-subscriber representation.">
+    <meta property="og:title" content="Practice Areas | Dale R. Rose PLLC">
+    <meta property="og:description" content="Areas of practice for McKinney, Texas personal injury lawyer. Call 972-737-1333 for a free consultation 24/7. We help those who are in need, to find justice.">
     <meta property="og:url" content="https://www.roseknowslaw.com/practice-areas/">
     <meta property="og:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Practice Areas | Personal Injury Lawyer | Dale R. Rose">
-    <meta name="twitter:description" content="Dale’s areas of practice are personal &amp; workplace injury, trucking accidents, wrongful death, business representation, &amp; non-subscriber representation.">
+    <meta name="twitter:title" content="Practice Areas | Dale R. Rose PLLC">
+    <meta name="twitter:description" content="Areas of practice for McKinney, Texas personal injury lawyer. Call 972-737-1333 for a free consultation 24/7. We help those who are in need, to find justice.">
     <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
     <meta name="twitter:url" content="https://www.roseknowslaw.com/practice-areas/">
 

@@ -39,21 +39,33 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" href="../assets/images/favicon.ico">
     <link rel="apple-touch-icon" sizes="72x72" href="">
     <link rel="apple-touch-icon" sizes="114x114" href="">
-    <title>Frequently Asked Questions - Dale R. Rose</title>
+    
+
+    <title>FAQs | Dale R. Rose PLLC</title>
+
+    <meta name="description" content="Find answers to all your doubts with this comprehensive list of questions about everything personal injury claims. We’re happy to help!" >
+
+    <meta name="keywords" content="how do i file a personal injury lawsuit, personal injury lawyer cost, workers’ compensation for personal injury, how long does it take to settle a personal injury case, what is the likelihood that my case will go trial, what to do after car accident">
 
 
+    <meta property="og:locale" content="en_US">
+    <meta name="og:site_name" content="Dale R. Rose PLLC"/>
+    <meta property="og:type" content="Website">
+    <meta property="og:title" content="FAQs | Dale R. Rose PLLC">
+    <meta property="og:description" content="Find answers to all your doubts with this comprehensive list of questions about everything personal injury claims. We’re happy to help!">
+    
+    <meta property="og:url" content="https://roseknowslaw.com/faq/">
 
-    <meta name="description" content=""/>
-    <link rel="canonical" href="#" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Forefront - page" />
-    <meta property="og:description" content="" />
-    <meta property="og:url" content="#" />
-    <meta property="og:site_name" content="" />
-    <meta name="twitter:card" content="" />
-    <meta name="twitter:description" content="" />
-    <meta name="twitter:title" content="Forefront" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="FAQs | Dale R. Rose PLLC">
+    <meta name="twitter:description" content="Find answers to all your doubts with this comprehensive list of questions about everything personal injury claims. We’re happy to help!">
+    
+    <meta name="twitter:url" content="https://roseknowslaw.com/faq/">
+
+    <meta name="robots" content="index, follow" />
+
+    <link rel="canonical" href="https://roseknowslaw.com/faq/">
+    <link rel="alternate" href="https://roseknowslaw.com/faq/" hreflang="en-us" />
 
 
         <style type="text/css">
