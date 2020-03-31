@@ -5,7 +5,7 @@
           display:none;
           position:absolute;
           width:250px;
-          margin-top: 20px !important;
+          margin-top: 0px !important;
           border: thin solid #000;
           padding: 0px 0px 0px 0px !important;
         }   
@@ -87,6 +87,7 @@
                             <li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348">
                                 <a href="https://roseknowslaw.com/practice-areas">Practice Areas</a>
                                 <ul id="p-area">
+                                    
                                   <li><a href="https://roseknowslaw.com/practice-areas/personal-injury/">PERSONAL INJURY</a></li>
                                   <li><a href="https://roseknowslaw.com/practice-areas/road-accidents/">ROAD ACCIDENTS</a></li>
                                   <li><a href="https://roseknowslaw.com/practice-areas/accident-at-work/">ACCIDENT AT WORK</a></li>
