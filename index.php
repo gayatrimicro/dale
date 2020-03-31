@@ -111,7 +111,7 @@ img.emoji {
 
 <link rel='stylesheet' id='custom-scroll-styles-css'  href='assets/css/jquery.mCustomScrollbar.css' type='text/css' media='all' />
 
-<link rel='stylesheet' id='cli-styles-css'  href='assets/style.css?1' type='text/css' media='all' />
+<link rel='stylesheet' id='cli-styles-css'  href='assets/css/style.css' type='text/css' media='all' />
 
 
 

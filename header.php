@@ -101,9 +101,11 @@
                                     $('#menu-item-348').hover(
                                       function() {
                                         $('#p-area',this).stop().slideDown(200);
+                                        document.getElementById("dale").style.display = "none";
                                       },
                                       function() {
                                         $('#p-area',this).stop().slideUp(200);
+                                        document.getElementById("dale").style.display = "block";
                                       }
                                     );
                                 </script>
