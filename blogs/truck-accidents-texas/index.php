@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
 <head>
    
@@ -42,32 +42,30 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="72x72" href="">
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
-    <title>Blog | Dale R. Rose</title>
+    <title>The Rise of Truck Accidents in Texas</title>
 
-    <meta name="description" content="Read the latest personal injury news &amp; legal articles from filing a claim to getting the compensation you deserve. Educate yourself about the law." >
-
-    <meta name="keywords" content="work accident attorney, dog bite injury lawyer, specialised personal injury attorney, i need an injury lawyer, personal injury claims, when to hire a personal injury attorney, eligibility for personal injury claim, car accident and auto injury lawyer, catastrophic injury compensation attorney">
-
+    <meta name="description" content="Learn more about when to see the dog bite attorney &amp; how to prove the liability in a dog bite case. Our experienced attorneys can help. Free Consultation." >
 
     <meta property="og:locale" content="en_US">
     <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
     <meta property="og:type" content="Blog">
-    <meta property="og:title" content="Blog | Dale R. Rose">
-    <meta property="og:description" content="Read the latest personal injury news &amp; legal articles from filing a claim to getting the compensation you deserve. Educate yourself about the law.">
-    <meta property="og:url" content="https://roseknowslaw.com/blogs/">
-    <meta property="og:image" content="https://roseknowslaw.com/assets/images/blog-banner-reason-to-hire.jpg">
+    <meta property="og:title" content="When to see a dog bite attorney">
+    <meta property="og:description" content="Learn more about when to see the dog bite attorney &amp; how to prove the liability in a dog bite case. Our experienced attorneys can help. Free Consultation.">
+    <meta property="og:url" content="https://roseknowslaw.com/blogs/dog-bite-attorney/">
+    <meta property="og:image" content="https://roseknowslaw.com/assets/images/blog-banner1.jpg">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Blog | Dale R. Rose">
-    <meta name="twitter:description" content="Read the latest personal injury news &amp; legal articles from filing a claim to getting the compensation you deserve. Educate yourself about the law.">
-    <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/blog-banner-reason-to-hire.jpg">
-    <meta name="twitter:url" content="https://roseknowslaw.com/blogs/">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:title" content="When to see a dog bite attorney">
+    <meta name="twitter:description" content="Learn more about when to see the dog bite attorney &amp; how to prove the liability in a dog bite case. Our experienced attorneys can help. Free Consultation.">
+    <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/blog-banner1.jpg">
+    <meta name="twitter:url" content="https://roseknowslaw.com/blogs/dog-bite-attorney/">
 
 
     <meta name="robots" content="index, follow" />
 
-    <link rel="canonical" href="https://roseknowslaw.com/blogs/">
-    <link rel="alternate" href="https://roseknowslaw.com/blogs/" hreflang="en-us" />
+    <link rel="canonical" href="https://roseknowslaw.com/blogs/dog-bite-attorney/">
+    <link rel="alternate" href="https://roseknowslaw.com/blogs/dog-bite-attorney/" hreflang="en-us" />
 
 
         <style type="text/css">
@@ -138,8 +136,14 @@ img.emoji {
         </script>
         
            <style>
+           .container a{
+            text-decoration: underline;
+        }
+        #qLtempOverlay{
+            display: none !important;
+        }
         #banner {
-            background-image: url(../assets/images/mobile-blog-main-banner1.jpg);
+            background-image: url(../../assets/images/mobile-blog-dig-bite.jpg);
         }
         #header{
             background-color: #F2B90C;
@@ -154,7 +158,7 @@ img.emoji {
 
         @media (min-width: 1024px) {
             #banner {
-                background-image: url(../assets/images/blog-main-banner1.jpg);
+                background-image: url(../../assets/images/blog-texas-accident.jpg);
             }
         }
     
@@ -209,13 +213,7 @@ img.emoji {
                 margin-bottom: 0px;
             }
         }
-        .mob-display-n{
-           display: block;
-        }
         @media (max-width: 600px) and (min-width: 480px) {
-            .mob-display-n{
-               display: none;
-            }
             .banner-text{
                 width: 100% !important;
                 float: right;
@@ -244,10 +242,6 @@ img.emoji {
                 text-align: justify !important;
                 font-size: 2.4rem;
             }
-            .mob-content{
-
-                    padding: 20px;
-            }
             .mob-content h4 {
                 font-size: 2.4rem !important;
                 font-variant-numeric: lining-nums;
@@ -257,55 +251,6 @@ img.emoji {
                 margin-bottom: 0px;
             }
         }
-        /*a{
-            text-decoration: underline;
-        }*/
-
-
-
-
-        @media (min-width: 1280px){
-            .latest-forefront .post-entry:nth-child(2) .col-xl-6:first-child{
-                    order: 0;
-            }
-        }
-        .latest-forefront .post-entry:not(:last-child){
-            margin-bottom: 40px;
-        }
-        .box-shadow{
-            padding: 15px 0px;
-            box-shadow: 0 1px 16px #ccc;
-        }
-        .box-shadow:hover{
-            box-shadow: 0 1px 16px #7b7b7b
-        }
-        .heading-blog{
-            color: #005153;
-            margin-bottom: 15px;
-        }
-        .divider-line{
-            width: 20%;
-            float: left;
-        }
-        .description-content{
-            margin-bottom: 10px;
-            margin-top: 15px;
-        }
-        .btn-blog{
-            margin: 0px !important;
-            padding: 6px !important;
-            width: 50% !important; 
-        }
-        
-
-        @media (max-width: 600px){
-            .container-fluid {
-                padding-left: 10px;
-                padding-right: 10px;
-            }
-        }
-
-        
     </style>
 
 <script type="application/ld+json"> 
@@ -337,7 +282,7 @@ img.emoji {
           "faxNumber" : "(972) 569-9278",
           "email" : "dale@mckinneylaw.com"
           },
-      "image": "https://roseknowslaw.com/assets/images/injury_lawyer.jpg",
+      "image": "https://roseknowslaw.com/assets/images/blog-banner1.jpg",
       "priceRange": "$$$" 
     }
     ]
@@ -345,37 +290,46 @@ img.emoji {
 </script>
 	
 	<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "LegalService",
-  "name": "Dale R. Rose, PLLC",
-  "description": "Dale R. Rose is an experienced Personal injury lawyer. Specialized in Personal Injury Claims, Car Wrecks, Truck Wrecks, Construction Accidents and more.",
-  "url": "https://roseknowslaw.com/",
-  "image": "https://roseknowslaw.com/assets/images/dale-rose-new.jpg",
-  "priceRange": "$1",
-  "telephone": "(972) 737-1333",
-  "email": "dale@mckinneylaw.com",
-  "hasMap": "https://g.page/RoseKnowsLaw?share",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "McKinney",
-    "addressRegion": "TX",
-    "postalCode": "75071",
-    "streetAddress": "2780 Virginia, Pkwy #401"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "33.199350",
-    "longitude": "-96.653860"
-  },
-  "sameAs": [
-    "https://www.facebook.com/RoseKnowsLaw/",
-    "https://twitter.com/RoseInjuryLaw"
-  ],
-  "openingHours": "Mo,Tu,We,Th,Fr, 08:30 AM-06:00 PM"
-}
+	{
+	  "@context": "http://schema.org",
+	  "@type": "LegalService",
+	  "name": "Dale R. Rose, PLLC",
+	  "description": "Dale R. Rose is an experienced Personal injury lawyer. Specialized in Personal Injury Claims, Car Wrecks, Truck Wrecks, Construction Accidents and more.",
+	  "url": "https://roseknowslaw.com/",
+	  "image": "https://roseknowslaw.com/assets/images/dale-rose-new.jpg",
+	  "priceRange": "$1",
+	  "telephone": "(972) 737-1333",
+	  "email": "dale@mckinneylaw.com",
+	  "hasMap": "https://g.page/RoseKnowsLaw?share",
+	  "address": {
+		"@type": "PostalAddress",
+		"addressLocality": "McKinney",
+		"addressRegion": "TX",
+		"postalCode": "75071",
+		"streetAddress": "2780 Virginia, Pkwy #401"
+	  },
+	  "geo": {
+		"@type": "GeoCoordinates",
+		"latitude": "33.199350",
+		"longitude": "-96.653860"
+	  },
+	  "sameAs": [
+		"https://www.facebook.com/RoseKnowsLaw/",
+		"https://twitter.com/RoseInjuryLaw"
+	  ],
+	  "openingHours": "Mo,Tu,We,Th,Fr, 08:30 AM-06:00 PM"
+	}
 </script>
-
+<style type="text/css">
+    .blog-imgs{
+        padding: 3rem 5rem !important;
+    }
+    @media (max-width: 600px){
+        .blog-imgs{
+            padding: 1rem 0rem !important;
+        }
+    }
+</style>
     </head>
 <body class="page-template page-template-templates page-template-template-forefront page-template-templatestemplate-forefront-php page page-id-339 loading interior">
 
@@ -400,7 +354,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-    <?php include '../header.php';?>
+    <?php include '../../header.php';?>
 
 
     <!-- #header -->    <section id="banner">
@@ -423,170 +377,268 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="page-title highlight-text">
                 <span class="txt-block  animate-1"></span>
             </div>
-        </div>
-    </section> --><!-- .spotlight -->
+        </div> -->
+    </section><!-- .spotlight -->
             <section class="latest-forefront content-block white-module no-paddingbottom-module">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-xl-8 col-sm-12">
-                    <div class="row justify-content-center stand-heading">
-                    <h1>Blog</h1>
+            <div class="container">
+                <div class="row justify-content-center stand-heading">
+                    <h1  style="text-transform: none;">The Rise of Truck Accidents in Texas</h1>
                     <div class="col-xl-12 col-md-11 test-center">
-                       <!--  <h2>It is likely that when you think of a personal injury attorney, that you think of the giant billboards down the highway telling you “18- WHEELER ACCIDENT, CALL NOW!” or you think of the radio and tv commercials of injury attorneys named after work tools. What you probably haven’t realized yet, is that as <a href="https://roseknowslaw.com/practice-areas/personal-injury/"> Personal Injury Attorney’s </a>we represent individuals beyond <a href="https://roseknowslaw.com/practice-areas/road-accidents/"> car accidents</a>. Such as:</h2>
-<p>&nbsp;</p>
-<p>&nbsp;</p> -->
-                    </div>
-                </div>
-                <div class="container-fluid">
-                    <div class="row ">
+                       <!-- <h3>Dale Rose is a leading personal injury lawyer in the U.S. Understanding the benefits of hiring a personal injury lawyer helps in making the right decision to help your case.</h3><br>-->
+                        <h3>What happens when you find out that your family member has been injured and hospitalized due to a truck accident? </h3>
+
+                        <h3>You panic and you don’t know who to turn to. The first and foremost thought in your head is - Are they safe? How badly were they injured? How did this happen? Why did it happen to your loved one? And lastly, who will help you get the justice you deserve?
+                        </h3>
                         
 
-
-                        <div class="post-entry col-12">
-                            <div class="row align-items-center box-shadow">
-                                <div class="col-12 col-xl-4">
-                                    <div class="media-wrap  burn-anime">
-                                        <a href="#"><img src="../assets/images/blog-truck-accident-with-car.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="When to see a dog bite attorney" /></a>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-xl-8">
-                                    <div class="content">
-                                        <div class="mob-content" style="padding: 20px;">
-                                        <h2 class="font-header heading-blog">The Rise of Truck Accidents in Texas </h2>
-                                            <hr class="divider-line"><br>
-                                            <h4 class="t-justify description-content">What happens when you find out that your family member has been injured and hospitalized due to a truck accident? </h4>
-
-                                            <a href="truck-accidents-texas/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        <img src="../../assets/images/blog-truck-accident.jpg" class="blog-imgs"><br>
 
 
+                        <h3>18-wheelers aren’t a new thing to happen to the USA. Trucks are vital to the country’s economy & play an irreplaceable role in the last mile delivery in the supply chain. When we look at a truck, we see a huge intimidating vehicle which is the cause of 
+                        <a href="https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812663">621 crashes in Texas involving large trucks in 2017 </a> (the highest in the country). 
 
-
-
-
-                        <div class="post-entry col-12">
-                            <div class="row align-items-center box-shadow">
-                                <div class="col-12 col-xl-4">
-                                    <div class="media-wrap  burn-anime">
-                                        <a href="#"><img src="../assets/images/blog-dog-bite.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="When to see a dog bite attorney" /></a>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-xl-8">
-                                    <div class="content">
-                                        <div class="mob-content" style="padding: 20px;">
-                                        <h2 class="font-header heading-blog">When to See a Dog-bite Attorney</h2>
-                                            <hr class="divider-line"><br>
-                                            <h4 class="t-justify description-content">Reach a qualified dog bite attorney to make sure your rights are safeguarded. The sooner after the bite occurs that you contact an attorney, the better your chances are for recovery.</h4>
-
-                                            <a href="dog-bite-attorney/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="post-entry col-12">
-                            <div class="row align-items-center box-shadow">
-                                <div class="col-12 col-xl-4">
-                                    <div class="media-wrap  burn-anime">
-                                        <a href="#"><img src="../assets/images/blog-reason-to-hire.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Benefits of Hiring a Personal Injury Lawyer" /></a>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-xl-8">
-                                    <div class="content">
-                                        <div class="mob-content" style="padding: 20px;">
-                                        <h2 class="font-header heading-blog">Benefits of Hiring a Personal Injury Lawyer</h2>
-                                            <hr class="divider-line"><br>
-                                            <h4 class="t-justify description-content">Dale Rose is a leading personal injury lawyer in the U.S. Understanding the benefits of hiring a personal injury lawyer helps in making the right decision to help your case.</h4>
- 
-                                            <a href="benefits-of-hiring-personal-injury-lawyer/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="post-entry col-12">
-                            <div class="row align-items-center  box-shadow">
-                                <div class="col-12 col-xl-4">
-                                    <div class="media-wrap  burn-anime">
-                                        <a href="#"><img src="../assets/images/blog-car-accident.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Reasons to hire personal injury attorney" /></a>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-xl-8">
-                                    <div class="content">
-                                        <div class="mob-content" style="padding: 20px;">
-                                        <h2 class="font-header heading-blog">Reasons to Hire a Personal Injury Attorney</h2>
-                                            <hr class="divider-line"><br>
-                                            <h4 class="t-justify description-content">Learn when to Hire an Experienced Personal Injury Attorney to make the best decisions on your behalf &amp; ensure that you are compensated for your injuries.</h4>
-
-                                            <a href="reasons-to-hire-personal-injury-attorney/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a> 
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        </h3>
                         
 
-
-                                    </div>
-                                    
-                                    </div>
-
-
-
-            </div>
-
-
-
-                    <div class="col-xl-4 mob-display-n">
-                       <h2 class="font-header" style="color: #005153;">Recent posts</h2>
-                       <hr>
-                                    <h3 class="font-header" style="color: #005153;padding: 10px 0;">
-                                        <a href="truck-accidents-texas/">
-                                           The Rise of Truck Accidents in Texas
-                                        </a>
-                                    </h3>
-                                    <hr>
-                                    <h3 class="font-header" style="color: #005153;padding: 10px 0;">
-                                        <a href="dog-bite-attorney/">
-                                            When to See a Dog-bite Attorney
-                                        </a>
-                                    </h3>
-                                    <hr>
-                                    <h3 class="font-header" style="color: #005153;padding: 10px 0;">
-                                        <a href="benefits-of-hiring-personal-injury-lawyer/">
-                                            Benefits of Hiring Personal Injury Lawyer
-                                        </a>
-                                    </h3>
-                                    <hr>
-                                    <h3 class="font-header" style="color: #005153;padding: 10px 0;">
-                                        <a href="reasons-to-hire-personal-injury-attorney/">
-                                            Why should I hire Personal Injury Lawyer
-                                        </a>
-                                    </h3>
-                                    
                     </div>
                 </div>
-                
             </div>
-            
+            <div class="container">
+                <div class="row ">
 
 
-                                    <br><br><br>
-                                    <!-- <div class="row">
-                                        <h4 class="t-justify">Regardless of the type of injury you suffered, our firm is here to <a href="https://roseknowslaw.com/contact-us/"> help you</a> and your family through the stress and get a recovery. <br>
-                                        If you have any <a href="https://roseknowslaw.com/faq/"> questions</a> on whether or not we would represent you for your injuries, please do not hesitate to call Dale at <a href="tel:972-562-0266"> 972-562-0266</a>.</h4>
-                                    </div> -->
+                    
+
+
+
+                                            <div class="col-12">
+                            <div class="row align-items-center">
+                                
+                                <div class="col-12 col-xl-12">
+                                    <div class="post-details mob-content" style="margin-bottom: 0px !important;">
+                                    <h2 class="font-header" style="color: #005153;">The Most Recent Case of a Negligent Truck Driver’s Hit-And-Run in Garland, Texas </h2><br>
+                                        
+                                        <h4 class="t-justify">esterday, on 12 March 2020,  a woman who was walking south towards Shiloh Road from the Arapaho Road crosswalk in Garland, Texas suffered a serious injury when a truck crashed into her at around 6.30 am. </h4>
+
+                                        <h4 class="t-justify">The truck was going north towards Shiloh Road and hit her causing her to fall down, while the driver did not stop. 
+                                        </h4>
+
+
+
+                                        <img src="../../assets/images/blog-truck-accident-rash.jpg" class="blog-imgs"><br>
+
+                                        <h4 class="t-justify">This is a case of negligence and improper passing on the truck driver’s part because he ignored the “walk” sign shown by the woman. The 80,000 pound truck crashed into her, leaving her injured.</h4> 
+
+                                        <h4 class="t-justify">This accident was reported by the Dallas Morning News in today’s newspaper. </h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <!-- <div class="col-12">
+                            <div class="row align-items-center">
+                                <div class="col-0 col-xl-3 col-lg-3 col-md-3"></div>
+                                <div class="col-12 col-xl-6 col-lg-6 col-md-6">
+                                    <div class="media-wrap  burn-anime">
+                                        <a href="#"><img width="1060" height="650" src="https://roseknowslaw.com/assets/images/consultation.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Free Consultations" /></a>
+                                    </div>
+                                </div>
+                                <div class="col-0 col-xl-3 col-lg-3 col-md-3"></div>
+
+                                
+                            </div>
+                        </div> -->
+
+
+                                            <div class="col-12">
+                            <div class="row align-items-center">
+                                
+                                <div class="col-12 col-xl-12">
+                                    <div class="post-details mob-content">
+                                        <h2 class="font-header" style="color: #005153;">Common Causes of Truck Accidents </h2><br>
+                                        <h4 class="t-justify">What are the causes of such horrifying accidents involving large trucks in the USA?</h4>
+
+                                        <h4 class="t-justify">Studies find that the most common causes include negligent driving on the part of either the truck drivers or the drivers of other vehicles near any 18-wheeler. Below is a list of the causes -
+                                        </h4>
+                                        <ul>
+                                            <li>Improper Passing or Turn</li>
+                                            <li>Distracted Driving</li>
+                                            <li>Reckless Driving</li>
+                                            <li>Erratic Lane Change</li>
+                                            <li>Speeding</li>
+                                            <li>Driving Under the Influence</li>
+                                            <li>Failure to ObeyTraffic Signals</li>
+                                            <li>Failure to Notice Other Vehicles’ Signals</li>
+                                            <li>Lack of Proper Training to Drive an 18-wheeler</li>
+                                            <li>Time Limits due to Schedules of Trucking Companies which make the driver hurry to reach the destination.</li>
+                                        </ul>
+
+                                                                                    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12">
+                            <div class="row align-items-center">
+                                <style type="text/css">
+                                    table, th, td {
+                                          border: 1px solid black;
+                                          text-align: center;
+                                        }
+                                        table{
+                                            width: 100%;
+                                        }
+                                </style>
+                                <div class="col-12 col-xl-12">
+                                    <div class="post-details mob-content">
+                                    <h2 class="font-header" style="color: #005153;">What Do the Truck Accident Statistics Say?</h2><br>
+                                        
+                                        <h4 class="t-justify">The below given data was obtained from the FHWA report for truck accidents by year from 2013 through 2016.</h4>
+
+                                        <h4 class="t-justify"><strong>Registered Vehicles in the United States, 2013-2016 </strong></h4>
+                                        <div style="overflow-x:auto;">
+                                        <table>
+                                            <tr>
+                                                <th>Years</th>
+                                                <th>2013</th>
+                                                <th>2014</th>
+                                                <th>2015</th>
+                                                <th>2016</th>
+                                            </tr>
+                                            <tr>
+                                                <td>All Vehicles</td>
+                                                <td>255,876,822</td>
+                                                <td>260,350,938</td>
+                                                <td>263,610,219</td>
+                                                <td>268,799,083</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="color: #ff0000;">Large Trucks</td>
+                                                <td style="color: #ff0000;">10,597,356</td>
+                                                <td style="color: #ff0000;">10,905,956</td>
+                                                <td style="color: #ff0000;">11,203,184</td>
+                                                <td style="color: #ff0000;">11,498,561</td>
+                                            </tr>
+                                             <tr>
+                                                <td>Buses</td>
+                                                <td>864,549</td>
+                                                <td>872,027</td>
+                                                <td>888,907</td>
+                                                <td>976,161</td>
+                                            </tr>
+                                        </table>
+                                    </div><br>
+                                    <h4 class="t-justify">Data Source:<strong> Federal Highway Administration (FHWA), Highway Statistics 2016, Table VM-1.</strong>  </h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-12">
+                            <div class="row align-items-center">
+                                
+                                <div class="col-12 col-xl-12">
+                                    <div class="post-details mob-content">
+                                        <h2 class="font-header" style="color: #005153;">What are the types of truck accident crashes?</h2><br>
+                                        <h4 class="t-justify">Below are the  NHTSA Crash Severity Levels: which include fatal, injury, and property-damage-only (PDO) crashes. </h4>
+
+                                        <h4 class="t-justify">Source: <a href="https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812663">https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812663</a></h4>
+                                                   
+                                        <ul>
+                                            <li><strong>Fatal crashes</strong> - in which a person involved in a motor crash died within 30 days of the accident. This involves other non-motorists too.</li>
+
+                                             <img src="../../assets/images/blog-truck-accident-river.jpg" class="blog-imgs"><br>
+
+
+                                            <li><strong>Injury crashes</strong> - in which no one died in the accident but, at least one person was injured in one of the following ways: (1) an incapacitating injury; (2) a visible but not incapacitating injury; (3) a possible, not visible injury; or (4) an injury of unknown severity. </li>
+                                             <img src="../../assets/images/blog-truck-accident-with-car.jpg" class="blog-imgs"><br>
+
+                                            <li><strong>PDO crashes</strong> - The motor vehicles crashed on a trafficway, but no one suffered any injuries.</li>
+                                        </ul>    
+                                        <br>
+                                        <h4 class="t-justify">For more information on crash severity levels, refer to NHTSA’s National Center for Statistics and Analysis (NCSA) Data Resource Web site at:<a href="https://crashstats.nhtsa.dot.gov"> https://crashstats.nhtsa.dot.gov</a></h4>                             
+                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+
+
+                                    <div class="row">
+                                        <div class="col-12">
+                            <div class="row align-items-center">
+                                
+                                <div class="col-12 col-xl-12">
+                                    <div class="post-details mob-content">
+                                    <h2 class="font-header" style="color: #005153;">What Can You Do to be a Responsible Driver?</h2><br>
+                                        
+                                        <h4 class="t-justify">The truck drivers can’t be blamed everytime a truck is involved in an accident. It is the responsibility of other car drivers as well to <a href="https://www.fmcsa.dot.gov/ourroads/tips-driving-safely-around-large-trucks-or-buses">obey all traffic laws and prevent causing an accident.</a> Below are some things you can take care of -</h4>
+
+                                        <ul>
+                                            <li>Don’t drive between two large trucks.</li>
+                                            <li>Don’t try to overtake a large truck, be patient.</li>
+                                            <li>Don’t merge into traffic suddenly, this will cause the truck behind you to come to a halt or swerve.</li>
+                                            <li>Don’t drive too close to the truck in the “No-Zone”. The truck driver can’t see a small vehicle if it is not visible in the side mirror of the large truck.</li>
+                                            <li>Don’t speed up when the truck in front of you is changing lanes or merging into traffic.</li>
+                                            <li>Don’t use any handheld devices while driving or listen to loud music. Your reaction time will be slower.</li>
+                                            <li>Never drink and drive and always use a seatbelt.</li>
+                                            <li>Be patient and never indulge in road rage while driving.</li>
+                                            <li>Always provide the appropriate indicators while turning or stopping on the road.</li>
+                                        </ul>
+                                        <br>
+                                        <h4 class="t-justify">For more information and resources on Driver safety, visit the <a href="https://www.fmcsa.dot.gov/resources-for-drivers">FMCSA (Federal Motor Carrier Safety Administration) website.</a> </h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+
+
+                                    <div class="row">
+                                        <div class="col-12">
+                            <div class="row align-items-center">
+                                
+                                <div class="col-12 col-xl-12">
+                                    <div class="post-details mob-content">
+                                    <h2 class="font-header" style="color: #005153;">What should you do to document the accident?</h2><br>
+                                        
+                                        <h4 class="t-justify">Here’s a list of what to do immediately after you or anyone you know has been in an accident -</h4>
+                                        <ul>
+                                            <li>If you were the one injured in the crash, call 911 immediately to get medical assistance.</li>
+                                            <li>If you are the one who caused the crash, don’t run from the scene. You can be charged with a  hit-and-run if you do. Call 911 and help the victims in any way you can.</li>
+                                            <li>Note down any information which could be used as evidence. This includes - time and day of the accident, how many people were involved, weather conditions, license plates, and the insurance information of all the people involved.</li>
+                                            <li>Move your car to the side of the road if you can and be away from oncoming traffic.</li>
+                                            <li>Name and contact number of any witnesses to the accident.</li>
+                                            <li>Film a video of the wreck and accident location to document injuries, damages, and evidence.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+
+
+
+                                    <div class="row">
+                                        <div class="col-12">
+                            <div class="row align-items-center">
+                                
+                                <div class="col-12 col-xl-12">
+                                    <div class="post-details mob-content">
+                                    <h2 class="font-header" style="color: #005153;">Who should you call for help with how to proceed?</h2><br>
+                                        
+                                        <h4 class="t-justify">You should call your immediate family and ask for their help if you need hospitalization. Most of the accident victims are eligible for compensation if you’re a victim of a truck accident due to negligent driving.</h4>
+                                        <h4 class="t-justify">Always get legal assistance from an experienced truck accident attorney.  They will help you iron out the details to be eligible for personal injury compensation and may also help you manage the medical bills, out-of-pocket costs, and wages lost during recovery.</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
             </div>
         </section><!-- .post-pool -->
                 
@@ -682,7 +734,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<?php include '../footer.php';?>
+<?php include '../../footer.php';?>
 
 
 
