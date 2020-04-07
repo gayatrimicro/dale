@@ -143,7 +143,7 @@ img.emoji {
             display: none !important;
         }
         #banner {
-            background-image: url(../../assets/images/mobile-blog-dig-bite.jpg);
+            background-image: url(../../assets/images/blog-texas-accident.jpg);
         }
         #header{
             background-color: #F2B90C;
