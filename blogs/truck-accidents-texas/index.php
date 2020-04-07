@@ -546,7 +546,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="post-details mob-content">
                                         <h2 class="font-header" style="color: #005153;">What are the types of truck accident crashes?</h2><br>
                                         <h3 class="t-justify">Below are the  NHTSA Crash Severity Levels: which include fatal, injury, and property-damage-only (PDO) crashes. <br>
-                                        Source: <a href="https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812663">https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812663</a></h3>
+                                        Source: <a href="https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812663">https://crashstats.nhtsa.dot.gov /Api/Public/ViewPublication/ 812663</a></h3>
                                                    
                                         <ul>
                                             <li><strong>Fatal crashes</strong> - In which a person involved in a motor crash died within 30 days of the accident. This involves other non-motorists too.</li>
