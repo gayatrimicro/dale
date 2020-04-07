@@ -109,6 +109,15 @@
                                         document.getElementById("dale").style.display = "block";
                                       }
                                     );
+                                    $(document).ready(function(){
+                                         $( "#right-menu-btn" ).click(function() {
+                                          document.getElementById("dale").style.display = "none";
+                                        });
+                                          $( "#right-menu-close-btn" ).click(function() {
+                                          document.getElementById("dale").style.display = "block";
+                                         
+                                        });
+                                     });
                                 </script>
                             </li>
                             <li id="menu-item-368" class="menu-item menu-item-type-taxonomy menu-item-object-forefront-category menu-item-368">
@@ -122,7 +131,7 @@
                     
                     <a href="tel:(972) 737-1333" class="phone-number">(972) 737-1333</a>
                     <div class="overlay-right"></div>
-                    <div class="nav-trigger right-menu-trig">
+                    <div class="nav-trigger right-menu-trig" id="right-menu-btn">
                         <div class="burger">
                             <span class="line1"></span>
                             <span class="line2"></span>
@@ -131,7 +140,7 @@
                     </div>
 
                     <div class="slide-in-menu">
-                        <div class="nav-trigger right-menu-close">
+                        <div class="nav-trigger right-menu-close" id="right-menu-close-btn">
                             <div class="close-btn">
                                 <span class="line1"></span>
                                 <span class="line2"></span>

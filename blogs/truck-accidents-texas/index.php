@@ -418,18 +418,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="post-details mob-content" style="margin-bottom: 0px !important;">
                                     <h2 class="font-header" style="color: #005153;">The Most Recent Case of a Negligent Truck Driver’s Hit-And-Run in Garland, Texas </h2><br>
                                         
-                                        <h4 class="t-justify">esterday, on 12 March 2020,  a woman who was walking south towards Shiloh Road from the Arapaho Road crosswalk in Garland, Texas suffered a serious injury when a truck crashed into her at around 6.30 am. </h4>
+                                        <h3 class="t-justify">Yesterday, on 12 March 2020,  a woman who was walking south towards Shiloh Road from the Arapaho Road crosswalk in Garland, Texas suffered a serious injury when a truck crashed into her at around 6.30 am. </h3>
 
-                                        <h4 class="t-justify">The truck was going north towards Shiloh Road and hit her causing her to fall down, while the driver did not stop. 
-                                        </h4>
+                                        <h3 class="t-justify">The truck was going north towards Shiloh Road and hit her causing her to fall down, while the driver did not stop. 
+                                        </h3>
 
 
 
                                         <img src="../../assets/images/blog-truck-accident-rash.jpg" class="blog-imgs"><br>
 
-                                        <h4 class="t-justify">This is a case of negligence and improper passing on the truck driver’s part because he ignored the “walk” sign shown by the woman. The 80,000 pound truck crashed into her, leaving her injured.</h4> 
+                                        <h3 class="t-justify">This is a case of negligence and improper passing on the truck driver’s part because he ignored the “walk” sign shown by the woman. The 80,000 pound truck crashed into her, leaving her injured.</h3> 
 
-                                        <h4 class="t-justify">This accident was reported by the Dallas Morning News in today’s newspaper. </h4>
+                                        <h3 class="t-justify">This accident was reported by the Dallas Morning News in today’s newspaper. </h3>
                                     </div>
                                 </div>
                             </div>
@@ -458,10 +458,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content">
                                         <h2 class="font-header" style="color: #005153;">Common Causes of Truck Accidents </h2><br>
-                                        <h4 class="t-justify">What are the causes of such horrifying accidents involving large trucks in the USA?</h4>
+                                        <h3 class="t-justify">What are the causes of such horrifying accidents involving large trucks in the USA?</h3>
 
-                                        <h4 class="t-justify">Studies find that the most common causes include negligent driving on the part of either the truck drivers or the drivers of other vehicles near any 18-wheeler. Below is a list of the causes -
-                                        </h4>
+                                        <h3 class="t-justify">Studies find that the most common causes include negligent driving on the part of either the truck drivers or the drivers of other vehicles near any 18-wheeler. Below is a list of the causes -
+                                        </h3>
                                         <ul>
                                             <li>Improper Passing or Turn</li>
                                             <li>Distracted Driving</li>
@@ -499,9 +499,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="post-details mob-content">
                                     <h2 class="font-header" style="color: #005153;">What Do the Truck Accident Statistics Say?</h2><br>
                                         
-                                        <h4 class="t-justify">The below given data was obtained from the FHWA report for truck accidents by year from 2013 through 2016.</h4>
+                                        <h3 class="t-justify">The below given data was obtained from the FHWA report for truck accidents by year from 2013 through 2016.</h3>
 
-                                        <h4 class="t-justify"><strong>Registered Vehicles in the United States, 2013-2016 </strong></h4>
+                                        <h3 class="t-justify"><strong>Registered Vehicles in the United States, 2013-2016 </strong></h3>
                                         <div style="overflow-x:auto;">
                                         <table>
                                             <tr>
@@ -534,7 +534,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             </tr>
                                         </table>
                                     </div><br>
-                                    <h4 class="t-justify">Data Source:<strong> Federal Highway Administration (FHWA), Highway Statistics 2016, Table VM-1.</strong>  </h4>
+                                    <h3 class="t-justify">Data Source:<strong> Federal Highway Administration (FHWA), Highway Statistics 2016, Table VM-1.</strong>  </h3>
                                     </div>
                                 </div>
                             </div>
@@ -545,23 +545,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content">
                                         <h2 class="font-header" style="color: #005153;">What are the types of truck accident crashes?</h2><br>
-                                        <h4 class="t-justify">Below are the  NHTSA Crash Severity Levels: which include fatal, injury, and property-damage-only (PDO) crashes. </h4>
-
-                                        <h4 class="t-justify">Source: <a href="https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812663">https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812663</a></h4>
+                                        <h3 class="t-justify">Below are the  NHTSA Crash Severity Levels: which include fatal, injury, and property-damage-only (PDO) crashes. <br>
+                                        Source: <a href="https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812663">https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812663</a></h3>
                                                    
                                         <ul>
-                                            <li><strong>Fatal crashes</strong> - in which a person involved in a motor crash died within 30 days of the accident. This involves other non-motorists too.</li>
+                                            <li><strong>Fatal crashes</strong> - In which a person involved in a motor crash died within 30 days of the accident. This involves other non-motorists too.</li>
 
                                              <img src="../../assets/images/blog-truck-accident-river.jpg" class="blog-imgs"><br>
 
 
-                                            <li><strong>Injury crashes</strong> - in which no one died in the accident but, at least one person was injured in one of the following ways: (1) an incapacitating injury; (2) a visible but not incapacitating injury; (3) a possible, not visible injury; or (4) an injury of unknown severity. </li>
+                                            <li><strong>Injury crashes</strong> - In which no one died in the accident but, at least one person was injured in one of the following ways: (1) an incapacitating injury; (2) a visible but not incapacitating injury; (3) a possible, not visible injury; or (4) an injury of unknown severity. </li>
                                              <img src="../../assets/images/blog-truck-accident-with-car.jpg" class="blog-imgs"><br>
 
                                             <li><strong>PDO crashes</strong> - The motor vehicles crashed on a trafficway, but no one suffered any injuries.</li>
                                         </ul>    
                                         <br>
-                                        <h4 class="t-justify">For more information on crash severity levels, refer to NHTSA’s National Center for Statistics and Analysis (NCSA) Data Resource Web site at:<a href="https://crashstats.nhtsa.dot.gov"> https://crashstats.nhtsa.dot.gov</a></h4>                             
+                                        <h3 class="t-justify">For more information on crash severity levels, refer to NHTSA’s National Center for Statistics and Analysis (NCSA) Data Resource Web site at:<a href="https://crashstats.nhtsa.dot.gov"> https://crashstats.nhtsa.dot.gov</a></h3>                             
                                      </div>
                                 </div>
                             </div>
@@ -577,7 +576,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="post-details mob-content">
                                     <h2 class="font-header" style="color: #005153;">What Can You Do to be a Responsible Driver?</h2><br>
                                         
-                                        <h4 class="t-justify">The truck drivers can’t be blamed everytime a truck is involved in an accident. It is the responsibility of other car drivers as well to <a href="https://www.fmcsa.dot.gov/ourroads/tips-driving-safely-around-large-trucks-or-buses">obey all traffic laws and prevent causing an accident.</a> Below are some things you can take care of -</h4>
+                                        <h3 class="t-justify">The truck drivers can’t be blamed everytime a truck is involved in an accident. It is the responsibility of other car drivers as well to <a href="https://www.fmcsa.dot.gov/ourroads/tips-driving-safely-around-large-trucks-or-buses">obey all traffic laws and prevent causing an accident.</a> Below are some things you can take care of -</h3>
 
                                         <ul>
                                             <li>Don’t drive between two large trucks.</li>
@@ -591,7 +590,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <li>Always provide the appropriate indicators while turning or stopping on the road.</li>
                                         </ul>
                                         <br>
-                                        <h4 class="t-justify">For more information and resources on Driver safety, visit the <a href="https://www.fmcsa.dot.gov/resources-for-drivers">FMCSA (Federal Motor Carrier Safety Administration) website.</a> </h4>
+                                        <h3 class="t-justify">For more information and resources on Driver safety, visit the <a href="https://www.fmcsa.dot.gov/resources-for-drivers">FMCSA (Federal Motor Carrier Safety Administration) website.</a> </h3>
                                     </div>
                                 </div>
                             </div>
@@ -607,7 +606,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="post-details mob-content">
                                     <h2 class="font-header" style="color: #005153;">What should you do to document the accident?</h2><br>
                                         
-                                        <h4 class="t-justify">Here’s a list of what to do immediately after you or anyone you know has been in an accident -</h4>
+                                        <h3 class="t-justify">Here’s a list of what to do immediately after you or anyone you know has been in an accident -</h3>
                                         <ul>
                                             <li>If you were the one injured in the crash, call 911 immediately to get medical assistance.</li>
                                             <li>If you are the one who caused the crash, don’t run from the scene. You can be charged with a  hit-and-run if you do. Call 911 and help the victims in any way you can.</li>
@@ -632,8 +631,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="post-details mob-content">
                                     <h2 class="font-header" style="color: #005153;">Who should you call for help with how to proceed?</h2><br>
                                         
-                                        <h4 class="t-justify">You should call your immediate family and ask for their help if you need hospitalization. Most of the accident victims are eligible for compensation if you’re a victim of a truck accident due to negligent driving.</h4>
-                                        <h4 class="t-justify">Always get legal assistance from an experienced truck accident attorney.  They will help you iron out the details to be eligible for personal injury compensation and may also help you manage the medical bills, out-of-pocket costs, and wages lost during recovery.</h4>
+                                        <h3 class="t-justify">You should call your immediate family and ask for their help if you need hospitalization. Most of the accident victims are eligible for compensation if you’re a victim of a truck accident due to negligent driving.</h3>
+                                        <h3 class="t-justify">Always get legal assistance from an experienced truck accident attorney.  They will help you iron out the details to be eligible for personal injury compensation and may also help you manage the medical bills, out-of-pocket costs, and wages lost during recovery.</h3>
                                     </div>
                                 </div>
                             </div>
