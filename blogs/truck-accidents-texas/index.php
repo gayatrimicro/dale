@@ -44,28 +44,29 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     
     <title>The Rise of Truck Accidents in Texas</title>
 
-    <meta name="description" content="Learn more about when to see the dog bite attorney &amp; how to prove the liability in a dog bite case. Our experienced attorneys can help. Free Consultation." >
+    <meta name="description" content="Call (972)-737-1333 for an experienced truck accident attorney. Email dale@mckinneylaw.com for a free initial case evaluation." >
+    <meta name="keywords" content="auto accident lawyer, local accident attorney, mckinney truck accident lawyer, skilled legal representation in texas, whiplash injury lawyer, trusted semi accident lawyer near you, road accident compensation lawyer, dedicated truck accident lawyer in mckinney">
 
     <meta property="og:locale" content="en_US">
     <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
     <meta property="og:type" content="Blog">
-    <meta property="og:title" content="When to see a dog bite attorney">
-    <meta property="og:description" content="Learn more about when to see the dog bite attorney &amp; how to prove the liability in a dog bite case. Our experienced attorneys can help. Free Consultation.">
-    <meta property="og:url" content="https://roseknowslaw.com/blogs/dog-bite-attorney/">
-    <meta property="og:image" content="https://roseknowslaw.com/assets/images/blog-banner1.jpg">
+    <meta property="og:title" content="The Rise of Truck Accidents in Texas">
+    <meta property="og:description" content="Call (972)-737-1333 for an experienced truck accident attorney. Email dale@mckinneylaw.com for a free initial case evaluation.">
+    <meta property="og:url" content="https://roseknowslaw.com/blogs/truck-accidents-texas/">
+    <meta property="og:image" content="https://roseknowslaw.com/assets/images/blog-texas-accident.jpg">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="">
-    <meta name="twitter:title" content="When to see a dog bite attorney">
-    <meta name="twitter:description" content="Learn more about when to see the dog bite attorney &amp; how to prove the liability in a dog bite case. Our experienced attorneys can help. Free Consultation.">
-    <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/blog-banner1.jpg">
-    <meta name="twitter:url" content="https://roseknowslaw.com/blogs/dog-bite-attorney/">
+    <meta name="twitter:site" content="DALE R. ROSE - Injury Lawyer">
+    <meta name="twitter:title" content="The Rise of Truck Accidents in Texas">
+    <meta name="twitter:description" content="Call (972)-737-1333 for an experienced truck accident attorney. Email dale@mckinneylaw.com for a free initial case evaluation.">
+    <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/blog-texas-accident.jpg">
+    <meta name="twitter:url" content="https://roseknowslaw.com/blogs/truck-accidents-texas/">
 
 
     <meta name="robots" content="index, follow" />
 
-    <link rel="canonical" href="https://roseknowslaw.com/blogs/dog-bite-attorney/">
-    <link rel="alternate" href="https://roseknowslaw.com/blogs/dog-bite-attorney/" hreflang="en-us" />
+    <link rel="canonical" href="https://roseknowslaw.com/blogs/truck-accidents-texas/">
+    <link rel="alternate" href="https://roseknowslaw.com/blogs/truck-accidents-texas/" hreflang="en-us" />
 
 
         <style type="text/css">
