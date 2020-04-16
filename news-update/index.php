@@ -211,7 +211,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					                        <div class="post-entry col-12 col-sm-12 burn-anime desktopanimateup1 tabletanimateup1 mobileanimateup">
                             <div class=" entry">
                                 <div class="media-wrap ">
-                                    <a href="#"><img width="690" height="880" src="../assets/images/personal-injury-claims.jpg" class="attachment-690x880 size-690x880 wp-post-image" alt="" /></a>
+                                    <a href="#"><img width="690" height="880" src="../assets/images/personal-injury-claims.jpg" class="attachment-690x880 size-690x880 wp-post-image" alt="personal-injury-claims" /></a>
                                 </div>
                                 <div class="post-details">
                                     <div class="meta">

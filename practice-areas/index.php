@@ -51,20 +51,20 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <meta property="og:type" content="Website">
     <meta property="og:title" content="Practice Areas | Dale R. Rose PLLC">
     <meta property="og:description" content="Areas of practice for McKinney, Texas personal injury lawyer. Call 972-737-1333 for a free consultation 24/7. We help those who are in need, to find justice.">
-    <meta property="og:url" content="https://www.roseknowslaw.com/practice-areas/">
+    <meta property="og:url" content="https://roseknowslaw.com/practice-areas/">
     <meta property="og:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Practice Areas | Dale R. Rose PLLC">
     <meta name="twitter:description" content="Areas of practice for McKinney, Texas personal injury lawyer. Call 972-737-1333 for a free consultation 24/7. We help those who are in need, to find justice.">
     <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
-    <meta name="twitter:url" content="https://www.roseknowslaw.com/practice-areas/">
+    <meta name="twitter:url" content="https://roseknowslaw.com/practice-areas/">
 
 
     <meta name="robots" content="index, follow" />
 
-    <link rel="canonical" href="https://www.roseknowslaw.com/practice-areas/">
-    <link rel="alternate" href="https://www.roseknowslaw.com/practice-areas/" hreflang="en-us" />
+    <link rel="canonical" href="https://roseknowslaw.com/practice-areas/">
+    <link rel="alternate" href="https://roseknowslaw.com/practice-areas/" hreflang="en-us" />
 
         <style type="text/css">
 img.wp-smiley,

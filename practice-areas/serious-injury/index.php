@@ -51,20 +51,20 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <meta property="og:type" content="Website">
     <meta property="og:title" content="Serious Injury Lawyers | Dale R. Rose PLLC">
     <meta property="og:description" content="With the experience of 155 first-chair jury trials &amp; 25 years, Dale Rose will help you win the best settlement for your case. Personal Injury Expert.">
-    <meta property="og:url" content="https://www.roseknowslaw.com/practice-areas/serious-injury/">
+    <meta property="og:url" content="https://roseknowslaw.com/practice-areas/serious-injury/">
     <meta property="og:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Serious Injury Lawyers | Dale R. Rose PLLC">
     <meta name="twitter:description" content="With the experience of 155 first-chair jury trials &amp; 25 years, Dale Rose will help you win the best settlement for your case. Personal Injury Expert.">
     <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
-    <meta name="twitter:url" content="https://www.roseknowslaw.com/practice-areas/serious-injury/">
+    <meta name="twitter:url" content="https://roseknowslaw.com/practice-areas/serious-injury/">
 
 
     <meta name="robots" content="index, follow" />
 
-    <link rel="canonical" href="https://www.roseknowslaw.com/practice-areas/serious-injury/">
-    <link rel="alternate" href="https://www.roseknowslaw.com/practice-areas/serious-injury/" hreflang="en-us" />
+    <link rel="canonical" href="https://roseknowslaw.com/practice-areas/serious-injury/">
+    <link rel="alternate" href="https://roseknowslaw.com/practice-areas/serious-injury/" hreflang="en-us" />
 
         <style type="text/css">
 img.wp-smiley,

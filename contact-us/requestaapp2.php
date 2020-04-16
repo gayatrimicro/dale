@@ -51,8 +51,8 @@
 	                 
 	               </table>";  
 	              
-	  	  if(mail("dale@roseknowslaw.com,aarielalmeida88@gmail.com", $subject, $message, $headers))
-			  //if(mail("roxanetlowry@gmail.com", $subject, $message, $headers))
+	  	  //if(mail("dale@roseknowslaw.com,aarielalmeida88@gmail.com", $subject, $message, $headers))
+			  if(mail("aarielalmeida88@gmail.com", $subject, $message, $headers))
 	  	  {
 			// delete the cookie so it cannot sent again by refreshing this page
 			setcookie('tntcon','');

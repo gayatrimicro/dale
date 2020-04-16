@@ -40,7 +40,7 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
 
-    <title>Road Accident Lawyer | Dale R. Rose PLLC</title>
+    <title>Car Accident Lawyer | Dale R. Rose PLLC</title>
 
     <meta name="description" content="Hire a car and truck accident lawyer today for your road accident injury claim in mckinney texas. We fight for our people against wrongdoers for justice." >
 
@@ -50,22 +50,22 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <meta property="og:locale" content="en_US">
     <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
     <meta property="og:type" content="Website">
-    <meta property="og:title" content="Road Accident Lawyer | Dale R. Rose PLLC">
+    <meta property="og:title" content="Car Accident Lawyer | Dale R. Rose PLLC">
     <meta property="og:description" content="Hire a car and truck accident lawyer today for your road accident injury claim in mckinney texas. We fight for our people against wrongdoers for justice.">
-    <meta property="og:url" content="https://www.roseknowslaw.com/practice-areas/road-accidents/">
+    <meta property="og:url" content="https://roseknowslaw.com/practice-areas/road-accidents/">
     <meta property="og:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Road Accident Lawyer | Dale R. Rose PLLC">
+    <meta name="twitter:title" content="Car Accident Lawyer | Dale R. Rose PLLC">
     <meta name="twitter:description" content="Hire a car and truck accident lawyer today for your road accident injury claim in mckinney texas. We fight for our people against wrongdoers for justice.">
     <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/injury_lawyer.jpg">
-    <meta name="twitter:url" content="https://www.roseknowslaw.com/practice-areas/road-accidents/">
+    <meta name="twitter:url" content="https://roseknowslaw.com/practice-areas/road-accidents/">
 
 
     <meta name="robots" content="index, follow" />
 
-    <link rel="canonical" href="https://www.roseknowslaw.com/practice-areas/road-accidents/">
-    <link rel="alternate" href="https://www.roseknowslaw.com/practice-areas/road-accidents/" hreflang="en-us" />
+    <link rel="canonical" href="https://roseknowslaw.com/practice-areas/road-accidents/">
+    <link rel="alternate" href="https://roseknowslaw.com/practice-areas/road-accidents/" hreflang="en-us" />
 
 
         <style type="text/css">

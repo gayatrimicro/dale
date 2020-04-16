@@ -52,19 +52,19 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <meta property="og:type" content="Website">
     <meta property="og:title" content="McKinney Personal Injury Attorney | Dale R. Rose PLLC">
     <meta property="og:description" content="We fight for the recovery of all personal injury victims. Schedule a free consultation to discuss your case. Email Us dale@mckinneylaw.com for legal help.">
-    <meta property="og:url" content="https://www.roseknowslaw.com/practice-areas/personal-injury/">
+    <meta property="og:url" content="https://roseknowslaw.com/practice-areas/personal-injury/">
     <meta property="og:image" content="">
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="McKinney Personal Injury Attorney | Dale R. Rose PLLC">
     <meta name="twitter:description" content="We fight for the recovery of all personal injury victims. Schedule a free consultation to discuss your case. Email Us dale@mckinneylaw.com for legal help.">
     <meta name="twitter:image" content="">
-    <meta name="twitter:url" content="https://www.roseknowslaw.com/practice-areas/personal-injury/">
+    <meta name="twitter:url" content="https://roseknowslaw.com/practice-areas/personal-injury/">
 
     <meta name="robots" content="index, follow" />
 
-    <link rel="canonical" href="https://www.roseknowslaw.com/practice-areas/personal-injury/">
-    <link rel="alternate" href="https://www.roseknowslaw.com/practice-areas/personal-injury/" hreflang="en-us" />
+    <link rel="canonical" href="https://roseknowslaw.com/practice-areas/personal-injury/">
+    <link rel="alternate" href="https://roseknowslaw.com/practice-areas/personal-injury/" hreflang="en-us" />
 
 
         <style type="text/css">

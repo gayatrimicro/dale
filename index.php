@@ -1462,55 +1462,73 @@ But wisdom comes by putting things together.</p>
     <div class="sticky-block">
         <div class="post-entry burn-anime">
             <div class="media-wrap">
-                <a href="blogs">
+                <a href="https://roseknowslaw.com/blogs/truck-accidents-texas/">
 
 
                     
 
-                    <img width="768" height="880" src="assets/images/Untitled-7.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" />
+                    <img width="768" height="880" src="assets/images/truck-accident.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Truck Accident Lawyer" />
 
 
                 </a>
             </div>
             <div class="post-details">
                 <div class="meta">
-                    <a href="blogs" rel="tag">FROM THE BLOG</a>                    
-                    <span class="date">September 2018</span>
+                    <a href="https://roseknowslaw.com/blogs/truck-accidents-texas/" rel="tag">FROM THE BLOG</a>                    
+                    <span class="date">Apr 2020</span>
                 </div>
-                <p><a href="blogs">Insurance Adjuster Tactics Against You!</a></p>
+                <p><a href="https://roseknowslaw.com/blogs/truck-accidents-texas/">The Rise of Truck Accidents in Texas</a></p>
             </div>
         </div>
     </div>
 </div>                                                                                                                                  <div class="col-xl-6">
                                 <div class="row">
-                                                        <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
+                                                       
+									<div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
+    <div class="media-wrap">
+        <a href="blogs/dog-bite-attorney">
+         <img img width="500" height="640" src="assets/images/dog-bite.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Dog Bite Attorney" sizes="(max-width: 500px) 100vw, 500px" />
+     </a>
+    </div>
+    <div class="post-details">
+        <div class="meta">
+            <a href="blogs/dog-bite-attorney" rel="tag">From the blog</a>            <span class="date">March 2020</span>
+        </div>
+        <p><a href="blogs/dog-bite-attorney">Dog-bite Injuries Must Go Beyond Puncture Care</a></p>
+    </div>
+</div>  
+									
+									
+									<div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
     <div class="media-wrap">
         <!-- <a href="#"><img width="500" height="640" src="assets/images/attorney-after-injury.jpg" class="attachment-500x640 size-500x640 wp-post-image" alt=""  sizes="(max-width: 500px) 100vw, 500px" /></a> -->
         <a href="blogs/benefits-of-hiring-personal-injury-lawyer">
-       <img img width="500" height="640" src="assets/images/attorney-after-injury.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" sizes="(max-width: 500px) 100vw, 500px" />
+       <img img width="500" height="640" src="assets/images/personal-injury-lawyer.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Personal Injury" sizes="(max-width: 500px) 100vw, 500px" />
    </a>
     </div>
     <div class="post-details">
         <div class="meta">
-            <a href="blogs/benefits-of-hiring-personal-injury-lawyer" rel="tag">From the blog</a>            <span class="date">Jan 2020</span>
+            <a href="blogs/benefits-of-hiring-personal-injury-lawyer" rel="tag">From the blog</a>            <span class="date">Feb 2020</span>
         </div>
-        <p><a href="blogs/benefits-of-hiring-personal-injury-lawyer">Why Do You Need an Attorney After an Injury?</a></p>
+        <p><a href="blogs/benefits-of-hiring-personal-injury-lawyer">Benefits of Hiring a Personal Injury Lawyer</a></p>
     </div>
-</div>                                                                                                                                                          <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
+</div>  
+									<div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
     <div class="media-wrap">
-        
-        <a href="blogs/benefits-of-hiring-personal-injury-lawyer">
-        <img img width="500" height="640" src="assets/images/claim.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" sizes="(max-width: 500px) 100vw, 500px" />
+       
+<a href="blogs/reasons-to-hire-personal-injury-attorney">
+        <img img width="500" height="640" src="assets/images/attorney-after-injury.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Workplace Injury" sizes="(max-width: 500px) 100vw, 500px" />
     </a>
     </div>
     <div class="post-details">
         <div class="meta">
-            <a href="blogs" rel="tag">From the blog</a>            
-            <span class="date">Jan 2018</span>
+            <a href="blogs/reasons-to-hire-personal-injury-attorney" rel="tag">From the blog</a>            <span class="date">Jan 2020</span>
         </div>
-        <p><a href="blogs">Insurance company settles our claim</a></p>
+        <p><a href="blogs/reasons-to-hire-personal-injury-attorney">When Should You Contact a Personal Injury Lawyer?</a></p>
     </div>
-</div>                                                                                                                                                          <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
+</div> 
+									
+									<div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
     <div class="media-wrap">
        
        <a href="blogs">
@@ -1521,34 +1539,21 @@ But wisdom comes by putting things together.</p>
     </div>
     <div class="post-details">
         <div class="meta">
-            <a href="blogs" rel="tag">From the blog</a>            <span class="date">Jan 2018</span>
+            <a href="blogs" rel="tag">From the blog</a>            <span class="date">Dec 2019</span>
         </div>
         <p><a href="blogs">Dale Rose Named to Million Dollar and Multi-million Dollar Advocates Forum</a></p>
     </div>
-</div>                                                                                                                                                          <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
+</div>                                                                                                                                                                                                                                                                                                                   <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
     <div class="media-wrap">
-       
-<a href="blogs/reasons-to-hire-personal-injury-attorney">
-        <img img width="500" height="640" src="assets/images/personal-injury-lawyer.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" sizes="(max-width: 500px) 100vw, 500px" />
-    </a>
-    </div>
-    <div class="post-details">
-        <div class="meta">
-            <a href="blogs/reasons-to-hire-personal-injury-attorney" rel="tag">From the blog</a>            <span class="date">Jan 2020</span>
-        </div>
-        <p><a href="blogs/reasons-to-hire-personal-injury-attorney">When Should You Contact a Personal Injury Lawyer?</a></p>
-    </div>
-</div>                                                                                                                                                          <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
-    <div class="media-wrap">
-        <a href="blogs/dog-bite-attorney">
-         <img img width="500" height="640" src="assets/images/dog-bite.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" sizes="(max-width: 500px) 100vw, 500px" />
+        <a href="blogs">
+         <img img width="500" height="640" src="assets/images/Untitled-7-new.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" sizes="(max-width: 500px) 100vw, 500px" />
      </a>
     </div>
     <div class="post-details">
         <div class="meta">
-            <a href="blogs/dog-bite-attorney" rel="tag">From the blog</a>            <span class="date">Feb 2020</span>
+            <a href="blogs" rel="tag">From the blog</a>            <span class="date">Nov 2019</span>
         </div>
-        <p><a href="blogs/dog-bite-attorney">Dog-bite Injuries Must Go Beyond Puncture Care</a></p>
+        <p><a href="blogs">Insurance Adjuster Tactics Against You!</a></p>
     </div>
 </div>                                                                                                                                                          <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
     <div class="media-wrap">
@@ -1558,7 +1563,7 @@ But wisdom comes by putting things together.</p>
     </div>
     <div class="post-details">
         <div class="meta">
-            <a href="blogs" rel="tag">From the blog</a>            <span class="date">Dec 2015</span>
+            <a href="blogs" rel="tag">From the blog</a>            <span class="date">Sep 2019</span>
         </div>
         <p><a href="blogs">The Epidemic of Distracted Driving</a></p>
     </div>
