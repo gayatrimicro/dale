@@ -29,7 +29,7 @@
 	                 </tr>
 
 	                 <tr>
-	                   <td align='left' width='35%'><strong>Message :</strong></td>
+	                   <td align='left' width='35%'><strong>Phone :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ". $phone ."</td>
 	                 </tr>
@@ -42,7 +42,7 @@
 
 
 	   			  	<tr>
-	                   <td align='left' width='35%'><strong>Phone number :</strong></td>
+	                   <td align='left' width='35%'><strong>Message :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ". $text_area ."</td>
 	                 </tr>

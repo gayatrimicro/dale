@@ -29,7 +29,7 @@
 	                 </tr>
 
 	                 <tr>
-	                   <td align='left' width='35%'><strong>Message :</strong></td>
+	                   <td align='left' width='35%'><strong>Last name :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ". $lname ."</td>
 	                 </tr>
