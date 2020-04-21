@@ -421,6 +421,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <li>Dislocated bones</li>
                                             <li>Soft tissue damage</li>
                                         </ul>
+                                         <div class="text-center"><img src="../../assets/images/rpt.jpg" alt="rpt"></div> 
+                                    <br><br>
                                     </div>
                                 </div>
                             </div>
@@ -458,9 +460,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <li>More men die from such accidents than women</li>
                                             <li>5% of all slip and fall accidents result in fractured bones.</li>
                                         </ul>                                            
-                                    </div>
-                                    <!-- <img src="../../assets/images/rpt.jpg" alt="rpt"> 
-                                    <br><br>-->
+                                    </div>                                    
                                 </div>
                             </div>
                         </div>
@@ -494,8 +494,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <h2 class="font-header" style="color: #005153;">Do you qualify for a personal injury claim?</h2><br>
                                         <h3>To qualify for a personal injury claim, you should be physically injured and your injury should be measurable and or visible.</h3>
                                         <h3>You should always document your injuries with photographic evidence, otherwise it’s just your words against that of the responsible party. Keep noting down any pain or discomfort you might experience after a slip and fall accident.</h3>
-                                        <img src="../../assets/images/slandfall.jpg" class="wid_img" alt="slandfall.jpg">
-                            <br><br>
+                                        <div class="text-center"><img src="../../assets/images/slandfall.jpg" class="wid_img" alt="slandfall.jpg">
+                            <br><br></div>
                                         <h3>Keep a track of your hospital records to be presented during the trial.</h3>
                                         </div>
                                 </div>
