@@ -160,7 +160,7 @@ img.emoji {
 
         @media (min-width: 1024px) {
             #banner {
-                background-image: url(../../assets/images/sf.jpg);
+                background-image: url(../../assets/images/sfban.jpg);
             }
         }
     
@@ -379,36 +379,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-xl-12 col-md-11 test-center">
                        <!-- <h3>Dale Rose is a leading personal injury lawyer in the U.S. Understanding the benefits of hiring a personal injury lawyer helps in making the right decision to help your case.</h3><br>-->
                        <div class="row">
-                           <div class="col-sm-8">
+                           <div class="col-sm-12">
                                <h3>Slip-and-fall injuries are more common than you think. Many times, emergency rooms of hospitals are full of victims of slip-and-fall injuries. These victims are at a loss, in terms of who to go to for seeking guidance.</h3>
 
-                        <h3>If a stray or pet dog bites, you may need to hire a dog bite attorney. Since applicable laws vary from state to state, a local dog bite lawyer can tell you basic things you need to know, such as: whether you have a legal claim, the potential extent of your liability, what types of defenses may be utilized, and the possible legal and monetary consequences of your dog bite case.</h3>
+                        <h3>Many people don’t report such incidents because they feel it's their fault that they weren’t paying attention. Due to this hesitance, the responsible parties often don’t get a chance to correct the hazards which could injure other people.</h3>
 
                         <h3>Slip and fall injuries often manifest as long term aches and therefore it's necessary to get treatment as well as compensation for the personal injury you’ve suffered. To do this, you need to contact your doctor and your <a href="https://roseknowslaw.com/practice-areas/personal-injury/">McKinney personal injury lawyer.</a></h3>
                            </div>
                            <div class="col-sm-4">
-                               <div class="infrmrig">
-            <div class="hedfrm">
-                <h3>START YOUR FREE CONSULTATION</h3>
-            </div>
-            <div class="frm_prt">
-                <form>
-          <div class="form-group">
-            <input type="text" class="form-control" name="" placeholder="FULL NAME">
-          </div>
-          <div class="form-group">
-            <input type="text" class="form-control" name="" placeholder="PHONE NUMBER">
-          </div> 
-          <div class="form-group">
-            <input type="text" class="form-control" name="" placeholder="EMAIL ADDRESS">
-          </div> 
-          <div class="form-group">
-            <textarea class="form-control" rows="3" placeholder="MESSAGE"></textarea>
-          </div>
-          <div><button class="btn_frmsub">GET HELP NOW</button></div>    
-        </form>
-            </div>
-        </div>
+                               <?php include '../hlpfrm.php'?>
                            </div>
                        </div>                       
 
@@ -429,7 +408,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content" style="margin-bottom: 0px !important;">
                                         
-                                        <h4 class="t-justify">Here’s a list of symptoms you should look for when you or someone you know has suffered a slip and fall injury :</h4>
+                                        <h3>Here’s a list of symptoms you should look for when you or someone you know has suffered a slip and fall injury:</h3>
 
                                         <ul>
                                             <li>Bruises & cuts</li>
@@ -470,9 +449,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content">
                                         <h2 class="font-header" style="color: #005153;">What do the statistics say?</h2><br>
-                                        <h4 class="t-justify">Over 10 million people are injured in slip and fall accidents per year. The National Center for Injury Prevention and Control reports non-fatal injuries for everyone who isn’t in the 10 to 24 years age group.</h4>
+                                        <h3>Over 10 million people are injured in slip and fall accidents per year. The National Center for Injury Prevention and Control reports non-fatal injuries for everyone who isn’t in the 10 to 24 years age group.</h3>
 
-                                        <h4 class="t-justify">This is a scary statistic and needs to be improved. 3 million senior citizens are admitted to emergency rooms every year. Here are some other statistics based on the report by NFSI - </h4>
+                                        <h3>This is a scary statistic and needs to be improved. 3 million senior citizens are admitted to emergency rooms every year. Here are some other statistics based on the report by NFSI - </h3>
                                         <ul>
                                             <li>40% of all admissions to nursing homes are caused by slip and fall accidents</li>
                                             <li>Slip and fall accidents are the cause of most missed days in jobs.</li>
@@ -494,13 +473,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="post-details mob-content">
                                     <h2 class="font-header" style="color: #005153;">What are the most common causes of slip and fall accidents?</h2><br>
                                         
-                                        <h4 class="t-justify">The cause of different hazards which can lead to slip and fall injuries are -<br><br>
+                                        <h3>The cause of different hazards which can lead to slip and fall injuries are -<br><br>
 
                                         <strong>Weather :</strong> Snow or rain are one of the leading causes of these injuries. Accumulation of snow or rain and improper cleaning can lead to slip and fall incidents.<br><br>
                                         <strong>Wet or slippery floors :</strong> Water left on floors can cause slippery floors and therefore such fall accidents.<br><br>
                                         <strong>Design of the building :</strong> The levels of the floors in any building or the stairs can lead to fall injuries.<br><br>
                                         <strong>Poor lighting :</strong> Inadequate lighting in the hallways and stairways can also lead to fall injuries. This is dangerous and can lead to the responsible party being sued.<br><br>
-                                        <strong>Broken sidewalks :</strong> Municipal corporations are required to maintain the sidewalks of public places. But cracks in these sidewalks can lead to tripping injuries and thus fractures.</h4>
+                                        <strong>Broken sidewalks :</strong> Municipal corporations are required to maintain the sidewalks of public places. But cracks in these sidewalks can lead to tripping injuries and thus fractures.</h3>
                                         </div>
                                 </div>
                             </div>
@@ -511,9 +490,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content">
                                         <h2 class="font-header" style="color: #005153;">Do you qualify for a personal injury claim?</h2><br>
-                                        <h4 class="t-justify">To qualify for a personal injury claim, you should be physically injured and your injury should be measurable and or visible.</h4>
-                                        <h4 class="t-justify">You should always document your injuries with photographic evidence, otherwise it’s just your words against that of the responsible party. Keep noting down any pain or discomfort you might experience after a slip and fall accident.</h4>
-                                        <h4 class="t-justify">Keep a track of your hospital records to be presented during the trial.</h4>
+                                        <h3>To qualify for a personal injury claim, you should be physically injured and your injury should be measurable and or visible.</h3>
+                                        <h3>You should always document your injuries with photographic evidence, otherwise it’s just your words against that of the responsible party. Keep noting down any pain or discomfort you might experience after a slip and fall accident.</h3>
+                                        <h3>Keep a track of your hospital records to be presented during the trial.</h3>
                                         </div>
                                 </div>
                             </div>
@@ -529,11 +508,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="post-details mob-content">
                                     <h2 class="font-header" style="color: #005153;">How can you seek compensation for your fall injury?</h2><br>
                                         
-                                        <h4 class="t-justify">You should contact a qualified and experienced personal injury lawyer as soon as possible after the accident. </h4>
-                                        <h4 class="t-justify">To get the compensation and justice you deserve, you need to recover from your accident. For this, a personal injury attorney’s expertise is required.</h4>
-                                        <h4 class="t-justify">We provide you a FREE CONSULTATION to discuss the details of your personal injury at length. We make sure that the emotional trauma, long-term stress and PTSD you might have suffered won’t go in vain. </h4>
-                                        <h4 class="t-justify">You can contact us 24/7 for emergency legal services using -
-                                        </h4>
+                                        <h3>You should contact a qualified and experienced personal injury lawyer as soon as possible after the accident. </h3>
+                                        <h3>To get the compensation and justice you deserve, you need to recover from your accident. For this, a personal injury attorney’s expertise is required.</h3>
+                                        <h3>We provide you a FREE CONSULTATION to discuss the details of your personal injury at length. We make sure that the emotional trauma, long-term stress and PTSD you might have suffered won’t go in vain. </h3>
+                                        <h3>You can contact us 24/7 for emergency legal services using -
+                                        </h3>
                                         <ul>
                                             <li>Call Us : (972) 737-1333</li>
                                             <li>Email Us : dale@mckinneylaw.com</li>
@@ -547,19 +526,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="row">
                             <div class="col-sm-12">
                                 <div class="in_proprt">
-                                 <div class="imgprof"><img src="../../assets/images/dummy.png" alt="dummy"></div>
-                                 <h3>Adam S.Kutnar</h3>
+                                 <div class="imgprof"><img src="../../assets/images/dale-rose-img.jpg" alt="dummy"></div>
+                                 <h3>Dale R. Rose</h3>
                                  <h5>Personal Injury Lawyer</h5>
-                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+                                 <p>If you or someone you know has been injured in an accident, has been a victim of a workplace accident, or any other personal injury, Dale Rose is the best attorney for you in McKinney, Texas. With 25+ years of experience, Dale is committed to helping you get the compensation & justice you deserve.</p>
                                  <ul class="soc_ul">
-                                   <li><i class="fa fa-facebook-official" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-linkedin" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-youtube-play" aria-hidden="true"></i></li>
+                                   <li><a href="https://www.facebook.com/RoseKnowsLaw/" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                                   <li><a href="https://twitter.com/RoseInjuryLaw/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                   <li><a href="https://www.youtube.com/channel/UCiFySwyTJfxYkWqCNbjXuQQ" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
                                  </ul>
                                </div>
                                <div class="text-center"><button class="btn_gethelp" onclick="window.location.href='https://roseknowslaw.com/contact-us/'">GET HELP NOW</button></div>

@@ -378,7 +378,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h1 style="text-transform: none;">Reasons to Hire a Personal Injury Attorney</h1>
                     <div class="col-xl-12 col-md-11 test-center">
                         <div class="row">
-                           <div class="col-sm-8">
+                           <div class="col-sm-12">
                                 <h4>It is likely that when you think of a personal injury attorney, that you think of the giant billboards down the highway telling you “18- WHEELER ACCIDENT, CALL NOW!” or you think of the radio and tv commercials of injury attorneys named after work tools.<br><br> What you probably haven&rsquo;t realized yet, is that as <a href="https://roseknowslaw.com/practice-areas/personal-injury/"> Personal Injury Attorney&rsquo;s </a>we represent individuals beyond <a href="https://roseknowslaw.com/practice-areas/road-accidents/"> car accidents</a>. Such as:</h4>
                            </div>
                            <div class="col-sm-4">
@@ -495,19 +495,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="row">
                             <div class="col-sm-12">
                                 <div class="in_proprt">
-                                 <div class="imgprof"><img src="../../assets/images/dummy.png" alt="dummy"></div>
-                                 <h3>Adam S.Kutnar</h3>
+                                 <div class="imgprof"><img src="../../assets/images/dale-rose-img.jpg" alt="dummy"></div>
+                                 <h3>Dale R. Rose</h3>
                                  <h5>Personal Injury Lawyer</h5>
-                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+                                 <p>If you or someone you know has been injured in an accident, has been a victim of a workplace accident, or any other personal injury, Dale Rose is the best attorney for you in McKinney, Texas. With 25+ years of experience, Dale is committed to helping you get the compensation & justice you deserve.</p>
                                  <ul class="soc_ul">
-                                   <li><i class="fa fa-facebook-official" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-linkedin" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-youtube-play" aria-hidden="true"></i></li>
+                                   <li><a href="https://www.facebook.com/RoseKnowsLaw/" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                                   <li><a href="https://twitter.com/RoseInjuryLaw/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                   <li><a href="https://www.youtube.com/channel/UCiFySwyTJfxYkWqCNbjXuQQ" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
                                  </ul>
                                </div>
                                <div class="text-center"><button class="btn_gethelp" onclick="window.location.href='https://roseknowslaw.com/contact-us/'">GET HELP NOW</button></div>

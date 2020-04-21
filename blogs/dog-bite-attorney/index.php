@@ -378,7 +378,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-xl-12 col-md-11 test-center">
                        <!-- <h3>Dale Rose is a leading personal injury lawyer in the U.S. Understanding the benefits of hiring a personal injury lawyer helps in making the right decision to help your case.</h3><br>-->
                        <div class="row">
-                           <div class="col-sm-8">
+                           <div class="col-sm-12">
                                <h3>Dogs are called a ‘social animal’ because of its seemingly endless love and compassion for people. But no matter how social it is, don’t forget that it is an animal. Even the most harmless animal can damage properties and cause harm to people.</h3>
 
                         <h3>If a stray or pet dog bites, you may need to hire a dog bite attorney. Since applicable laws vary from state to state, a local dog bite lawyer can tell you basic things you need to know, such as: whether you have a legal claim, the potential extent of your liability, what types of defenses may be utilized, and the possible legal and monetary consequences of your dog bite case.</h3>
@@ -386,28 +386,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <h3>Here we brief you about some of the things that people generally ask of dog bite lawyer:</h3>
                            </div>
                            <div class="col-sm-4">
-                               <div class="infrmrig">
-            <div class="hedfrm">
-                <h3>START YOUR FREE CONSULTATION</h3>
-            </div>
-            <div class="frm_prt">
-                <form>
-          <div class="form-group">
-            <input type="text" class="form-control" name="" placeholder="FULL NAME">
-          </div>
-          <div class="form-group">
-            <input type="text" class="form-control" name="" placeholder="PHONE NUMBER">
-          </div> 
-          <div class="form-group">
-            <input type="text" class="form-control" name="" placeholder="EMAIL ADDRESS">
-          </div> 
-          <div class="form-group">
-            <textarea class="form-control" rows="3" placeholder="MESSAGE"></textarea>
-          </div>
-          <div><button class="btn_frmsub">GET HELP NOW</button></div>    
-        </form>
-            </div>
-        </div>
+                               <?php include '../hlpfrm.php'?>
                            </div>
                        </div>                       
 
@@ -522,19 +501,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="row">
                             <div class="col-sm-12">
                                 <div class="in_proprt">
-                                 <div class="imgprof"><img src="../../assets/images/dummy.png" alt="dummy"></div>
-                                 <h3>Adam S.Kutnar</h3>
+                                 <div class="imgprof"><img src="../../assets/images/dale-rose-img.jpg" alt="dummy"></div>
+                                 <h3>Dale R. Rose</h3>
                                  <h5>Personal Injury Lawyer</h5>
-                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+                                 <p>If you or someone you know has been injured in an accident, has been a victim of a workplace accident, or any other personal injury, Dale Rose is the best attorney for you in McKinney, Texas. With 25+ years of experience, Dale is committed to helping you get the compensation & justice you deserve.</p>
                                  <ul class="soc_ul">
-                                   <li><i class="fa fa-facebook-official" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-linkedin" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
-                                   <li><i class="fa fa-youtube-play" aria-hidden="true"></i></li>
+                                   <li><a href="https://www.facebook.com/RoseKnowsLaw/" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                                   <li><a href="https://twitter.com/RoseInjuryLaw/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                   <li><a href="https://www.youtube.com/channel/UCiFySwyTJfxYkWqCNbjXuQQ" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
                                  </ul>
                                </div>
                                <div class="text-center"><button class="btn_gethelp" onclick="window.location.href='https://roseknowslaw.com/contact-us/'">GET HELP NOW</button></div>
