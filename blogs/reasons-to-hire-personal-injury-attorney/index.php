@@ -382,28 +382,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h4>It is likely that when you think of a personal injury attorney, that you think of the giant billboards down the highway telling you “18- WHEELER ACCIDENT, CALL NOW!” or you think of the radio and tv commercials of injury attorneys named after work tools.<br><br> What you probably haven&rsquo;t realized yet, is that as <a href="https://roseknowslaw.com/practice-areas/personal-injury/"> Personal Injury Attorney&rsquo;s </a>we represent individuals beyond <a href="https://roseknowslaw.com/practice-areas/road-accidents/"> car accidents</a>. Such as:</h4>
                            </div>
                            <div class="col-sm-4">
-                               <div class="infrmrig">
-            <div class="hedfrm">
-                <h3>START YOUR FREE CONSULTATION</h3>
-            </div>
-            <div class="frm_prt">
-                <form>
-          <div class="form-group">
-            <input type="text" class="form-control" name="" placeholder="FULL NAME">
-          </div>
-          <div class="form-group">
-            <input type="text" class="form-control" name="" placeholder="PHONE NUMBER">
-          </div> 
-          <div class="form-group">
-            <input type="text" class="form-control" name="" placeholder="EMAIL ADDRESS">
-          </div> 
-          <div class="form-group">
-            <textarea class="form-control" rows="3" placeholder="MESSAGE"></textarea>
-          </div>
-          <div><button class="btn_frmsub">GET HELP NOW</button></div>    
-        </form>
-            </div>
-        </div>
+                               <?php include '../hlpfrm.php'?>
                            </div>
                        </div>
                        
