@@ -439,6 +439,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="container-fluid">
                     <div class="row ">
+
+
+                        <div class="post-entry col-12">
+                            <div class="row align-items-center  box-shadow">
+                                <div class="col-12 col-xl-4">
+                                    <div class="media-wrap  burn-anime">
+                                        <a href="#"><img src="../assets/images/sf.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Reasons to hire personal injury attorney" /></a>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-xl-8">
+                                    <div class="content">
+                                        <div class="mob-content" style="padding: 20px;">
+                                        <h2 class="font-header heading-blog">Slip and fall injuries in the USA</h2>
+                                            <hr class="divider-line"><br>
+                                            <h4 class="t-justify description-content">Slip-and-fall injuries are more common than you think. Many times, emergency rooms of hospitals are full of victims of slip-and-fall injuries.</h4>
+
+                                            <a href="slip-fall-injury-lawyer/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a> 
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         
 
 
@@ -537,27 +560,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
 
 
-                        <div class="post-entry col-12">
-                            <div class="row align-items-center  box-shadow">
-                                <div class="col-12 col-xl-4">
-                                    <div class="media-wrap  burn-anime">
-                                        <a href="#"><img src="../assets/images/sf.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Reasons to hire personal injury attorney" /></a>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-xl-8">
-                                    <div class="content">
-                                        <div class="mob-content" style="padding: 20px;">
-                                        <h2 class="font-header heading-blog">Slip and fall injuries in the USA</h2>
-                                            <hr class="divider-line"><br>
-                                            <h4 class="t-justify description-content">Slip-and-fall injuries are more common than you think. Many times, emergency rooms of hospitals are full of victims of slip-and-fall injuries.</h4>
-
-                                            <a href="slip-fall-injury-lawyer/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a> 
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        
                         
 
 

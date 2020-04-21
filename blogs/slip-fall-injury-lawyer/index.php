@@ -451,14 +451,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <h2 class="font-header" style="color: #005153;">What do the statistics say?</h2><br>
                                         <h3>Over 10 million people are injured in slip and fall accidents per year. The National Center for Injury Prevention and Control reports non-fatal injuries for everyone who isn’t in the 10 to 24 years age group.</h3>
 
-                                        <h3>This is a scary statistic and needs to be improved. 3 million senior citizens are admitted to emergency rooms every year. Here are some other statistics based on the report by NFSI - </h3>
+                                        <h3>This is a scary statistic and needs to be improved. 3 million senior citizens are admitted to emergency rooms every year. Here are some other statistics based on the <a href="https://nfsi.org/nfsi-research/quick-facts/">report</a> by NFSI - </h3>
                                         <ul>
                                             <li>40% of all admissions to nursing homes are caused by slip and fall accidents</li>
                                             <li>Slip and fall accidents are the cause of most missed days in jobs.</li>
                                             <li>More men die from such accidents than women</li>
                                             <li>5% of all slip and fall accidents result in fractured bones.</li>
                                         </ul>                                            
-                                                                            </div>
+                                    </div>
+                                    <img src="../../assets/images/rpt.jpg" alt="rpt">
+                                    <br>
                                 </div>
                             </div>
                         </div>
@@ -496,6 +498,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         </div>
                                 </div>
                             </div>
+                            <img src="../../assets/images/slandfall.jpg" alt="slandfall.jpg">
+                            <br>
                         </div>
                                     </div>
 
