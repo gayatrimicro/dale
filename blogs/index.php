@@ -578,6 +578,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <h2 class="font-header" style="color: #005153;">Recent posts</h2>
                        <hr>
                                     <h3 class="font-header" style="color: #005153;padding: 10px 0;">
+                                        <a href="slip-fall-injury-lawyer/">
+                                           Slip and fall injuries in the USA
+                                        </a>
+                                    </h3>
+                                    <hr>
+                                    <h3 class="font-header" style="color: #005153;padding: 10px 0;">
                                         <a href="truck-accidents-texas/">
                                            The Rise of Truck Accidents in Texas
                                         </a>

@@ -145,7 +145,7 @@ img.emoji {
             display: none !important;
         }
         #banner {
-            background-image: url(../../assets/images/mobile-blog-dig-bite.jpg);
+            background-image: url(../../assets/images/mobsf.png);
         }
         #header{
             background-color: #F2B90C;
@@ -383,6 +383,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                <h3>Slip-and-fall injuries are more common than you think. Many times, emergency rooms of hospitals are full of victims of slip-and-fall injuries. These victims are at a loss, in terms of who to go to for seeking guidance.</h3>
 
                         <h3>Many people don’t report such incidents because they feel it's their fault that they weren’t paying attention. Due to this hesitance, the responsible parties often don’t get a chance to correct the hazards which could injure other people.</h3>
+                        <div class="text-center"><img src="../../assets/images/rpt.jpg" alt="rpt"></div> 
+                                    <br><br>
 
                         <h3>Slip and fall injuries often manifest as long term aches and therefore it's necessary to get treatment as well as compensation for the personal injury you’ve suffered. To do this, you need to contact your doctor and your <a href="https://roseknowslaw.com/practice-areas/personal-injury/">McKinney personal injury lawyer.</a></h3>
                            </div>
@@ -420,9 +422,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <li>Hip fracture</li>
                                             <li>Dislocated bones</li>
                                             <li>Soft tissue damage</li>
-                                        </ul>
-                                         <div class="text-center"><img src="../../assets/images/rpt.jpg" alt="rpt"></div> 
-                                    <br><br>
+                                        </ul>                                         
                                     </div>
                                 </div>
                             </div>
