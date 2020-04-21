@@ -148,3 +148,15 @@
       background-color: #fff;
       color: #f2b90c;
     }
+
+
+
+    @media(min-width: 320px) and (max-width: 767px)
+    {
+      .in_proprt {
+    padding: 15px;
+}
+.soc_ul li {
+    margin-right: 21px;
+}
+    }
