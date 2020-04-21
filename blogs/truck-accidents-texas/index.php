@@ -93,6 +93,7 @@ img.emoji {
 <link rel='stylesheet' id=''  href='https://roseknowslaw.com/assets/css/jquery.mCustomScrollbar.css' type='text/css' media='all' />
 <link rel='stylesheet' id=''  href='https://roseknowslaw.com/assets/css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id=''  href='https://roseknowslaw.com/assets/css/main-about.css' type='text/css' media='all' />
+<link rel='stylesheet' id=''  href='../../assets/css/pstyle.css' type='text/css' media='all' />
 <script type='text/javascript' src='https://roseknowslaw.com/assets/js/jquery/jquery.js'></script>
 <script type='text/javascript' src='https://roseknowslaw.com/assets/js/jquery/jquery-migrate.min.js'></script>
 <script type='text/javascript' src='https://roseknowslaw.com/assets/js/modernizr.custom.js'></script>
@@ -386,10 +387,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h1  style="text-transform: none;">The Rise of Truck Accidents in Texas</h1>
                     <div class="col-xl-12 col-md-11 test-center">
                        <!-- <h3>Dale Rose is a leading personal injury lawyer in the U.S. Understanding the benefits of hiring a personal injury lawyer helps in making the right decision to help your case.</h3><br>-->
-                        <h3>What happens when you find out that your family member has been injured and hospitalized due to a truck accident? </h3>
+                       <div class="row">
+                           <div class="col-sm-8">
+                               <h3>What happens when you find out that your family member has been injured and hospitalized due to a truck accident? </h3>
 
                         <h3>You panic and you don’t know who to turn to. The first and foremost thought in your head is - Are they safe? How badly were they injured? How did this happen? Why did it happen to your loved one? And lastly, who will help you get the justice you deserve?
                         </h3>
+                           </div>
+                           <div class="col-sm-4">
+                               <div class="infrmrig">
+            <div class="hedfrm">
+                <h3>START YOUR FREE CONSULTATION</h3>
+            </div>
+            <div class="frm_prt">
+                <form>
+          <div class="form-group">
+            <input type="text" class="form-control" name="" placeholder="FULL NAME">
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control" name="" placeholder="PHONE NUMBER">
+          </div> 
+          <div class="form-group">
+            <input type="text" class="form-control" name="" placeholder="EMAIL ADDRESS">
+          </div> 
+          <div class="form-group">
+            <textarea class="form-control" rows="3" placeholder="MESSAGE"></textarea>
+          </div>
+          <div><button class="btn_frmsub">GET HELP NOW</button></div>    
+        </form>
+            </div>
+        </div>
+                           </div>
+                       </div>
+                        
                         
 
                         <img src="../../assets/images/blog-truck-accident.jpg" class="blog-imgs"><br>
@@ -639,6 +669,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                                     </div>
+
+
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="in_proprt">
+                                 <div class="imgprof"><img src="../../assets/images/dummy.png" alt="dummy"></div>
+                                 <h3>Adam S.Kutnar</h3>
+                                 <h5>Personal Injury Lawyer</h5>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+                                 <ul class="soc_ul">
+                                   <li><i class="fa fa-facebook-official" aria-hidden="true"></i></li>
+                                   <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
+                                   <li><i class="fa fa-linkedin" aria-hidden="true"></i></li>
+                                   <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
+                                   <li><i class="fa fa-youtube-play" aria-hidden="true"></i></li>
+                                 </ul>
+                               </div>
+                               <div class="text-center"><button class="btn_gethelp" onclick="window.location.href='https://roseknowslaw.com/contact-us/'">GET HELP NOW</button></div>
+                            </div>
+                        </div>                
+
             </div>
         </section><!-- .post-pool -->
                 

@@ -91,6 +91,7 @@ img.emoji {
 <link rel='stylesheet' id=''  href='https://roseknowslaw.com/assets/css/jquery.mCustomScrollbar.css' type='text/css' media='all' />
 <link rel='stylesheet' id=''  href='https://roseknowslaw.com/assets/css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id=''  href='https://roseknowslaw.com/assets/css/main-about.css' type='text/css' media='all' />
+<link rel='stylesheet' id=''  href='../../assets/css/pstyle.css' type='text/css' media='all' />
 <script type='text/javascript' src='https://roseknowslaw.com/assets/js/jquery/jquery.js'></script>
 <script type='text/javascript' src='https://roseknowslaw.com/assets/js/jquery/jquery-migrate.min.js'></script>
 <script type='text/javascript' src='https://roseknowslaw.com/assets/js/modernizr.custom.js'></script>
@@ -375,9 +376,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h1  style="text-transform: none;">Benefits of Hiring a Personal Injury Lawyer </h1>
                     <div class="col-xl-12 col-md-11 test-center">
                        <!-- <h3>Dale Rose is a leading personal injury lawyer in the U.S. Understanding the benefits of hiring a personal injury lawyer helps in making the right decision to help your case.</h3><br>-->
-                        <h3>We normally look for a lawyer during the worst days of our life. Your wounds may not have even healed before you start getting calls, requests, and bills from insurance companies, doctors, police, and others. At such a moment when you should be focusing on healing, you may be feeling completely stressed about how you are going to pay for everything. This is when a personal injury lawyer can help you. </h3>
+                       <div class="row">
+                           <div class="col-sm-8">
+                               <h3>We normally look for a lawyer during the worst days of our life. Your wounds may not have even healed before you start getting calls, requests, and bills from insurance companies, doctors, police, and others. At such a moment when you should be focusing on healing, you may be feeling completely stressed about how you are going to pay for everything. This is when a personal injury lawyer can help you. </h3>
                         <h3>After experiencing a personal injury, whether as the result of a car accident, motorcycle accident or slip and fall, you may wonder if you should hire a personal injury attorney. There are, of course, many factors that go into whether you have a case, but the question of whether to hire a personal injury lawyer is always an easy one. While it can hurt your potential case if you wait too long to hire a lawyer, you will never regret simply calling one for a free consultation. Only after discussing the details of your case can you know for sure what steps you have to take next.</h3>
                         <h3>Understanding the benefits of hiring a personal injury lawyer like Dale R. Rose here will prove helpful in your decision.</h3>
+                           </div>
+                           <div class="col-sm-4">
+                               <div class="infrmrig">
+            <div class="hedfrm">
+                <h3>START YOUR FREE CONSULTATION</h3>
+            </div>
+            <div class="frm_prt">
+                <form>
+          <div class="form-group">
+            <input type="text" class="form-control" name="" placeholder="FULL NAME">
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control" name="" placeholder="PHONE NUMBER">
+          </div> 
+          <div class="form-group">
+            <input type="text" class="form-control" name="" placeholder="EMAIL ADDRESS">
+          </div> 
+          <div class="form-group">
+            <textarea class="form-control" rows="3" placeholder="MESSAGE"></textarea>
+          </div>
+          <div><button class="btn_frmsub">GET HELP NOW</button></div>    
+        </form>
+            </div>
+        </div>
+                           </div>
+                       </div>
+                        
 
                     </div>
                 </div>
@@ -477,6 +507,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                                     </div>
+                                    <div class="row">
+                            <div class="col-sm-12">
+                                <div class="in_proprt">
+                                 <div class="imgprof"><img src="../../assets/images/dummy.png" alt="dummy"></div>
+                                 <h3>Adam S.Kutnar</h3>
+                                 <h5>Personal Injury Lawyer</h5>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+                                 <ul class="soc_ul">
+                                   <li><i class="fa fa-facebook-official" aria-hidden="true"></i></li>
+                                   <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
+                                   <li><i class="fa fa-linkedin" aria-hidden="true"></i></li>
+                                   <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
+                                   <li><i class="fa fa-youtube-play" aria-hidden="true"></i></li>
+                                 </ul>
+                               </div>
+                               <div class="text-center"><button class="btn_gethelp" onclick="window.location.href='https://roseknowslaw.com/contact-us/'">GET HELP NOW</button></div>
+                            </div>
+                        </div>  
             </div>
         </section><!-- .post-pool -->
                 

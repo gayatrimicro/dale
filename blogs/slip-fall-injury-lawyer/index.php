@@ -42,32 +42,31 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="72x72" href="">
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
-    <title>Why Should I Hire a Personal Injury Attorney</title>
+    <title>Hire An Experienced Slip and Fall Injury Lawyer for Compensation</title>
 
-    <meta name="description" content="Find out the reasons you need to hire a personal injury lawyer immediately after an accident. Get legal help 24/7. 100% Trusted representation." >
-
-    <meta name="keywords" content="why should i hire a personal injury attorney, fast claim filing process, highly qualified personal injury lawyer, over one billion dollars in settlement for injury cases, experienced trial lawyer services in mckinney texas">
-
+    <meta name="description" content="To get the compensation & justice you deserve, hire an experienced Slip & Fall Injury Lawyer. Call us at (972)-737-1333 for FREE CONSULTATION" >
 
     <meta property="og:locale" content="en_US">
-    <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
-    <meta property="og:type" content="Blog">
-    <meta property="og:title" content="Why Should I Hire a Personal Injury Attorney">
-    <meta property="og:description" content="Find out the reasons you need to hire a personal injury lawyer immediately after an accident. Get legal help 24/7. 100% Trusted representation.">
-    <meta property="og:url" content="https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/">
-    <meta property="og:image" content="https://roseknowslaw.com/assets/images/blog-banner-reason-to-hire.jpg">
+<meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
+<meta property="og:type" content="Blog">
+<meta property="og:title" content="Hire An Experienced Slip and Fall Injury Lawyer for Compensation">
+<meta property="og:description" content="To get the compensation & justice you deserve, hire an experienced Slip & Fall Injury Lawyer. Call us at (972)-737-1333 for FREE CONSULTATION">
+
+    <meta property="og:url" content="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/">
+    <meta property="og:image" content="https://roseknowslaw.com/assets/images/blog-banner1.jpg">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Why Should I Hire a Personal Injury Attorney">
-    <meta name="twitter:description" content="Find out the reasons you need to hire a personal injury lawyer immediately after an accident. Get legal help 24/7. 100% Trusted representation.">
-    <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/blog-banner-reason-to-hire.jpg">
-    <meta name="twitter:url" content="https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/">
+<meta name="twitter:title" content="Hire An Experienced Slip and Fall Injury Lawyer for Compensation">
+<meta name="twitter:description" content="To get the compensation & justice you deserve, hire an experienced Slip & Fall Injury Lawyer. Call us at (972)-737-1333 for FREE CONSULTATION">
+<meta name="twitter:image" content="">
+<meta name="twitter:url" content="">
+
 
 
     <meta name="robots" content="index, follow" />
 
-    <link rel="canonical" href="https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/">
-    <link rel="alternate" href="https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/" hreflang="en-us" />
+    <link rel="canonical" href="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/">
+    <link rel="alternate" href="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/" hreflang="en-us" />
 
 
         <style type="text/css">
@@ -139,8 +138,14 @@ img.emoji {
         </script>
         
            <style>
+           .container a{
+            text-decoration: underline;
+        }
+        #qLtempOverlay{
+            display: none !important;
+        }
         #banner {
-            background-image: url(../../assets/images/mobile-blog-reason-to-hire.jpg);
+            background-image: url(../../assets/images/mobile-blog-dig-bite.jpg);
         }
         #header{
             background-color: #F2B90C;
@@ -153,20 +158,16 @@ img.emoji {
         padding: 17px 0 15% !important;
     }
 
+        @media (min-width: 1024px) {
+            #banner {
+                background-image: url(../../assets/images/sf.jpg);
+            }
+        }
+    
         .banner-text{
             width: 40%;
             float: right;
         }
-         .container a{
-            text-decoration: underline;
-        }
-
-        @media (min-width: 1024px) {
-            #banner {
-                background-image: url(../../assets/images/blog-banner-reason-to-hire.jpg);
-            }
-        }
-    
 
         @media (max-width: 480px) {
             .banner-text{
@@ -252,7 +253,6 @@ img.emoji {
                 margin-bottom: 0px;
             }
         }
-       
     </style>
 
 <script type="application/ld+json"> 
@@ -284,7 +284,7 @@ img.emoji {
           "faxNumber" : "(972) 569-9278",
           "email" : "dale@mckinneylaw.com"
           },
-      "image": "https://roseknowslaw.com/assets/images/injury_lawyer.jpg",
+      "image": "https://roseknowslaw.com/assets/images/blog-banner1.jpg",
       "priceRange": "$$$" 
     }
     ]
@@ -370,16 +370,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="page-title highlight-text">
                 <span class="txt-block  animate-1"></span>
             </div>
-        </div>
-    </section> --><!-- .spotlight -->
+        </div> -->
+    </section><!-- .spotlight -->
             <section class="latest-forefront content-block white-module no-paddingbottom-module">
             <div class="container">
                 <div class="row justify-content-center stand-heading">
-                    <h1 style="text-transform: none;">Reasons to Hire a Personal Injury Attorney</h1>
+                    <h1  style="text-transform: none;">Slip and fall injuries in the USA</h1>
                     <div class="col-xl-12 col-md-11 test-center">
-                        <div class="row">
+                       <!-- <h3>Dale Rose is a leading personal injury lawyer in the U.S. Understanding the benefits of hiring a personal injury lawyer helps in making the right decision to help your case.</h3><br>-->
+                       <div class="row">
                            <div class="col-sm-8">
-                                <h4>It is likely that when you think of a personal injury attorney, that you think of the giant billboards down the highway telling you “18- WHEELER ACCIDENT, CALL NOW!” or you think of the radio and tv commercials of injury attorneys named after work tools.<br><br> What you probably haven&rsquo;t realized yet, is that as <a href="https://roseknowslaw.com/practice-areas/personal-injury/"> Personal Injury Attorney&rsquo;s </a>we represent individuals beyond <a href="https://roseknowslaw.com/practice-areas/road-accidents/"> car accidents</a>. Such as:</h4>
+                               <h3>Slip-and-fall injuries are more common than you think. Many times, emergency rooms of hospitals are full of victims of slip-and-fall injuries. These victims are at a loss, in terms of who to go to for seeking guidance.</h3>
+
+                        <h3>If a stray or pet dog bites, you may need to hire a dog bite attorney. Since applicable laws vary from state to state, a local dog bite lawyer can tell you basic things you need to know, such as: whether you have a legal claim, the potential extent of your liability, what types of defenses may be utilized, and the possible legal and monetary consequences of your dog bite case.</h3>
+
+                        <h3>Slip and fall injuries often manifest as long term aches and therefore it's necessary to get treatment as well as compensation for the personal injury you’ve suffered. To do this, you need to contact your doctor and your <a href="https://roseknowslaw.com/practice-areas/personal-injury/">McKinney personal injury lawyer.</a></h3>
                            </div>
                            <div class="col-sm-4">
                                <div class="infrmrig">
@@ -405,43 +410,75 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
                            </div>
-                       </div>
-                       
-
+                       </div>                       
 
                     </div>
                 </div>
             </div>
             <div class="container">
                 <div class="row ">
-                                            <div class="post-entry col-12">
+
+
+                    
+
+
+
+                                            <div class="col-12">
                             <div class="row align-items-center">
-                                <div class="col-12 col-xl-6">
-                                    <div class="media-wrap  burn-anime">
-                                        <img width="1060" height="650" src="https://roseknowslaw.com/assets/images/blog-banner1.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Dog Bites" />
-                                    </div>
-                                </div>
-                                <div class="col-12 col-xl-6 text-center">
-                                    <div class="post-details mob-content">
-                                    <h2 class="font-header" style="color: #005153;">Dog Bites</h2>
+                                
+                                <div class="col-12 col-xl-12">
+                                    <div class="post-details mob-content" style="margin-bottom: 0px !important;">
                                         
-                                        <h4 class="t-justify">Dogs are wonderful animals, but nonetheless, they are animals. Although we believe our dogs would never hurt us, what happens when someone else&rsquo;s dog hurts you? Perhaps the individual is not aware of their dog that has a propensity to bite, and it gets loose. Should you be responsible for those medical damages? &nbsp;<a href="../dog-bite-attorney">Know more</a></h4>
+                                        <h4 class="t-justify">Here’s a list of symptoms you should look for when you or someone you know has suffered a slip and fall injury :</h4>
+
+                                        <ul>
+                                            <li>Bruises & cuts</li>
+                                            <li>Bone fractures</li>
+                                            <li>Ankle and wrist sprains</li>
+                                            <li>Brain injury</li>
+                                            <li>Nerve damage</li>
+                                            <li>Spinal cord injury</li>
+                                            <li>Hip fracture</li>
+                                            <li>Dislocated bones</li>
+                                            <li>Soft tissue damage</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="post-entry col-12">
+
+
+
+                        <!-- <div class="col-12">
                             <div class="row align-items-center">
-                                <div class="col-12 col-xl-6">
+                                <div class="col-0 col-xl-3 col-lg-3 col-md-3"></div>
+                                <div class="col-12 col-xl-6 col-lg-6 col-md-6">
                                     <div class="media-wrap  burn-anime">
-                                        <a href="#"><img width="1060" height="650" src="https://roseknowslaw.com/assets/images/blog-banner2.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Amusement Park Accidents" /></a>
+                                        <a href="#"><img width="1060" height="650" src="https://roseknowslaw.com/assets/images/consultation.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Free Consultations" /></a>
                                     </div>
                                 </div>
-                                <div class="col-12 col-xl-6 text-center">
+                                <div class="col-0 col-xl-3 col-lg-3 col-md-3"></div>
+
+                                
+                            </div>
+                        </div> -->
+
+
+                                            <div class="col-12">
+                            <div class="row align-items-center">
+                                
+                                <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content">
-                                        <h2 class="font-header" style="color: #005153;">Amusement Park Accidents</h2>
-                                        <h4 class="t-justify">Amusement parks are great ways to pass time and have fun during the summer. Unfortunately, there are several cases, where individuals have been severely harmed or lost their lives due to the negligence of an amusement park. According to a Time Magazine news article, nearly “12 kids each day are treated in U.S. emergency rooms for amusement ride-related injuries,” which is equivalent to 4,380 CHILDREN a year injured at an amusement park.</h4>
-                                                                                    
+                                        <h2 class="font-header" style="color: #005153;">What do the statistics say?</h2><br>
+                                        <h4 class="t-justify">Over 10 million people are injured in slip and fall accidents per year. The National Center for Injury Prevention and Control reports non-fatal injuries for everyone who isn’t in the 10 to 24 years age group.</h4>
+
+                                        <h4 class="t-justify">This is a scary statistic and needs to be improved. 3 million senior citizens are admitted to emergency rooms every year. Here are some other statistics based on the report by NFSI - </h4>
+                                        <ul>
+                                            <li>40% of all admissions to nursing homes are caused by slip and fall accidents</li>
+                                            <li>Slip and fall accidents are the cause of most missed days in jobs.</li>
+                                            <li>More men die from such accidents than women</li>
+                                            <li>5% of all slip and fall accidents result in fractured bones.</li>
+                                        </ul>                                            
                                                                             </div>
                                 </div>
                             </div>
@@ -449,50 +486,65 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                                     </div>
-                                    <br><br><br>
                                     <div class="row">
-                                        <div class="post-entry col-12">
+                                        <div class="col-12">
                             <div class="row align-items-center">
-                                <div class="col-12 col-xl-6">
-                                    <div class="media-wrap  burn-anime">
-                                        <a href="#"><img width="1060" height="650" src="https://roseknowslaw.com/assets/images/blog-banner3.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Boating or watercraft accidents" /></a>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-xl-6 text-center">
+                                
+                                <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content">
-                                    <h2 class="font-header" style="color: #005153;">Boating or watercraft accidents</h2>
+                                    <h2 class="font-header" style="color: #005153;">What are the most common causes of slip and fall accidents?</h2><br>
                                         
-                                        <h4 class="t-justify">Going to the ocean or lakes are another commonplace for people to enjoy their summer, full of opportunities to jet ski, wakeboard, wake surf, tubing, etc... and along with that, comes the possibility of getting injured. However, where an attorney can become involved is when the injury is due to the negligence of another individual&rsquo;s operation of a watercraft. Did you know, according to USCG Boating statistics, in 2018 there were 633 watercraft related deaths, and 2,511 watercraft related injuries? Alcohol was the main contributing factor in fatal boating accidents.</h4>
-                                    </div>
+                                        <h4 class="t-justify">The cause of different hazards which can lead to slip and fall injuries are -<br><br>
+
+                                        <strong>Weather :</strong> Snow or rain are one of the leading causes of these injuries. Accumulation of snow or rain and improper cleaning can lead to slip and fall incidents.<br><br>
+                                        <strong>Wet or slippery floors :</strong> Water left on floors can cause slippery floors and therefore such fall accidents.<br><br>
+                                        <strong>Design of the building :</strong> The levels of the floors in any building or the stairs can lead to fall injuries.<br><br>
+                                        <strong>Poor lighting :</strong> Inadequate lighting in the hallways and stairways can also lead to fall injuries. This is dangerous and can lead to the responsible party being sued.<br><br>
+                                        <strong>Broken sidewalks :</strong> Municipal corporations are required to maintain the sidewalks of public places. But cracks in these sidewalks can lead to tripping injuries and thus fractures.</h4>
+                                        </div>
                                 </div>
                             </div>
                         </div>
-                                            <div class="post-entry col-12">
+                                            <div class="col-12">
                             <div class="row align-items-center">
-                                <div class="col-12 col-xl-6">
-                                    <div class="media-wrap  burn-anime">
-                                        <a href="#"><img width="1060" height="650" src="https://roseknowslaw.com/assets/images/blog-banner4.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Sexual Assault" /></a>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-xl-6 text-center">
+                                
+                                <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content">
-                                        <h2 class="font-header" style="color: #005153;">Sexual Assault</h2>
-                                        <h4 class="t-justify">Perhaps the most difficult topic to discuss is harassment or sexual assault. A horrific act that robs the individual of their confidence and sense of security within the world. Not only are we supposed to feel safe walking down our streets, but we deserve to feel safe in our home and in public.  Texas has civil statutes designed to pursue those individuals and those for releasing private intimate or personal photos or videos (i.e. – for revenge or harassment).</h4>
-                                                                                    
-                                                                            </div>
+                                        <h2 class="font-header" style="color: #005153;">Do you qualify for a personal injury claim?</h2><br>
+                                        <h4 class="t-justify">To qualify for a personal injury claim, you should be physically injured and your injury should be measurable and or visible.</h4>
+                                        <h4 class="t-justify">You should always document your injuries with photographic evidence, otherwise it’s just your words against that of the responsible party. Keep noting down any pain or discomfort you might experience after a slip and fall accident.</h4>
+                                        <h4 class="t-justify">Keep a track of your hospital records to be presented during the trial.</h4>
+                                        </div>
                                 </div>
                             </div>
                         </div>
                                     </div>
 
 
-                                    <br><br><br>
                                     <div class="row">
-                                        <h4 class="t-justify">Regardless of the type of injury you suffered, our firm is here to <a href="https://roseknowslaw.com/contact-us/"> help you</a> and your family through the stress and get a recovery. <br>
-                                        If you have any <a href="https://roseknowslaw.com/faq/"> questions</a> on whether or not we would represent you for your injuries, please do not hesitate to call Dale at <a href="tel:972-562-0266"> 972-562-0266</a>.</h4>
+                                        <div class="col-12">
+                            <div class="row align-items-center">
+                                
+                                <div class="col-12 col-xl-12">
+                                    <div class="post-details mob-content">
+                                    <h2 class="font-header" style="color: #005153;">How can you seek compensation for your fall injury?</h2><br>
+                                        
+                                        <h4 class="t-justify">You should contact a qualified and experienced personal injury lawyer as soon as possible after the accident. </h4>
+                                        <h4 class="t-justify">To get the compensation and justice you deserve, you need to recover from your accident. For this, a personal injury attorney’s expertise is required.</h4>
+                                        <h4 class="t-justify">We provide you a FREE CONSULTATION to discuss the details of your personal injury at length. We make sure that the emotional trauma, long-term stress and PTSD you might have suffered won’t go in vain. </h4>
+                                        <h4 class="t-justify">You can contact us 24/7 for emergency legal services using -
+                                        </h4>
+                                        <ul>
+                                            <li>Call Us : (972) 737-1333</li>
+                                            <li>Email Us : dale@mckinneylaw.com</li>
+                                        </ul>
                                     </div>
-                                    
-                                    <div class="row">
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+
+                            <div class="row">
                             <div class="col-sm-12">
                                 <div class="in_proprt">
                                  <div class="imgprof"><img src="../../assets/images/dummy.png" alt="dummy"></div>
@@ -512,7 +564,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                </div>
                                <div class="text-center"><button class="btn_gethelp" onclick="window.location.href='https://roseknowslaw.com/contact-us/'">GET HELP NOW</button></div>
                             </div>
-                        </div>
+                        </div>  
             </div>
         </section><!-- .post-pool -->
                 
@@ -710,18 +762,17 @@ if( testInput.type !== 'date') {
     }
 }
 
-})();</script>
-<script type='text/javascript' src='../../assets/js/sf.js'></script>
-<script type='text/javascript' src='../../assets/js/sf_selective.js'></script>
-<script type='text/javascript' src='../../assets/js/SplitText.min.js'></script>
-<script type='text/javascript' src='../../assets/js/TweenMax.min.js'></script>
-<script type='text/javascript' src='../../assets/js/ScrollMagic.min.js'></script>
-<script type='text/javascript' src='../../assets/js/animation.gsap.min.js'></script>
-<script type='text/javascript' src='../../assets/js/plugins.min.js'></script>
-<script type='text/javascript' src='../../assets/js/scripts.min.js'></script>
-<script type='text/javascript' src='../../assets/js/wp-embed.min.js'></script>
-<script type='text/javascript' src='../../assets/js/ajax-load-more.min.js'></script>
-<script type='text/javascript' src='../../assets/js/forms-api.min.js'></script>
-<script type='text/javascript' src='../../assets/js/ajax-forms.min.js'></script>
+})();</script><script type='text/javascript' src='https://roseknowslaw.com/assets/js/sf.js'></script>
+<script type='text/javascript' src='https://roseknowslaw.com/asstets/js/sf_selective.js'></script>
+<script type='text/javascript' src='https://roseknowslaw.com/assets/js/SplitText.min.js'></script>
+<script type='text/javascript' src='https://roseknowslaw.com/assets/js/TweenMax.min.js'></script>
+<script type='text/javascript' src='https://roseknowslaw.com/assets/js/ScrollMagic.min.js'></script>
+<script type='text/javascript' src='https://roseknowslaw.com/assets/js/animation.gsap.min.js'></script>
+<script type='text/javascript' src='https://roseknowslaw.com/assets/js/plugins.min.js'></script>
+<script type='text/javascript' src='https://roseknowslaw.com/assets/js/scripts.min.js'></script>
+<script type='text/javascript' src='https://roseknowslaw.com/assets/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://roseknowslaw.com/assets/js/ajax-load-more.min.js'></script>
+<script type='text/javascript' src='https://roseknowslaw.com/assets/js/forms-api.min.js'></script>
+<script type='text/javascript' src='https://roseknowslaw.com/assets/js/ajax-forms.min.js'></script>
 </body>
 </html>
