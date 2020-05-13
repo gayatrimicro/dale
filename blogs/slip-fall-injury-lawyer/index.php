@@ -53,13 +53,13 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
 <meta property="og:description" content="To get the compensation & justice you deserve, hire an experienced Slip & Fall Injury Lawyer. Call us at (972)-737-1333 for FREE CONSULTATION">
 
     <meta property="og:url" content="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/">
-    <meta property="og:image" content="https://roseknowslaw.com/assets/images/blog-banner1.jpg">
+    <meta property="og:image" content="https://roseknowslaw.com/assets/images/csf.jpg">
 
     <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hire An Experienced Slip and Fall Injury Lawyer for Compensation">
 <meta name="twitter:description" content="To get the compensation & justice you deserve, hire an experienced Slip & Fall Injury Lawyer. Call us at (972)-737-1333 for FREE CONSULTATION">
-<meta name="twitter:image" content="">
-<meta name="twitter:url" content="">
+<meta name="twitter:image" content="https://roseknowslaw.com/assets/images/csf.jpg">
+<meta name="twitter:url" content="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/">
 
 
 

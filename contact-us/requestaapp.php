@@ -23,7 +23,7 @@
 
 	   			  <tr><td style='font-size:1.3em;' colspan='2'><strong>Contact Details</strong></td></tr>
 	   			   <tr>
-	                   <td align='left' width='35%'><strong>First name :</strong></td>
+	                   <td align='left' width='35%'><strong>Name :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ".  $name ."</td>
 	                 </tr>

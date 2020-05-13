@@ -23,7 +23,7 @@
 
 	   			  <tr><td style='font-size:1.3em;' colspan='2'><strong>Contact Details</strong></td></tr>
 	   			   <tr>
-	                   <td align='left' width='35%'><strong>First name :</strong></td>
+	                   <td align='left' width='35%'><strong>First Name :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ".  $fname ."</td>
 	                 </tr>
@@ -51,8 +51,8 @@
 	                 
 	               </table>";  
 	              
-	  	  //if(mail("dale@roseknowslaw.com,aarielalmeida88@gmail.com", $subject, $message, $headers))
-			  if(mail("aarielalmeida88@gmail.com", $subject, $message, $headers))
+	  	  if(mail("dale@roseknowslaw.com,aarielalmeida88@gmail.com", $subject, $message, $headers))
+			  //if(mail("aarielalmeida88@gmail.com", $subject, $message, $headers))
 	  	  {
 			// delete the cookie so it cannot sent again by refreshing this page
 			setcookie('tntcon','');

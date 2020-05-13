@@ -33,7 +33,7 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"/>
     
     <meta name="google-site-verification" content="6RBI3a0zgmdpN6iXL_VdUHccPHRL4FzxQ4ix2w1ECPY" />
-
+	<meta name="p:domain_verify" content="88983d501a18e4f559057dc8a9d79d45"/>
     <link rel="icon" href="assets/images/favicon.png" type="image/gif" sizes="16x16">
     <link rel="apple-touch-icon" href="assets/images/favicon.ico">
     <link rel="apple-touch-icon" sizes="72x72"

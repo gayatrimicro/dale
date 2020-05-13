@@ -401,7 +401,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         
                         
 
-                        <img src="../../assets/images/blog-truck-accident.jpg" class="blog-imgs"><br>
+                        <!--<img src="../../assets/images/blog-truck-accident.jpg" class="blog-imgs"><br>-->
 
 
                         <h3>18-wheelers aren’t a new thing to happen to the USA. Trucks are vital to the country’s economy & play an irreplaceable role in the last mile delivery in the supply chain. When we look at a truck, we see a huge intimidating vehicle which is the cause of 
@@ -435,7 +435,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-                                        <img src="../../assets/images/blog-truck-accident-rash.jpg" class="blog-imgs"><br>
+                                       <!-- <img src="../../assets/images/blog-truck-accident-rash.jpg" class="blog-imgs">--><br>
 
                                         <h3 class="t-justify">This is a case of negligence and improper passing on the truck driver’s part because he ignored the “walk” sign shown by the woman. The 80,000 pound truck crashed into her, leaving her injured.</h3> 
 
@@ -561,11 +561,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <ul>
                                             <li><strong>Fatal crashes</strong> - In which a person involved in a motor crash died within 30 days of the accident. This involves other non-motorists too.</li>
 
-                                             <img src="../../assets/images/blog-truck-accident-river.jpg" class="blog-imgs"><br>
+                                           <!--  <img src="../../assets/images/blog-truck-accident-river.jpg" class="blog-imgs">--><br>
 
 
                                             <li><strong>Injury crashes</strong> - In which no one died in the accident but, at least one person was injured in one of the following ways: (1) an incapacitating injury; (2) a visible but not incapacitating injury; (3) a possible, not visible injury; or (4) an injury of unknown severity. </li>
-                                             <img src="../../assets/images/blog-truck-accident-with-car.jpg" class="blog-imgs"><br>
+                                           <!--  <img src="../../assets/images/blog-truck-accident-with-car.jpg" class="blog-imgs">--><br>
 
                                             <li><strong>PDO crashes</strong> - The motor vehicles crashed on a trafficway, but no one suffered any injuries.</li>
                                         </ul>    
