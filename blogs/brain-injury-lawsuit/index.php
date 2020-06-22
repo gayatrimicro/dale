@@ -42,31 +42,31 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="72x72" href="">
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
-    <title>Hire An Experienced Slip and Fall Injury Lawyer for Compensation</title>
+    <title>Things You Should Know About Brain Injury Lawsuit</title>
 
-    <meta name="description" content="To get the compensation & justice you deserve, hire an experienced Slip & Fall Injury Lawyer. Call us at (972)-737-1333 for FREE CONSULTATION" >
+    <meta name="description" content="Learn more about how to get compensation for your brain injuries. Call on (972) 737-1333 for a free consultation." >
 
     <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
 <meta property="og:type" content="Blog">
-<meta property="og:title" content="Hire An Experienced Slip and Fall Injury Lawyer for Compensation">
-<meta property="og:description" content="To get the compensation & justice you deserve, hire an experienced Slip & Fall Injury Lawyer. Call us at (972)-737-1333 for FREE CONSULTATION">
+<meta property="og:title" content="Things You Should Know About Brain Injury Lawsuit">
+<meta property="og:description" content="Learn more about how to get compensation for your brain injuries. Call on (972) 737-1333 for a free consultation.">
 
-    <meta property="og:url" content="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/">
-    <meta property="og:image" content="https://roseknowslaw.com/assets/images/csf.jpg">
+    <meta property="og:url" content="https://roseknowslaw.com/blogs/brain-injury-lawsuit/">
+    <meta property="og:image" content="https://roseknowslaw.com/assets/images/blog-brain-injury-1.jpg">
 
     <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Hire An Experienced Slip and Fall Injury Lawyer for Compensation">
-<meta name="twitter:description" content="To get the compensation & justice you deserve, hire an experienced Slip & Fall Injury Lawyer. Call us at (972)-737-1333 for FREE CONSULTATION">
-<meta name="twitter:image" content="https://roseknowslaw.com/assets/images/csf.jpg">
-<meta name="twitter:url" content="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/">
+<meta name="twitter:title" content="Things You Should Know About Brain Injury Lawsuit">
+<meta name="twitter:description" content="Learn more about how to get compensation for your brain injuries. Call on (972) 737-1333 for a free consultation.">
+<meta name="twitter:image" content="https://roseknowslaw.com/assets/images/blog-brain-injury-1.jpg">
+<meta name="twitter:url" content="https://roseknowslaw.com/blogs/brain-injury-lawsuit/">
 
 
 
     <meta name="robots" content="index, follow" />
 
-    <link rel="canonical" href="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/">
-    <link rel="alternate" href="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/" hreflang="en-us" />
+    <link rel="canonical" href="https://roseknowslaw.com/blogs/brain-injury-lawsuit/">
+    <link rel="alternate" href="https://roseknowslaw.com/blogs/brain-injury-lawsuit/" hreflang="en-us" />
 
 
         <style type="text/css">
@@ -145,7 +145,7 @@ img.emoji {
             display: none !important;
         }
         #banner {
-            background-image: url(../../assets/images/mobsf.png);
+            background-image: url(../../assets/images/brain-injury-mob.jpg);
         }
         #header{
             background-color: #F2B90C;
@@ -160,7 +160,7 @@ img.emoji {
 
         @media (min-width: 1024px) {
             #banner {
-                background-image: url(../../assets/images/sfban.jpg);
+                background-image: url(../../assets/images/texas-brain-injury.jpg);
             }
         }
     
@@ -375,22 +375,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <section class="latest-forefront content-block white-module no-paddingbottom-module">
             <div class="container">
                 <div class="row justify-content-center stand-heading">
-                    <h1  style="text-transform: none;">Slip and fall injuries in the USA</h1>
+                    <h1  style="text-transform: none;">What are brain injuries and can you apply for a personal injury lawsuit?</h1>
                     <div class="col-xl-12 col-md-11 test-center">
                        <!-- <h3>Dale Rose is a leading personal injury lawyer in the U.S. Understanding the benefits of hiring a personal injury lawyer helps in making the right decision to help your case.</h3><br>-->
                        <div class="row">
                            <div class="col-sm-12">
-                               <h3>Slip-and-fall injuries are more common than you think. Many times, emergency rooms of hospitals are full of victims of slip-and-fall injuries. These victims are at a loss, in terms of who to go to for seeking guidance.</h3>
+                               <h3><strong>Brain injuries</strong> are a result of a violent blow to the head or penetration of an object into the skull. Your brain cells are affected temporarily if you survive. Bruising, torn tissues, bleeding and other physical damage can be caused by severe traumatic brain injuries.</h3>
 
-                        <h3>Many people don’t report such incidents because they feel it's their fault that they weren’t paying attention. Due to this hesitance, the responsible parties often don’t get a chance to correct the hazards which could injure other people.</h3>
-                        <div class="text-center"><img src="../../assets/images/rpt.jpg" alt="rpt"></div> 
-                                    <br><br>
+                               <h3>The most common causes of brain injuries are -</h3>
 
-                        <h3>Slip and fall injuries often manifest as long term aches and therefore it's necessary to get treatment as well as compensation for the personal injury you’ve suffered. To do this, you need to contact your doctor and your <a href="https://roseknowslaw.com/practice-areas/personal-injury/">McKinney personal injury lawyer.</a></h3>
+                                        <ul>
+                                            <li><a href="slip-fall-injury-lawyer/">Slip and fall injuries</a></li>
+                                            <li>Vehicle collisions</li>
+                                            <li>Physical violence</li>
+                                            <li>Sports related injuries and resulting illnesses</li>
+                                            <li>Blasts and other traumatic injuries</li>
+                                            
+                                        </ul>                                         
+
+                        
                            </div>
-                           <div class="col-sm-4">
-                               <?php include '../hlpfrm.php'?>
-                           </div>
+                           
                        </div>                       
 
                     </div>
@@ -400,66 +405,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row ">
 
 
-                    
 
 
-
-                                            <div class="col-12">
-                            <div class="row align-items-center">
-                                
-                                <div class="col-12 col-xl-12">
-                                    <div class="post-details mob-content" style="margin-bottom: 0px !important;">
-                                        
-                                        <h3>Here’s a list of symptoms you should look for when you or someone you know has suffered a slip and fall injury:</h3>
-
-                                        <ul>
-                                            <li>Bruises & cuts</li>
-                                            <li>Bone fractures</li>
-                                            <li>Ankle and wrist sprains</li>
-                                            <li><a href="brain-injury-lawsuit/">Brain injury</a></li>
-                                            <li>Nerve damage</li>
-                                            <li>Spinal cord injury</li>
-                                            <li>Hip fracture</li>
-                                            <li>Dislocated bones</li>
-                                            <li>Soft tissue damage</li>
-                                        </ul>                                         
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-                        <!-- <div class="col-12">
-                            <div class="row align-items-center">
-                                <div class="col-0 col-xl-3 col-lg-3 col-md-3"></div>
-                                <div class="col-12 col-xl-6 col-lg-6 col-md-6">
-                                    <div class="media-wrap  burn-anime">
-                                        <a href="#"><img width="1060" height="650" src="https://roseknowslaw.com/assets/images/consultation.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Free Consultations" /></a>
-                                    </div>
-                                </div>
-                                <div class="col-0 col-xl-3 col-lg-3 col-md-3"></div>
-
-                                
-                            </div>
-                        </div> -->
-
-
-                                            <div class="col-12">
+                         <div class="col-12">
                             <div class="row align-items-center">
                                 
                                 <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content">
-                                        <h2 class="font-header" style="color: #005153;">What do the statistics say?</h2><br>
-                                        <h3>Over 10 million people are injured in slip and fall accidents per year. The National Center for Injury Prevention and Control reports non-fatal injuries for everyone who isn’t in the 10 to 24 years age group.</h3>
+                                       <h3>These common injuries can result in severe psychological and physical illnesses in life as a direct or indirect result of that <strong>traumatic brain injury (TBI)</strong>.</h3>
+                                        <div class="text-center">
+                                            <img src="../../assets/images/TBI-EDHD-2006-2014.jpg" alt="rpt">
+                                         </div> 
+                                    <br> 
+                                        
+                                        <h3>In 2014, there were approximately 2.87 million TBI-EDHDs in the United States, including over 837,000 occurring among children. This includes:</h3>
 
-                                        <h3>This is a scary statistic and needs to be improved. 3 million senior citizens are admitted to emergency rooms every year. Here are some other statistics based on the <a href="https://nfsi.org/nfsi-research/quick-facts/">report</a> by NFSI - </h3>
                                         <ul>
-                                            <li>40% of all admissions to nursing homes are caused by slip and fall accidents</li>
-                                            <li>Slip and fall accidents are the cause of most missed days in jobs.</li>
-                                            <li>More men die from such accidents than women</li>
-                                            <li>5% of all slip and fall accidents result in fractured bones.</li>
-                                        </ul>                                            
+                                           <li>Approximately 2.53 million TBI-related ED visits, including over 812,00 occurring among children.</li>
+                                            <li>Approximately 288,000 TBI-related hospitalizations, including over 23,000 occurring among children.</li>
+                                            <li>56,800 TBI-related deaths, including 2,529 occurring among children.</li>
+                                        </ul>
+
+                                        <br>
+                                        <h3>The following tips can help older adults avoid falls around the house:</h3>
+
+                                            <ul>
+                                                <li>Install handrails in bathrooms</li>
+                                                <li>Put a nonslip mat in the bathtub or shower</li>
+                                                <li>Remove area rugs</li>
+                                                <li>Install handrails on both sides of staircases</li>
+                                                <li>Improve lighting in the home</li>
+                                                <li>Keep stairs and floors clear of clutter</li>
+                                                <li>Get regular vision checkups</li>
+                                                <li>Get regular exercise</li>
+                                                <li>Put a non slip mat in the bathtub or shower</li>
+                                                <li>Use playgrounds that have shock-absorbing materials on the ground</li>
+                                                <li>Make sure area rugs are secure</li>
+                                                <li>Don't let children play on fire escapes or balconies</li>
+
+                                            </ul>
+
+
                                     </div>                                    
                                 </div>
                             </div>
@@ -473,16 +459,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                                 <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content">
-                                    <h2 class="font-header" style="color: #005153;">What are the most common causes of slip and fall accidents?</h2><br>
-                                        
-                                        <h3>The cause of different hazards which can lead to slip and fall injuries are -<br><br>
-
-                                        <strong>Weather :</strong> Snow or rain are one of the leading causes of these injuries. Accumulation of snow or rain and improper cleaning can lead to slip and fall incidents.<br><br>
-                                        <strong>Wet or slippery floors :</strong> Water left on floors can cause slippery floors and therefore such fall accidents.<br><br>
-                                        <strong>Design of the building :</strong> The levels of the floors in any building or the stairs can lead to fall injuries.<br><br>
-                                        <strong>Poor lighting :</strong> Inadequate lighting in the hallways and stairways can also lead to fall injuries. This is dangerous and can lead to the responsible party being sued.<br><br>
-                                        <strong>Broken sidewalks :</strong> Municipal corporations are required to maintain the sidewalks of public places. But cracks in these sidewalks can lead to tripping injuries and thus fractures.</h3>
-                                        </div>
+                                        <h2 class="font-header" style="color: #005153;">
+                                            Should you seek a personal injury lawyer?
+                                        </h2>
+                                        <br>
+                                        <h3>If your <strong>traumatic brain injury</strong> was caused due to someone else’s negligence and could have been avoided, you are eligible to seek compensation for your traumatic brain injury.</h3>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -491,12 +473,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                                 <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content">
-                                        <h2 class="font-header" style="color: #005153;">Do you qualify for a personal injury claim?</h2><br>
-                                        <h3>To qualify for a personal injury claim, you should be physically injured and your injury should be measurable and or visible.</h3>
-                                        <h3>You should always document your injuries with photographic evidence, otherwise it’s just your words against that of the responsible party. Keep noting down any pain or discomfort you might experience after a slip and fall accident.</h3>
-                                        <div class="text-center"><img src="../../assets/images/slandfall.jpg" class="wid_img" alt="slandfall.jpg">
+                                        <h2 class="font-header" style="color: #005153;">How can you seek compensation for your brain injury?</h2>
+                                        <br>
+                                        
+                                        <div class="text-center"><img src="../../assets/images/Timeline-of-a-Personal-Injury.jpg" class="wid_img" alt="">
                             <br><br></div>
-                                        <h3>Keep a track of your hospital records to be presented during the trial.</h3>
+                                        <h3>You should contact a qualified and experienced personal injury lawyer as soon as possible after the accident. 
+                                        </h3>
+
+                                        <h3>To get the compensation and justice you deserve, you need to recover from your accident. For this, a personal injury attorney’s expertise is required.</h3>
+
+<h3>We provide you a free consultation to discuss the details of your personal injury at length. We make sure that the emotional trauma, long-term stress and PTSD you might have suffered won’t go in vain. </h3>
+
+<h3>You can contact us 24/7 for emergency legal services using -</h3>
+
+                                        <ul>
+                                            <li>Call Us : (972) 737-1333</li>
+                                            <li>Email Us : dale@mckinneylaw.com</li>
+                                        </ul>
+
                                         </div>
                                 </div>
                             </div>
@@ -505,28 +500,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
 
 
-                                    <div class="row">
-                                        <div class="col-12">
-                            <div class="row align-items-center">
-                                
-                                <div class="col-12 col-xl-12">
-                                    <div class="post-details mob-content">
-                                    <h2 class="font-header" style="color: #005153;">How can you seek compensation for your fall injury?</h2><br>
-                                        
-                                        <h3>You should contact a qualified and experienced personal injury lawyer as soon as possible after the accident. </h3>
-                                        <h3>To get the compensation and justice you deserve, you need to recover from your accident. For this, a personal injury attorney’s expertise is required.</h3>
-                                        <h3>We provide you a FREE CONSULTATION to discuss the details of your personal injury at length. We make sure that the emotional trauma, long-term stress and PTSD you might have suffered won’t go in vain. </h3>
-                                        <h3>You can contact us 24/7 for emergency legal services using -
-                                        </h3>
-                                        <ul>
-                                            <li>Call Us : (972) 737-1333</li>
-                                            <li>Email Us : dale@mckinneylaw.com</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                                    </div>
 
                             <div class="row">
                             <div class="col-sm-12">

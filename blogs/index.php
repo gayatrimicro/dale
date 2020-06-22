@@ -445,6 +445,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="row align-items-center  box-shadow">
                                 <div class="col-12 col-xl-4">
                                     <div class="media-wrap  burn-anime">
+                                        <a href="#"><img src="../assets/images/blog-brain-injury-1.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Reasons to hire personal injury attorney" /></a>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-xl-8">
+                                    <div class="content">
+                                        <div class="mob-content" style="padding: 20px;">
+                                        <h2 class="font-header heading-blog">Things You Should Know About Brain Injury Lawsuit</h2>
+                                            <hr class="divider-line"><br>
+                                            <h4 class="t-justify description-content">What are brain injuries and can you apply for a personal injury lawsuit?</h4>
+
+                                            <a href="brain-injury-lawsuit/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a> 
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="post-entry col-12">
+                            <div class="row align-items-center  box-shadow">
+                                <div class="col-12 col-xl-4">
+                                    <div class="media-wrap  burn-anime">
                                         <a href="#"><img src="../assets/images/sf.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Reasons to hire personal injury attorney" /></a>
                                     </div>
                                 </div>
@@ -560,8 +583,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
 
 
-                        
-                        
+
 
 
                                     </div>
@@ -577,6 +599,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-xl-4 mob-display-n">
                        <h2 class="font-header" style="color: #005153;">Recent posts</h2>
                        <hr>
+                                    <h3 class="font-header" style="color: #005153;padding: 10px 0;">
+                                        <a href="brain-injury-lawsuit/">
+                                           Things You Should Know About Brain Injury Lawsuit
+                                        </a>
+                                    </h3>
+                                    <hr>
                                     <h3 class="font-header" style="color: #005153;padding: 10px 0;">
                                         <a href="slip-fall-injury-lawyer/">
                                            Slip and fall injuries in the USA
