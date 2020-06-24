@@ -1502,29 +1502,29 @@ style="background-image:url(assets/images/accident-adult.jpg);">
                     <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
                         <div class="media-wrap">
                             <!-- <a href="#"><img width="500" height="640" src="assets/images/attorney-after-injury.jpg" class="attachment-500x640 size-500x640 wp-post-image" alt=""  sizes="(max-width: 500px) 100vw, 500px" /></a> -->
-                            <a href="blogs/truck-accidents-texas/">
+                            <a href="https://roseknowslaw.com/blogs/truck-accidents-texas/">
                              <img img width="500" height="640" src="assets/images/blog-truck-accident-with-car2.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Personal Injury" sizes="(max-width: 500px) 100vw, 500px" />
                          </a>
                      </div>
                      <div class="post-details">
                         <div class="meta">
-                            <a href="blogs/truck-accidents-texas/" rel="tag">From the blog</a>           
+                            <a href="https://roseknowslaw.com/blogs/truck-accidents-texas/" rel="tag">From the blog</a>           
                         </div>
-                        <p><a href="blogs/truck-accidents-texas/">The Rise of Truck Accidents in Texas</a></p>
+                        <p><a href="https://roseknowslaw.com/blogs/truck-accidents-texas/">The Rise of Truck Accidents in Texas</a></p>
                     </div>
                 </div>  
                 <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
                     <div class="media-wrap">
 
-                        <a href="blogs/dog-bite-attorney">
+                        <a href="https://roseknowslaw.com/blogs/dog-bite-attorney/">
                             <img img width="500" height="640" src="assets/images/dog-bite.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Dog Bite Attorney" sizes="(max-width: 500px) 100vw, 500px" />
                         </a>
                     </div>
                     <div class="post-details">
                         <div class="meta">
-                            <a href="blogs/dog-bite-attorney" rel="tag">From the blog</a>            
+                            <a href="https://roseknowslaw.com/blogs/dog-bite-attorney/" rel="tag">From the blog</a>            
                         </div>
-                        <p><a href="blogs/dog-bite-attorney">When to See a Dog-bite Attorney</a></p>
+                        <p><a href="https://roseknowslaw.com/blogs/dog-bite-attorney/">When to See a Dog-bite Attorney</a></p>
                     </div>
                 </div> 
 
