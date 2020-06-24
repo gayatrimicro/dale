@@ -1462,22 +1462,22 @@ style="background-image:url(assets/images/accident-adult.jpg);">
                         <div class="sticky-block">
                             <div class="post-entry burn-anime">
                                 <div class="media-wrap">
-                                    <a href="https://roseknowslaw.com/blogs/truck-accidents-texas/">
+                                    <a href="https://roseknowslaw.com/blogs/brain-injury-lawsuit/">
 
 
 
 
-                                        <img width="768" height="880" src="assets/images/truck-accident.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Truck Accident Lawyer" />
+                                        <img width="768" height="880" src="assets/images/brain-injury-lawyer-shrable.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Brain Injury Lawyer" />
 
 
                                     </a>
                                 </div>
                                 <div class="post-details">
                                     <div class="meta">
-                                        <a href="https://roseknowslaw.com/blogs/truck-accidents-texas/" rel="tag">FROM THE BLOG</a>                    
+                                        <a href="https://roseknowslaw.com/blogs/brain-injury-lawsuit/" rel="tag">FROM THE BLOG</a>                    
                                         
                                     </div>
-                                    <p><a href="https://roseknowslaw.com/blogs/truck-accidents-texas/">Things You Should Know About Brain Injury Lawsuit</a></p>
+                                    <p><a href="https://roseknowslaw.com/blogs/brain-injury-lawsuit/">Things You Should Know About Brain Injury Lawsuit</a></p>
                                 </div>
                             </div>
                         </div>
@@ -1486,15 +1486,15 @@ style="background-image:url(assets/images/accident-adult.jpg);">
 
                            <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
                             <div class="media-wrap">
-                                <a href="blogs/dog-bite-attorney">
-                                   <img img width="500" height="640" src="assets/images/dog-bite.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Dog Bite Attorney" sizes="(max-width: 500px) 100vw, 500px" />
+                                <a href="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/">
+                                   <img img width="500" height="640" src="assets/images/sff.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Dog Bite Attorney" sizes="(max-width: 500px) 100vw, 500px" />
                                </a>
                            </div>
                            <div class="post-details">
                             <div class="meta">
-                                <a href="blogs/dog-bite-attorney" rel="tag">From the blog</a>            
+                                <a href="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/" rel="tag">From the blog</a>            
                             </div>
-                            <p><a href="blogs/dog-bite-attorney">Slip and fall injuries in the USA</a></p>
+                            <p><a href="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/">Slip and fall injuries in the USA</a></p>
                         </div>
                     </div>  
 
@@ -1503,7 +1503,7 @@ style="background-image:url(assets/images/accident-adult.jpg);">
                         <div class="media-wrap">
                             <!-- <a href="#"><img width="500" height="640" src="assets/images/attorney-after-injury.jpg" class="attachment-500x640 size-500x640 wp-post-image" alt=""  sizes="(max-width: 500px) 100vw, 500px" /></a> -->
                             <a href="blogs/truck-accidents-texas/">
-                             <img img width="500" height="640" src="assets/images/truck-accident.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Personal Injury" sizes="(max-width: 500px) 100vw, 500px" />
+                             <img img width="500" height="640" src="assets/images/blog-truck-accident-with-car2.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Personal Injury" sizes="(max-width: 500px) 100vw, 500px" />
                          </a>
                      </div>
                      <div class="post-details">
@@ -1531,7 +1531,7 @@ style="background-image:url(assets/images/accident-adult.jpg);">
                 <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
                     <div class="media-wrap">
 
-                     <a href="blogs/benefits-of-hiring-personal-injury-lawyer">
+                     <a href="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/">
                          <img img width="500" height="640" src="assets/images/personal-injury-lawyer.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" sizes="(max-width: 500px) 100vw, 500px" />
                      </a>
 
@@ -1539,21 +1539,21 @@ style="background-image:url(assets/images/accident-adult.jpg);">
                  </div>
                  <div class="post-details">
                     <div class="meta">
-                        <a href="blogs/benefits-of-hiring-personal-injury-lawyer" rel="tag">From the blog</a>            
+                        <a href="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/" rel="tag">From the blog</a>            
                     </div>
-                    <p><a href="blogs/benefits-of-hiring-personal-injury-lawyer">Benefits of Hiring a Personal Injury Lawyer</a></p>
+                    <p><a href="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/">Benefits of Hiring a Personal Injury Lawyer</a></p>
                 </div>
             </div>                                                                                                                                                                                                                                                                                                                   <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
                 <div class="media-wrap">
-                    <a href="blogs">
-                       <img img width="500" height="640" src="assets/images/Untitled-7-new.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" sizes="(max-width: 500px) 100vw, 500px" />
+                    <a href="https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/">
+                       <img img width="500" height="640" src="assets/images/car-accident-new.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" sizes="(max-width: 500px) 100vw, 500px" />
                    </a>
                </div>
                <div class="post-details">
                 <div class="meta">
-                    <a href="blogs" rel="tag">From the blog</a>            
+                    <a href="https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/" rel="tag">From the blog</a>            
                 </div>
-                <p><a href="blogs">Reasons to Hire a Personal Injury Attorney</a></p>
+                <p><a href="https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/">Reasons to Hire a Personal Injury Attorney</a></p>
             </div>
         </div>                                                                                                                                                          <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
             <div class="media-wrap">
