@@ -522,7 +522,55 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div> -->
                 <div class="col-xl-12">
                     <div class="content-entry">
-                        <p class="hero-text" style="margin-top: 0px !important;">How much will I get if I make a claim for personal injury compensation?</p>
+                        <p class="hero-text" style="margin-top: 0px !important;">Who is Dale Rose?</p>
+                        <p>Dale R. Rose is an experienced attorney-at-law who specialises in personal injury law. He has amassed 26+ years of experience as a personal injury attorney in his career.</p>
+
+                        <p class="hero-text">What are Dale Rose’s primary practice areas?</p>
+                        <p>His primary practice areas are - <a href="https://roseknowslaw.com/practice-areas/personal-injury/"><b>personal injury</b></a>, <a href="https://roseknowslaw.com/practice-areas/road-accidents/"><b>car and truck accidents</b></a>, catastrophic injuries, <a href="https://roseknowslaw.com/practice-areas/accident-at-work/"><b>workplace accidents</b></a>, dog-bites, spinal cord, wrongful death & other <a href="https://roseknowslaw.com/practice-areas/serious-injury/"><b>serious injuries</b></a> to the body.</p>
+
+                        <p class="hero-text">What are Dale Rose’s professional affiliations?</p>
+                        <p>Dale Rose has been affiliated with the following federal and state bodies - The State Bar of Texas, the Northern District of Texas - Federal, and the Eastern District of Texas - Federal.</p>
+
+                        <p class="hero-text">Which associations is Dale Rose a member of?</p>
+                        <p>Dale Rose is a proud member of the following associations -</p>
+                        <br>
+                        <p>
+                            <ul>
+                                <li>Collin County Bar Association – Mock Trial Coordinator</li>
+                                <li>State Bar of Texas (Civil Litigation member) Multi-Million Dollar Advocates Forum</li>
+                                <li>Collin County Bar Association</li>
+                                <li>McKinney Bar Association</li>
+                                <li>McDermott Road Church of Christ</li>
+                                <li>National Trial Lawyers Top 100</li>
+                                <li>Collin County Bar Association</li>
+                                <li>Texas Trial Lawyers Association</li>
+                                <li>Million Dollar Advocates Forum</li>
+                                <li>Multi-Million Dollar Advocates Forum</li>
+                            </ul>
+                        </p>
+
+                        <p class="hero-text">What are Dale Rose’s educational qualifications?</p>
+                        <p>His educational qualifications are -</p>
+                        <br>
+                        <p>
+                            <ul>
+                                <li>Corning Community College (1982) - A.A.S in Criminal Justice</li>
+                                <li>University of Texas, Dallas (1988) - B.S in Government and Politics</li>
+                                <li>Texas Tech School of Law (1992) - J.D.</li>
+                            </ul>
+                        </p>
+
+                        <p class="hero-text">Why should I choose Dale Rose as my personal injury attorney?</p>
+                        <p>When you choose Dale Rose as a <a href="https://roseknowslaw.com/"><b>personal injury attorney</b></a>, you ensure that you will get justice and the compensation you deserve. Dale helps you make an informed decision when you file a personal injury claim as a result of negligence on the part of wrong-doers. </p>
+                        <p>When you come to us, we evaluate your case minutely and make sure that the settlement you’re asking for is reasonable, just and covers all the long-term damages you’ll be dealing with. We help you navigate discussions with your insurance company.</p>
+
+                        <p class="hero-text">What are the areas Dale Rose serves in?</p>
+                        <p>Dale Rose primarily serves McKinney, TX and surrounding counties like - Collin County, Allen, Plano, Frisco, Denton, Fairview, Blue Ridge, Grayson County and more.</p>
+
+                        <p class="hero-text">How can I contact an experienced personal injury lawyer near McKinney, TX?</p>
+                        <p>You can call us today at (972) 737-1333 or email us at dale@mckinneylaw.com to schedule a free consultation with an <a href="https://roseknowslaw.com/"><b>experienced personal injury lawyer.</b></a></p>
+
+                        <p class="hero-text">How much will I get if I make a claim for personal injury compensation?</p>
                         <p>Personal injury compensation amount that you could receive depends upon the degree of your injuries and its after effect on your daily life. After your personal injury claim is accessed by our team, they provide you with an estimate as to how much they can provide as compensation. In most cases, the more severe your accident, the more compensation you are likely to get.</p>
                         
                         <p class="hero-text">How are personal injury damages calculated?</p>

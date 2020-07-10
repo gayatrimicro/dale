@@ -394,9 +394,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <li>Persons involved in fatal accidents <b>(57)</b></li>
                                             <li>Pedestrians involved in fatal accidents <b>(2)</b></li>
                                             
-                                        </ul>                                         
+                                        </ul> 
+                                        <br>                                        
 
-                        
+                        <div class="text-center">
+                                            <img src="../../assets/images/frm.png" alt="Fatal accident count">
+                                         </div> 
+                                         <br>
                            </div>
                            
                        </div>                       
@@ -416,9 +420,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="col-12 col-xl-12">
                                     <div class="post-details mob-content">
                                        <h3>Professional help from expert car accident lawyers like Dale R. Rose, helps you receive the compensation you deserve after a car accident in Plano because we help you deal with your insurance providers and the person responsible for your car crash.</h3>
-                                        <div class="text-center">
+                                        <!-- <div class="text-center">
                                             <img src="../../assets/images/caralaw.jpg" alt="Car accident lawyer">
-                                         </div> 
+                                         </div>  -->
                                     <br> 
                                         
                                         <h3>Many times, insurance agents representing other drivers involved in your car accident may call you to get you to spare their client and forgo your claim. Wrongful death or personal injuries caused by road accidents can invite a lifetime of physical pain and emotional trauma to you and your loved ones.</h3>
@@ -460,6 +464,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <ul>
                                             <li>Call Us : <a href="tel:(972) 737-1333" style="text-decoration: none;"><b>(972) 737-1333</b></a></li>
                                             <li>Email Us : <a href="mailto:dale@mckinneylaw.com" style="text-decoration: none;"><b>dale@mckinneylaw.com</b></a></li>
+                                            <br>
                                         </ul>
 
                                         </div>
