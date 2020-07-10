@@ -1467,36 +1467,22 @@ style="background-image:url(assets/images/accident-adult.jpg);">
 
 
 
-                                        <img width="768" height="880" src="assets/images/brain-injury-lawyer-shrable.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Brain Injury Lawyer" />
+                                        <img width="768" height="880" src="assets/images/acci.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Brain Injury Lawyer" />
 
 
                                     </a>
                                 </div>
                                 <div class="post-details">
                                     <div class="meta">
-                                        <a href="https://roseknowslaw.com/blogs/brain-injury-lawsuit/" rel="tag">FROM THE BLOG</a>                    
+                                        <a href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/" rel="tag">FROM THE BLOG</a>                    
                                         
                                     </div>
-                                    <p><a href="https://roseknowslaw.com/blogs/brain-injury-lawsuit/">Things You Should Know About Brain Injury Lawsuit</a></p>
+                                    <p><a href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/">Get Help from an Expert Plano Car Accident Lawyer</a></p>
                                 </div>
                             </div>
                         </div>
                     </div>                                                                                                                                  <div class="col-xl-6">
                         <div class="row">
-
-                            <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
-            <div class="media-wrap">
-                <a href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer">
-                    <img img width="500" height="640" src="assets/images/acci.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" sizes="(max-width: 500px) 100vw, 500px" />
-                </a>
-            </div>
-            <div class="post-details">
-                <div class="meta">
-                    <a href="blogs" rel="tag">From the blog</a>           
-                </div>
-                <p><a href="blogs">Get Help from an Expert Plano Car Accident Lawyer</a></p>
-            </div>
-        </div> 
 
                            <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
                             <div class="media-wrap">
@@ -1569,7 +1555,19 @@ style="background-image:url(assets/images/accident-adult.jpg);">
                 </div>
                 <p><a href="https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/">Reasons to Hire a Personal Injury Attorney</a></p>
             </div>
-        </div>                                                                                                                                                                                                                   </div>
+        </div>                                                                                                                                                          <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
+            <div class="media-wrap">
+                <a href="blogs">
+                    <img img width="500" height="640" src="assets/images/distracted-driving.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" sizes="(max-width: 500px) 100vw, 500px" />
+                </a>
+            </div>
+            <div class="post-details">
+                <div class="meta">
+                    <a href="blogs" rel="tag">From the blog</a>           
+                </div>
+                <p><a href="blogs">The Epidemic of Distracted Driving</a></p>
+            </div>
+        </div>                                                          </div>
     </div>
 </div><!-- .diff-scroll -->
 <div class="row">
