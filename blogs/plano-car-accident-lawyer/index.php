@@ -472,11 +472,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             
                         </div>
-                                    </div>
-
-
-
-                            <div class="row">
+                        <div class="row">
                             <div class="col-sm-12">
                                 <div class="in_proprt">
                                  <div class="imgprof"><img src="../../assets/images/dale-rose-img.jpg" alt="dummy"></div>
@@ -491,7 +487,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                </div>
                                <div class="text-center"><button class="btn_gethelp" onclick="window.location.href='https://roseknowslaw.com/contact-us/'">GET HELP NOW</button></div>
                             </div>
-                        </div>  
+                        </div>
+                                    </div>
+
+
+
+                              
             </div>
         </section><!-- .post-pool -->
                 
