@@ -53,12 +53,12 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
 <meta property="og:description" content="Car accidents are responsible for the majority of vehicle-related serious injuries and vehicular damage in Plano, Texas. Call (972) 737-1333 for an expert car accident lawyer.">
 
     <meta property="og:url" content="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/">
-    <meta property="og:image" content="https://roseknowslaw.com/assets/images/">
+    <meta property="og:image" content="https://roseknowslaw.com/assets/images/frm.png">
 
     <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Plano Car Accident Lawyer | Dale R. Rose PLLC.">
 <meta name="twitter:description" content="Car accidents are responsible for the majority of vehicle-related serious injuries and vehicular damage in Plano, Texas. Call (972) 737-1333 for an expert car accident lawyer.">
-<meta name="twitter:image" content="https://roseknowslaw.com/assets/images/">
+<meta name="twitter:image" content="https://roseknowslaw.com/assets/images/frm.png">
 <meta name="twitter:url" content="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/">
 
 
