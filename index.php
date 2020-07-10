@@ -1486,7 +1486,7 @@ style="background-image:url(assets/images/accident-adult.jpg);">
 
                             <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
             <div class="media-wrap">
-                <a href="blogs">
+                <a href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer">
                     <img img width="500" height="640" src="assets/images/acci.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="" sizes="(max-width: 500px) 100vw, 500px" />
                 </a>
             </div>
