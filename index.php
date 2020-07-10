@@ -1462,7 +1462,7 @@ style="background-image:url(assets/images/accident-adult.jpg);">
                         <div class="sticky-block">
                             <div class="post-entry burn-anime">
                                 <div class="media-wrap">
-                                    <a href="https://roseknowslaw.com/blogs/brain-injury-lawsuit/">
+                                    <a href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/">
 
 
 
