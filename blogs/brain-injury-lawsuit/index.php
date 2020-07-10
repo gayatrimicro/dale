@@ -488,8 +488,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <h3>You can contact us 24/7 for emergency legal services using -</h3>
 
                                         <ul>
-                                            <li>Call Us : (972) 737-1333</li>
-                                            <li>Email Us : dale@mckinneylaw.com</li>
+                                            <li>Call Us : <a href="tel:(972) 737-1333">(972) 737-1333</a></li>
+                                            <li>Email Us : <a href="mailto:dale@mckinneylaw.com">dale@mckinneylaw.com</a></li>
                                         </ul>
 
                                         </div>

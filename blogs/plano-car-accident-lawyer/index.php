@@ -382,17 +382,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="col-sm-12">
                                <h3>Due to the overwhelming number of motor vehicles on the road like cars, trucks, bikes, buses and more, it is extremely difficult to navigate traffic for vehicle owners and pedestrians alike. Accident statistics have been steadily rising in Texas, especially car accidents in Plano.</h3>
 
-                               <h3>Car accidents are responsible for the majority of vehicle-related serious injuries and vehicular damage in Plano, Texas. Here are the statistics for <a href="http://www.city-data.com/accidents/acc-Plano-Texas.html"><b>fatal car and road accidents in Plano for 2017 -</b></a></h3>
+                               <h3>Car accidents are responsible for the majority of vehicle-related serious injuries and vehicular damage in Plano, Texas. Here are the statistics for <a href="http://www.city-data.com/accidents/acc-Plano-Texas.html">fatal car and road accidents in Plano for 2017 -</a></h3>
 
                                <h3>Fatal car crash and road traffic accident statistics for 2017</h3>
 
                                         <ul>
-                                            <li>Fatal accident count <b>(16)</b></li>
-                                            <li>Vehicles involved in fatal accidents <b>(36)</b></li>
-                                            <li>Fatal accidents involving drunk persons <b>(3)</b></li>
-                                            <li>Fatalities <b>(20)</b></li>
-                                            <li>Persons involved in fatal accidents <b>(57)</b></li>
-                                            <li>Pedestrians involved in fatal accidents <b>(2)</b></li>
+                                            <li>Fatal accident count(16)</li>
+                                            <li>Vehicles involved in fatal accidents(36)</li>
+                                            <li>Fatal accidents involving drunk persons(3)</li>
+                                            <li>Fatalities (20)</li>
+                                            <li>Persons involved in fatal accidents(57)</li>
+                                            <li>Pedestrians involved in fatal accidents(2)</li>
                                             
                                         </ul> 
                                         <br>                                        
@@ -425,9 +425,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                          </div>  -->
                                     <br> 
                                         
-                                        <h3>Many times, <b>insurance agents representing other drivers involved in your car accident</b> may call you to get you to spare their client and forgo your claim. <a href="https://roseknowslaw.com/practice-areas/personal-injury/"><b>Wrongful death or personal injuries</b></a> caused by road accidents can invite a lifetime of physical pain and emotional trauma to you and your loved ones.</h3>
+                                        <h3>Many times, <b>insurance agents representing other drivers involved in your car accident</b> may call you to get you to spare their client and forgo your claim. <a href="https://roseknowslaw.com/practice-areas/personal-injury/">Wrongful death or personal injuries</a> caused by road accidents can invite a lifetime of physical pain and emotional trauma to you and your loved ones.</h3>
 
-                                        <h3>Navigating this labyrinth of legal troubles caused by accidents can take up time you simply don’t have and a <a href="https://roseknowslaw.com/contact-us/"><b>skilled Plano car accident lawyer</b></a> can help you in trying times. As your car accident attorney, Dale Rose ensures that you receive proper counseling and legal advice when you’re handling the following matters -</h3>
+                                        <h3>Navigating this labyrinth of legal troubles caused by accidents can take up time you simply don’t have and a <a href="https://roseknowslaw.com/contact-us/">skilled Plano car accident lawyer</a> can help you in trying times. As your car accident attorney, Dale Rose ensures that you receive proper counseling and legal advice when you’re handling the following matters -</h3>
 
                                         <ul>
                                            <li>Interviewing eyewitnesses of your car accident</li>
@@ -462,8 +462,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <h3>You can contact us 24/7 using -</h3>
 
                                         <ul>
-                                            <li>Call Us : <a href="tel:(972) 737-1333" style="text-decoration: none;"><b>(972) 737-1333</b></a></li>
-                                            <li>Email Us : <a href="mailto:dale@mckinneylaw.com" style="text-decoration: none;"><b>dale@mckinneylaw.com</b></a></li>
+                                            <li>Call Us : <a href="tel:(972) 737-1333">(972) 737-1333</a></li>
+                                            <li>Email Us : <a href="mailto:dale@mckinneylaw.com">dale@mckinneylaw.com</a></li>
                                             <br>
                                         </ul>
 
