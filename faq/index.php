@@ -366,6 +366,14 @@ text-transform: uppercase;
         margin: 0px auto 12px !important;
     }
     }
+    .content-entry a
+    {
+        text-decoration: underline;
+    }
+    .content-entry a:hover
+    {
+        text-decoration: underline;
+    }
 </style>
 <link rel='stylesheet' id=''  href='../assets/css/common.css' type='text/css' media='all' />
 <link rel='stylesheet' id=''  href='../assets/css/selective.css' type='text/css' media='all' />
@@ -526,7 +534,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <p>Dale R. Rose is an experienced attorney-at-law who specialises in personal injury law. He has amassed 26+ years of experience as a personal injury attorney in his career.</p>
 
                         <p class="hero-text">What are Dale Rose’s primary practice areas?</p>
-                        <p>His primary practice areas are - <a href="https://roseknowslaw.com/practice-areas/personal-injury/"><b>personal injury</b></a>, <a href="https://roseknowslaw.com/practice-areas/road-accidents/"><b>car and truck accidents</b></a>, catastrophic injuries, <a href="https://roseknowslaw.com/practice-areas/accident-at-work/"><b>workplace accidents</b></a>, dog-bites, spinal cord, wrongful death & other <a href="https://roseknowslaw.com/practice-areas/serious-injury/"><b>serious injuries</b></a> to the body.</p>
+                        <p>His primary practice areas are - <a href="https://roseknowslaw.com/practice-areas/personal-injury/">personal injury</a>, <a href="https://roseknowslaw.com/practice-areas/road-accidents/">car and truck accidents</a>, catastrophic injuries, <a href="https://roseknowslaw.com/practice-areas/accident-at-work/">workplace accidents</a>, dog-bites, spinal cord, wrongful death & other <a href="https://roseknowslaw.com/practice-areas/serious-injury/">serious injuries</a> to the body.</p>
 
                         <p class="hero-text">What are Dale Rose’s professional affiliations?</p>
                         <p>Dale Rose has been affiliated with the following federal and state bodies - The State Bar of Texas, the Northern District of Texas - Federal, and the Eastern District of Texas - Federal.</p>
@@ -561,14 +569,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </p>
 
                         <p class="hero-text">Why should I choose Dale Rose as my personal injury attorney?</p>
-                        <p>When you choose Dale Rose as a <a href="https://roseknowslaw.com/"><b>personal injury attorney</b></a>, you ensure that you will get justice and the compensation you deserve. Dale helps you make an informed decision when you file a personal injury claim as a result of negligence on the part of wrong-doers. </p>
+                        <p>When you choose Dale Rose as a <a href="https://roseknowslaw.com/">personal injury attorney</a>, you ensure that you will get justice and the compensation you deserve. Dale helps you make an informed decision when you file a personal injury claim as a result of negligence on the part of wrong-doers. </p>
                         <p>When you come to us, we evaluate your case minutely and make sure that the settlement you’re asking for is reasonable, just and covers all the long-term damages you’ll be dealing with. We help you navigate discussions with your insurance company.</p>
 
                         <p class="hero-text">What are the areas Dale Rose serves in?</p>
                         <p>Dale Rose primarily serves McKinney, TX and surrounding counties like - Collin County, Allen, Plano, Frisco, Denton, Fairview, Blue Ridge, Grayson County and more.</p>
 
                         <p class="hero-text">How can I contact an experienced personal injury lawyer near McKinney, TX?</p>
-                        <p>You can call us today at (972) 737-1333 or email us at dale@mckinneylaw.com to schedule a free consultation with an <a href="https://roseknowslaw.com/"><b>experienced personal injury lawyer.</b></a></p>
+                        <p>You can call us today at <a href="tel:(972) 737-1333">(972) 737-1333</a> or email us at <a href="mailto:dale@mckinneylaw.com">dale@mckinneylaw.com</a> to schedule a free consultation with an <a href="https://roseknowslaw.com/">experienced personal injury lawyer.</a></p>
 
                         <p class="hero-text">How much will I get if I make a claim for personal injury compensation?</p>
                         <p>Personal injury compensation amount that you could receive depends upon the degree of your injuries and its after effect on your daily life. After your personal injury claim is accessed by our team, they provide you with an estimate as to how much they can provide as compensation. In most cases, the more severe your accident, the more compensation you are likely to get.</p>
