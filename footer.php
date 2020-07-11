@@ -1497,6 +1497,9 @@ window.onclick = function(event) {
     margin: 20px 0;
 }
   }
+  #bbblink{
+    margin: 0px auto !important;
+  }
 </style>
 <div class="badge-boxes" style="background-color: #fff;padding: 20px 0px;">
     <div class="container">
@@ -1505,7 +1508,7 @@ window.onclick = function(event) {
           <div class="post-entry col-2 pad">
             <!-- <img src="assets/images/badge6.jpg" class="img-size"> -->
             <!-- <img src="https://roseknowslaw.com/assets/images/badge6.jpg" class="img-size"> -->
-            <a target="_blank" id="bbblink" class="ruhzbul" href="https://www.bbb.org/us/tx/mckinney/profile/attorneys-and-lawyers-personal-injury-and-property-damage/dale-r-rose-pllc-0875-91058339#bbbseal" title="Dale R. Rose, PLLC, Attorneys & Lawyers  Personal Injury & Property Damage, McKinney, TX" style="display: block;position: relative;overflow: hidden; width: 200px; height: 90px; margin: 0px auto; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-dallas.bbb.org/logo/ruhzbul/dale-r-rose-pllc-91058339.png" width="400" height="90" alt="Dale R. Rose, PLLC, Attorneys & Lawyers  Personal Injury & Property Damage, McKinney, TX" /></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); (function(){var s=document.createElement('script');s.src=bbbprotocol + 'seal-dallas.bbb.org' + unescape('%2Flogo%2Fdale-r-rose-pllc-91058339.js');s.type='text/javascript';s.async=true;var st=document.getElementsByTagName('script');st=st[st.length-1];var pt=st.parentNode;pt.insertBefore(s,pt.nextSibling);})();</script>
+            <a target="_blank" id="bbblink" class="ruhzbul" href="https://www.bbb.org/us/tx/mckinney/profile/attorneys-and-lawyers-personal-injury-and-property-damage/dale-r-rose-pllc-0875-91058339#bbbseal" title="Dale R. Rose, PLLC, Attorneys & Lawyers  Personal Injury & Property Damage, McKinney, TX" style="display: block;position: relative;overflow: hidden; width: 200px; height: 90px; margin: 0px auto !important; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-dallas.bbb.org/logo/ruhzbul/dale-r-rose-pllc-91058339.png" width="400" height="90" alt="Dale R. Rose, PLLC, Attorneys & Lawyers  Personal Injury & Property Damage, McKinney, TX" /></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); (function(){var s=document.createElement('script');s.src=bbbprotocol + 'seal-dallas.bbb.org' + unescape('%2Flogo%2Fdale-r-rose-pllc-91058339.js');s.type='text/javascript';s.async=true;var st=document.getElementsByTagName('script');st=st[st.length-1];var pt=st.parentNode;pt.insertBefore(s,pt.nextSibling);})();</script>
           </div>
           <div class="post-entry col-2 pad">
             <!-- <img src="assets/images/badge1.png" class="img-size"> -->
