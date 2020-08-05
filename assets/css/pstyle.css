@@ -152,6 +152,21 @@
     {
       width: 60%;
     }
+    .TxtCent{
+      display: block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+    }
+    .DBlk{
+  display: inline-block;
+  margin-left: 15px;
+}
+.DBlk2{
+  display: inline-block;
+  margin-left: 15px;
+      vertical-align: -webkit-baseline-middle;
+}
 
 
 

@@ -41,7 +41,7 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
 
-    <title>FAQs | Dale R. Rose PLLC</title>
+    <title>404 Page Not Found | Dale R. Rose PLLC</title>
 <script>
 
 !function(f,b,e,v,n,t,s)
@@ -669,156 +669,100 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <?php include '../header.php';?>
 
+<style type="text/css">
+  
+/*======================
+    404 page
+=======================*/
+
+
+.page_404{ padding:40px 0; background:#fff; font-family: 'Arvo', serif;
+}
+
+.page_404  img{ width:100%;}
+
+.four_zero_four_bg{
+ 
+ background-image: url(../assets/images/homo.gif);
+    height: 500px;
+    background-position: center;
+ }
+ 
+ 
+ .four_zero_four_bg h1{
+ font-size:80px;
+ }
+ 
+  .four_zero_four_bg h3{
+       font-size:80px;
+       }
+       
+       .link_404{      
+  color: #fff!important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;}
+  
+  .contant_box_404{ margin-top:-50px;}
+  .main-pad{
+    padding: 10rem;
+  }
+  .badge-boxes{
+    display: none;
+  }
+  @media (max-width: 600px){
+    .main-pad{
+      padding: 0rem;
+    }
+  }
+</style>
+
+
+<section class="page_404">
+  <div class="container">
+    <div class="row"> 
+    <div class="col-sm-12 ">
+    <div class="col-sm-12 col-sm-offset-1 main-pad text-center">
+    <div class="four_zero_four_bg">
+      <h1 class="text-center ">404</h1>
+    
+    
+    </div>
+    
+    <div class="contant_box_404">
+    <h1 class="split-text appear">
+    Look like you're lost
+    </h1>
+    
+    <p>Come back later for the information you're looking for. <br>In the meantime, please contact us on <a href="tel:9727371333" style="text-decoration: underline !important">(972) 737-1333 </a> or email us at <a href="mailto:dale@mckinneylaw.com" style="text-decoration: underline !important" class="mailing-address">dale@mckinneylaw.com</a>.</p>
+    
+    <!-- <a href="../index.php" class="link_404">Go to Home</a> -->
+
+    <a href="../index.php">
+                            <div class="mc4wp-form-fields">
+                                <input type="button" value="Go to Home" class="button btn-claim">
+                                </div>
+                        </a>
+  </div>
+    </div>
+    </div>
+    </div>
+  </div>
+</section>
 
 
 
-
-
-
-
-<!-- #header -->    <section class="top-module content-block white-module split-text-wrap no-btm-space" style="padding-bottom: 0px;">
-        <div class="container">
-            <div class="row align-items-center justify-content-center">
-                <div class="col-sm-12 col-xl-8">
-                 
-                    <h1 class="split-text appear" style="">Frequently Asked Questions</h1>
-                </div>
-
-
-                <!-- <img width="1000" height="662" src="../assets/images/serious-injury.jpg" class="attachment-full size-full" alt="">   -->
-
-
-
-               
-            </div>
-        </div>
-    </section> <!-- .top-module -->
+<!-- #header -->    
     <div class="show-bar white-module"></div>
-    <section class="content-block white-module" style="margin-bottom: 0px !important; padding-bottom: 0px !important; padding-top: 0px !important;margin-top: 0px;">
-                    
-                <div class="container">
-            <div class="row justify-content-center">
-                <!-- <div class="col-8 col-sm-4 col-xl-3 text-center text-lg-left">
-                    <div class="single-post-meta">
-                        <span class="pub-date meta-box">PUBLISHED 06-Sep-2017</span>
-                                            </div>
-                </div> -->
-                <div class="col-xl-12">
-                    <div class="content-entry">
-                        <p class="hero-text" style="margin-top: 0px !important;">Who is Dale Rose?</p>
-                        <p>Dale R. Rose is an experienced attorney-at-law who specialises in personal injury law. He has amassed 26+ years of experience as a personal injury attorney in his career.</p>
-
-                        <p class="hero-text">What are Dale Rose’s primary practice areas?</p>
-                        <p>His primary practice areas are - <a href="https://roseknowslaw.com/practice-areas/personal-injury/">personal injury</a>, <a href="https://roseknowslaw.com/practice-areas/road-accidents/">car and truck accidents</a>, catastrophic injuries, <a href="https://roseknowslaw.com/practice-areas/accident-at-work/">workplace accidents</a>, dog-bites, spinal cord, wrongful death & other <a href="https://roseknowslaw.com/practice-areas/serious-injury/">serious injuries</a> to the body.</p>
-
-                        <p class="hero-text">What are Dale Rose’s professional affiliations?</p>
-                        <p>Dale Rose has been affiliated with the following federal and state bodies - The State Bar of Texas, the Northern District of Texas - Federal, and the Eastern District of Texas - Federal.</p>
-
-                        <p class="hero-text">Which associations is Dale Rose a member of?</p>
-                        <p>Dale Rose is a proud member of the following associations -</p>
-                        <br>
-                        <p>
-                            <ul>
-                                <li>Collin County Bar Association – Mock Trial Coordinator</li>
-                                <li>State Bar of Texas (Civil Litigation member) Multi-Million Dollar Advocates Forum</li>
-                                <li>Collin County Bar Association</li>
-                                <li>McKinney Bar Association</li>
-                                <li>McDermott Road Church of Christ</li>
-                                <li>National Trial Lawyers Top 100</li>
-                                <li>Collin County Bar Association</li>
-                                <li>Texas Trial Lawyers Association</li>
-                                <li>Million Dollar Advocates Forum</li>
-                                <li>Multi-Million Dollar Advocates Forum</li>
-                            </ul>
-                        </p>
-
-                        <p class="hero-text">What are Dale Rose’s educational qualifications?</p>
-                        <p>His educational qualifications are -</p>
-                        <br>
-                        <p>
-                            <ul>
-                                <li>Corning Community College (1982) - A.A.S in Criminal Justice</li>
-                                <li>University of Texas, Dallas (1988) - B.S in Government and Politics</li>
-                                <li>Texas Tech School of Law (1992) - J.D.</li>
-                            </ul>
-                        </p>
-
-                        <p class="hero-text">Why should I choose Dale Rose as my personal injury attorney?</p>
-                        <p>When you choose Dale Rose as a <a href="https://roseknowslaw.com/">personal injury attorney</a>, you ensure that you will get justice and the compensation you deserve. Dale helps you make an informed decision when you file a personal injury claim as a result of negligence on the part of wrong-doers. </p>
-                        <p>When you come to us, we evaluate your case minutely and make sure that the settlement you’re asking for is reasonable, just and covers all the long-term damages you’ll be dealing with. We help you navigate discussions with your insurance company.</p>
-
-                        <p class="hero-text">What are the areas Dale Rose serves in?</p>
-                        <p>Dale Rose primarily serves McKinney, TX and surrounding counties like - Collin County, Allen, Plano, Frisco, Denton, Fairview, Blue Ridge, Grayson County and more.</p>
-
-                        <p class="hero-text">How can I contact an experienced personal injury lawyer near McKinney, TX?</p>
-                        <p>You can call us today at <a href="tel:(972) 737-1333">(972) 737-1333</a> or email us at <a href="mailto:dale@mckinneylaw.com">dale@mckinneylaw.com</a> to schedule a free consultation with an <a href="https://roseknowslaw.com/">experienced personal injury lawyer.</a></p>
-
-                        <p class="hero-text">How much will I get if I make a claim for personal injury compensation?</p>
-                        <p>Personal injury compensation amount that you could receive depends upon the degree of your injuries and its after effect on your daily life. After your personal injury claim is accessed by our team, they provide you with an estimate as to how much they can provide as compensation. In most cases, the more severe your accident, the more compensation you are likely to get.</p>
-                        
-                        <p class="hero-text">How are personal injury damages calculated?</p>
-                        <p>Dale Rose will consider the severity of your injury and the impact it has had on your life. They will see your financial losses, such as loss of income, and medical expenses incurred in the treatment process and use that information to calculate what they believe should be your personal injury damages.</p>
-
-                        <p class="hero-text">Are personal injury settlements taxable?</p>
-                        <p>No. As per the law, any compensation secured for personal injury damages is tax-free, which implies that you are entitled to keep 100 percent of your settlement.</p>
-
-                        <p class="hero-text">Does personal injury compensation affect benefits?</p>
-                        <p>If you have received a significant amount of compensation already, your eligibility to claim housing benefit or income support following your accident could be affected. However, claiming for compensation shouldn’t affect your benefits if you’re already on state benefit or income support. Your compensation amount can be reduced if you have already received the benefits. </p>
-
-                        <p class="hero-text">What if my accident occurred in a public place?</p>
-                        <p>If the accident has happened in a public place, you are still entitled to claim for personal injury damages. The person or company owning or responsible for maintaining the public area should have a public liability insurance policy to compensate members of the public for any injury they sustain while on the property. Your claim for damages and injuries will be made against that insurance policy.</p>
-
-                        <p class="hero-text">How do personal injury settlements work?</p>
-                        <p>If you have made a personal injury claim with Dale Rose, our solicitors will work faster to secure a settlement and get you the support you need. Once your claim is submitted, one of our solicitors will get in touch with you for further details to gather the evidence needed to support your case. Our aim will be to prove your injury, illness or disease was caused by the negligence (fault) of someone else in order for your claim to be successful.<br/>The time it takes to settle a personal injury claim depends on the facts of the case and the impact your accident has made on your health and daily life. Dale Rose is one of the best personal injury lawyers and he aims to get you the best personal injury claim outcome in the shortest time possible.</p>
-
-                        <p class="hero-text">Are there any caps on personal injury damages?</p>
-                        <p>As every case is unique, its compensation will vary accordingly. You will not get financial caps on personal injury damages. Our specialist solicitors will discuss with you about how much you are likely to receive.</p>    
-
-                        <p class="hero-text">Will I have to go to court to get my personal injury compensation?</p>
-                        <p>As court hearings increase the legal expenses, very few personal injury compensation claims actually go all the way to a court hearing.<br/>
-
-                        In extreme instances, where there is a dispute, you may have to attend court. However, your solicitor will talk you through the whole process to make sure you know what’s going to happen.</p> 
-
-
-                        
-<p>&nbsp;</p>
-                        <!-- <p>Car Wreck Lawyer | Auto Accidents | Automobile Collisions | Serious Injury | Whiplash | Wrongful Death
-                            DO NOT WAIT TO CONTACT US if you have been in a wreck and are injured.  Contact us before you contact the other drivers insurance company or speak to them about your injuries.
-                        </p> -->
-                        <!-- <p>The other drivers insurance company is working from the start to try to not pay your for your injuries, or to pay you as little as possible.  Despite the “nice” approach, they are trying to get information from you about your injuries so they can pay you less.  Don’t believe otherwise.  Don’t freely give out information.</p> -->
-
-                       
-                        <!-- <a href="../../contact-us/index.php">
-                            <div class="mc4wp-form-fields">
-                                <input type="submit" value="Start Your Claim" class="button btn-claim">
-                                </div>
-                        </a> -->
-                    </div>
-                </div>
-                <div class="col-xl-6"> 
-                    <a href="../contact-us">
-                            <div class="mc4wp-form-fields">
-                                <input type="submit" value="Start Your Claim" class="button btn-claim" style="width:60%;">
-                                </div>
-                        </a>
-                </div>
-                <div class="col-xl-6"> 
-                    <a href="../contact-us">
-                            <div class="mc4wp-form-fields">
-                                <input type="submit" value="Request a Callback" class="button btn-claim" style="width:60%;">
-                                </div>
-                        </a>
-                </div>
-            </div>
-        </div>
-    </section>   <!-- .content-block -->
-    <section class="divider-module white-module">
+    
+    <!-- <section class="divider-module white-module">
         <div class="container">
             <div class="divider"></div>
 
             
         </div>
-    </section>
+    </section> -->
 
 
             

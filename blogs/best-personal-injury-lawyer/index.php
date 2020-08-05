@@ -42,7 +42,7 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="72x72" href="">
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
-    <title>Plano Car Accident Lawyer | Dale R. Rose PLLC.</title>
+    <title>Best Personal Injury Lawyer in McKinney, Texas</title>
 <script>
 
 !function(f,b,e,v,n,t,s)
@@ -79,30 +79,27 @@ src="https://www.facebook.com/tr?id=729679074434095&ev=PageView
 
 <!-- End Facebook Pixel Code -->
 
-    <meta name="description" content="Car accidents are responsible for the majority of vehicle-related serious injuries and vehicular damage in Plano, Texas. Call (972) 737-1333 for an expert car accident lawyer." >
-    <meta name="keywords" content="plano car accident lawyer, car accident lawyer, car accident lawyer near me, should i get a lawyer for a car accident that wasn't my fault, do you need a lawyer after a car accident, i need a car accident lawyer, car accident lawyer fees, fort worth car accident lawyer, dallas car accident lawyer, skilled legal representation in texas">
+    <meta name="description" content="One of the most experienced personal injury lawyers in McKinney, TX is Mr. Dale R. Rose PLLC. Call us - (972) 737-1333 to request a free consultation." >
 
     <meta property="og:locale" content="en_US">
-<meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
-<meta property="og:type" content="Blog">
-<meta property="og:title" content="Plano Car Accident Lawyer | Dale R. Rose PLLC.">
-<meta property="og:description" content="Car accidents are responsible for the majority of vehicle-related serious injuries and vehicular damage in Plano, Texas. Call (972) 737-1333 for an expert car accident lawyer.">
-
-    <meta property="og:url" content="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/">
-    <meta property="og:image" content="https://roseknowslaw.com/assets/images/frm.png">
+    <meta name="og:site_name" content="DALE R. ROSE - Injury Lawyer"/>
+    <meta property="og:type" content="Blog">
+    <meta property="og:title" content="Best Personal Injury Lawyer in McKinney, Texas">
+    <meta property="og:description" content="One of the most experienced personal injury lawyers in McKinney, TX is Mr. Dale R. Rose PLLC. Call us - (972) 737-1333 to request a free consultation.">
+    <meta property="og:url" content="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/">
+    <meta property="og:image" content="https://roseknowslaw.com/assets/images/blog-banner-car-accident.jpg">
 
     <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Plano Car Accident Lawyer | Dale R. Rose PLLC.">
-<meta name="twitter:description" content="Car accidents are responsible for the majority of vehicle-related serious injuries and vehicular damage in Plano, Texas. Call (972) 737-1333 for an expert car accident lawyer.">
-<meta name="twitter:image" content="https://roseknowslaw.com/assets/images/frm.png">
-<meta name="twitter:url" content="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/">
-
+    <meta name="twitter:title" content="Best Personal Injury Lawyer in McKinney, Texas">
+    <meta name="twitter:description" content="One of the most experienced personal injury lawyers in McKinney, TX is Mr. Dale R. Rose PLLC. Call us - (972) 737-1333 to request a free consultation.">
+    <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/blog-banner-car-accident.jpg">
+    <meta name="twitter:url" content="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/">
 
 
     <meta name="robots" content="index, follow" />
 
-    <link rel="canonical" href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/">
-    <link rel="alternate" href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/" hreflang="en-us" />
+    <link rel="canonical" href="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/">
+    <link rel="alternate" href="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/" hreflang="en-us" />
 
 
         <style type="text/css">
@@ -181,7 +178,7 @@ img.emoji {
             display: none !important;
         }
         #banner {
-            background-image: url(../../assets/images/brain-injury-mob.jpg);
+            background-image: url(../../assets/images/mobile-blog-car-accident.jpg);
         }
         #header{
             background-color: #F2B90C;
@@ -196,7 +193,7 @@ img.emoji {
 
         @media (min-width: 1024px) {
             #banner {
-                background-image: url(../../assets/images/planoBanner.jpg);
+                background-image: url(../../assets/images/blog-banner-car-accident.jpg);
             }
         }
     
@@ -289,6 +286,11 @@ img.emoji {
                 margin-bottom: 0px;
             }
         }
+        .FSz{
+            font-size: 28px;
+            font-weight: 600;
+            margin-top: 50px;
+        }
     </style>
 
 <script type="application/ld+json"> 
@@ -320,7 +322,7 @@ img.emoji {
           "faxNumber" : "(972) 569-9278",
           "email" : "dale@mckinneylaw.com"
           },
-      "image": "https://roseknowslaw.com/assets/images/blog-banner1.jpg",
+      "image": "https://roseknowslaw.com/assets/images/injury_lawyer.jpg",
       "priceRange": "$$$" 
     }
     ]
@@ -328,35 +330,35 @@ img.emoji {
 </script>
 	
 	<script type="application/ld+json">
-	{
-	  "@context": "http://schema.org",
-	  "@type": "LegalService",
-	  "name": "Dale R. Rose, PLLC",
-	  "description": "Dale R. Rose is an experienced Personal injury lawyer. Specialized in Personal Injury Claims, Car Wrecks, Truck Wrecks, Construction Accidents and more.",
-	  "url": "https://roseknowslaw.com/",
-	  "image": "https://roseknowslaw.com/assets/images/dale-rose-new.jpg",
-	  "priceRange": "$1",
-	  "telephone": "(972) 737-1333",
-	  "email": "dale@mckinneylaw.com",
-	  "hasMap": "https://g.page/RoseKnowsLaw?share",
-	  "address": {
-		"@type": "PostalAddress",
-		"addressLocality": "McKinney",
-		"addressRegion": "TX",
-		"postalCode": "75071",
-		"streetAddress": "2780 Virginia, Pkwy #401"
-	  },
-	  "geo": {
-		"@type": "GeoCoordinates",
-		"latitude": "33.199350",
-		"longitude": "-96.653860"
-	  },
-	  "sameAs": [
-		"https://www.facebook.com/RoseKnowsLaw/",
-		"https://twitter.com/RoseInjuryLaw"
-	  ],
-	  "openingHours": "Mo,Tu,We,Th,Fr, 08:30 AM-06:00 PM"
-	}
+{
+  "@context": "http://schema.org",
+  "@type": "LegalService",
+  "name": "Dale R. Rose, PLLC",
+  "description": "Dale R. Rose is an experienced Personal injury lawyer. Specialized in Personal Injury Claims, Car Wrecks, Truck Wrecks, Construction Accidents and more.",
+  "url": "https://roseknowslaw.com/",
+  "image": "https://roseknowslaw.com/assets/images/dale-rose-new.jpg",
+  "priceRange": "$1",
+  "telephone": "(972) 737-1333",
+  "email": "dale@mckinneylaw.com",
+  "hasMap": "https://g.page/RoseKnowsLaw?share",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "McKinney",
+    "addressRegion": "TX",
+    "postalCode": "75071",
+    "streetAddress": "2780 Virginia, Pkwy #401"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.199350",
+    "longitude": "-96.653860"
+  },
+  "sameAs": [
+    "https://www.facebook.com/RoseKnowsLaw/",
+    "https://twitter.com/RoseInjuryLaw"
+  ],
+  "openingHours": "Mo,Tu,We,Th,Fr, 08:30 AM-06:00 PM"
+}
 </script>
 
     </head>
@@ -366,8 +368,8 @@ img.emoji {
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZDPT9M"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-    
-    <!-- Load Facebook SDK for JavaScript -->
+
+<!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
 var js, fjs = d.getElementsByTagName(s)[0];
@@ -376,6 +378,7 @@ js = d.createElement(s); js.id = id;
 js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
 fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+    
 <div id="loader">
     <div class="loader-content">
                     <div class="company-logo" id="loader-logo">
@@ -425,115 +428,82 @@ fjs.parentNode.insertBefore(js, fjs);
         </div>
         <div class="col-sm-6 text-right tXtLft">
           <div class="fb-share-button" 
-data-href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/" 
+data-href="https://roseknowslaw.com/blogs/best-personal-injury-lawyer/" 
 data-layout="button_count">
 </div>
 <div class="DBlk">
   <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/"></script>
+<script type="IN/Share" data-url="https://roseknowslaw.com/blogs/best-personal-injury-lawyer/"></script>
 </div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/plano-car-accident-lawyer/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/best-personal-injury-lawyer/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
         </div>
       </div><br><br>
                 <div class="row justify-content-center stand-heading">
-                    <h1  style="text-transform: none;">Get Help from an Expert Plano Car Accident Lawyer</h1>
                     <div class="col-xl-12 col-md-11 test-center">
                        <!-- <h3>Dale Rose is a leading personal injury lawyer in the U.S. Understanding the benefits of hiring a personal injury lawyer helps in making the right decision to help your case.</h3><br>-->
                        <div class="row">
                            <div class="col-sm-12">
-                               <h3>Due to the overwhelming number of motor vehicles on the road like cars, trucks, bikes, buses and more, it is extremely difficult to navigate traffic for vehicle owners and pedestrians alike. Accident statistics have been steadily rising in Texas, especially car accidents in Plano.</h3>
-
-                               <h3>Car accidents are responsible for the majority of vehicle-related serious injuries and vehicular damage in Plano, Texas. Here are the statistics for <a href="http://www.city-data.com/accidents/acc-Plano-Texas.html">fatal car and road accidents in Plano for 2017 -</a></h3>
-
-                               <h3>Fatal car crash and road traffic accident statistics for 2017</h3>
-
-                                        <ul>
-                                            <li>Fatal accident count(16)</li>
-                                            <li>Vehicles involved in fatal accidents(36)</li>
-                                            <li>Fatal accidents involving drunk persons(3)</li>
-                                            <li>Fatalities (20)</li>
-                                            <li>Persons involved in fatal accidents(57)</li>
-                                            <li>Pedestrians involved in fatal accidents(2)</li>
-                                            
-                                        </ul> 
-                                        <br>                                        
-
-                        <div class="text-center">
-                                            <img src="../../assets/images/frm.png" alt="Fatal accident count">
-                                         </div> 
-                                         <br>
+                            <h1 style="text-transform: none;">Who is a  Personal Injury Lawyer?</h1>
+                               <h3>When you or anyone you know gets injured due to someone else’s negligence, the lawyer who helps you get compensation from the responsible people is a <b>personal injury lawyer</b>. </h3>
+                        <h3>They are also called as ‘Trial lawyers’ even though a lot of personal injury claims get settled outside of the courthouse. Some of the common examples of personal injuries for which you can sue the responsible are - slip and fall injuries at the workplace and accidents, defective products, malpractice where someone’s health in on line, road accidents and collisions, etc.</h3>
+                        <h3><b>One of the most experienced personal injury lawyers in McKinney, TX is Mr. Dale R. Rose PLLC.</b> He has 25+ years of experience and has been a lead attorney for 155 personal trials and has secured millions of dollars in compensation for his clients. </h3>
+                        <h3><b>Call us - <a href="tel:(972) 737-1333">(972) 737-1333</a> to request a free consultation with an experienced personal injury lawyer in McKinney, Texas.</b></h3><br><br>
                            </div>
-                           
-                       </div>                       
+                       </div>
+                        
 
                     </div>
                 </div>
             </div>
             <div class="container">
-                <div class="row ">
+                <div class="row">
+                           <div class="col-sm-12">
+                            <h1 style="text-transform: none;">What is the meaning of practice areas in Personal Injury Law?</h1><br>
+                               
+                               <div class="row">
+                                   <div class="col-sm-6">
+                                    <h3>The word practice areas in personal injury law mean the kind of cases that personal injury lawyers deal with and fight for. Some of the most common cases/practice areas are -</h3>
+                                      <ul>
+                           <li>Car accidents</li>
+                           <li>Motorcycle and Truck accidents</li>
+                           <li>Nursing home abuse and neglect </li>
+                           <li>Product Liability </li>
+                           <li>Workers Compensation</li>
+                           <li>Slip and Fall injuries</li>
+                           <li>Wrongful Death</li>
+                       </ul> 
+                                   </div>
+                                   <div class="col-sm-6">
+                                      <div><img src="../../assets/images/blog/carAcc.jpg"></div> 
+                                   </div>
+                               </div>                       
+                       <br>
+                       <h3>If you or anyone you know has been a victim of any of the above-mentioned accidents, call <a href="tel:(972) 737-1333">(972) 737-1333</a> to request a free consultation.</h3><br><br>
+                           </div>
+                       </div>
+
+                       <div class="row">
+                           <div class="col-sm-12">
+                            <h1 style="text-transform: none;">What exactly does a Personal Injury Attorney do?</h1>
+                               <h3>To put the process of how an experienced McKinney Personal Injury Lawyer handles a personal injury claim and makes sure that you get the compensation you deserve, here’s a list -</h3>
+                       <ul>
+                           <li><b>Initial Free Consultation</b> - An experienced lawyer like Dale Rose who specializes in personal injury law, will talk to you about the exact details of your situation in detail and weigh in whether a personal injury claim can be made.</li><br>
+                           <li><b>Deeper Investigation</b> - We’ll ask you and others involved in the situation, a number of questions regarding the details of the accident, your prior health status, your prior financial status, and much more so that we can prepare a strong case for you.</li><br>
+                           <li><b>Accident Research and Reconnaissance</b> - We help you prepare a strong case by gathering information that will support your personal injury claim. These may be medical records, photos of the accident, witness statements, and background information on all parties involved.</li><br>
+                           <li><b>Settlement of the claim</b> - Many times, the plaintiff and the other party want to settle outside the court without dragging out the case more than it needs to be. We help you with that if it can be done without involving the court.</li><br>
+                           <li><b>Personal Injury Lawsuit</b> - If the plaintiffs and the other party don’t want to settle the case outside the court, we file a lawsuit against the liable party (defendant). We will make sure that we do everything in our power to make sure that the case is pleaded honestly and take the help of experts to help your case be judged fairly.</li><br>
+                           <li><b>The Judgement on the Personal Injury Claim</b> - Once both sides have presented their case, the honorable judges will issue their ruling. If it isn’t in your favor, we’ll appeal to a higher court and if it is in your favor, we’ll try to secure the highest amount of compensation you deserve.</li>                         
+                       </ul><br><br>
+                       <div class="text-center"><img src="../../assets/images/blog/perinj.jpg"></div> <br> 
+                       <h3>If you or anyone you know has been a victim of any of the above-mentioned accidents, call <a href="tel:(972) 737-1333">(972) 737-1333</a> to request a free consultation.</h3>
+                           </div>
+                       </div>
+                    
 
 
 
-
-                         <div class="col-12">
-                            <div class="row align-items-center">
-                                
-                                <div class="col-12 col-xl-12">
-                                    <div class="post-details mob-content">
-                                       <h3>Professional help from expert car accident lawyers like Dale R. Rose, helps you receive the compensation you deserve after a car accident in Plano because we help you deal with your insurance providers and the person responsible for your car crash.</h3>
-                                        <!-- <div class="text-center">
-                                            <img src="../../assets/images/caralaw.jpg" alt="Car accident lawyer">
-                                         </div>  -->
-                                    <br> 
-                                        
-                                        <h3>Many times, <b>insurance agents representing other drivers involved in your car accident</b> may call you to get you to spare their client and forgo your claim. <a href="https://roseknowslaw.com/practice-areas/personal-injury/">Wrongful death or personal injuries</a> caused by road accidents can invite a lifetime of physical pain and emotional trauma to you and your loved ones.</h3>
-
-                                        <h3>Navigating this labyrinth of legal troubles caused by accidents can take up time you simply don’t have and a <a href="https://roseknowslaw.com/contact-us/">skilled Plano car accident lawyer</a> can help you in trying times. As your car accident attorney, Dale Rose ensures that you receive proper counseling and legal advice when you’re handling the following matters -</h3>
-
-                                        <ul>
-                                           <li>Interviewing eyewitnesses of your car accident</li>
-                                            <li>Hiring private investigators so that you don’t have to rely on a particular authority figure
-</li>
-                                            <li>Working with expert witnesses to dissect the cause of your accident</li>
-                                            <li>Negotiating with insurance companies to provide you the best compensation</li>
-                                        </ul>
-
-
-                                    </div>                                    
-                                </div>
-                            </div>
-                        </div>
-
-
-                                    </div>
+                                            
                                     <div class="row">
-                                        
-                                            <div class="col-12">
-                            <div class="row align-items-center">
-                                
-                                <div class="col-12 col-xl-12">
-                                        <h3>Even with all this, rarely does a car accident case go to court. Those involved in the car crash settle the matter outside the court. But just in case your accident reaches the court, Dale ensures that you have the resources and legal aid needed to win the case.</h3>
-                                        <div class="text-center"><img src="../../assets/images/caralaw2.jpg" class="wid_img" alt="">
-                            <br><br></div>
-                                        <h3>To maximise your chances of winning your car accident case in traffic courts, contact Dale Rose today to handle the legal aspects of your accident compensation recovery.  
-                                        </h3>
-
-                                        <h3>Our Plano car accident lawyer will help you from the get go by providing a free consultation and excellent representation to get the compensation you deserve. </h3>
-
-<h3>You can contact us 24/7 using -</h3>
-
-                                        <ul>
-                                            <li>Call Us : <a href="tel:(972) 737-1333">(972) 737-1333</a></li>
-                                            <li>Email Us : <a href="mailto:dale@mckinneylaw.com">dale@mckinneylaw.com</a></li>
-                                            <br>
-                                        </ul>
-
-                                        </div>
-                                </div>
-                            </div>
-                            
-                        </div>
-                        <div class="row">
                             <div class="col-sm-12">
                                 <div class="in_proprt">
                                  <div class="imgprof"><img src="../../assets/images/dale-rose-img.jpg" alt="dummy"></div>
@@ -548,13 +518,7 @@ data-layout="button_count">
                                </div>
                                <div class="text-center"><button class="btn_gethelp" onclick="window.location.href='https://roseknowslaw.com/contact-us/'">GET HELP NOW</button></div>
                             </div>
-                        </div>
-                                    </div>
-
-
-
-                              
-            </div>
+                        </div>  
         </section><!-- .post-pool -->
                 
     <section class="content-block dark-bg white-module">

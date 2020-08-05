@@ -65,7 +65,7 @@
                                         <div class="people-item burn-anime">
                                             <a href="">
                                                 <figure class="image-holder test">
-                                                    <img width="466" height="622" src="https://roseknowslaw.com/assets/images/dale-rose-new.jpg" class="attachment-lawyer-thumbs size-lawyer-thumbs" alt="" srcset="https://roseknowslaw.com/assets/images/dale-rose-new.jpg 466w, https://roseknowslaw.com/assets/images/dale-rose-new.jpg 225w, https://roseknowslaw.com/assets/images/dale-rose-new.jpg 768w" sizes="(max-width: 466px) 100vw, 466px" />
+                                                    <img width="466" height="622" src="https://roseknowslaw.com/assets/images/dale-rose-new.jpg" class="attachment-lawyer-thumbs size-lawyer-thumbs" alt="Dalerose Profile" srcset="https://roseknowslaw.com/assets/images/dale-rose-new.jpg 466w, https://roseknowslaw.com/assets/images/dale-rose-new.jpg 225w, https://roseknowslaw.com/assets/images/dale-rose-new.jpg 768w" sizes="(max-width: 466px) 100vw, 466px" />
                                                 </figure>
                                             </a>
                                         </div>

@@ -43,6 +43,41 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
     <title>When to see a dog bite attorney</title>
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '729679074434095'); 
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript>
+
+<img height="1" width="1"
+
+src="https://www.facebook.com/tr?id=729679074434095&ev=PageView
+
+&noscript=1"/>
+
+</noscript>
+
+<!-- End Facebook Pixel Code -->
 
     <meta name="description" content="Learn more about when to see the dog bite attorney &amp; how to prove the liability in a dog bite case. Our experienced attorneys can help. Free Consultation." >
 
@@ -329,6 +364,16 @@ img.emoji {
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZDPT9M"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     
 <div id="loader">
     <div class="loader-content">
@@ -373,6 +418,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section><!-- .spotlight -->
             <section class="latest-forefront content-block white-module no-paddingbottom-module">
             <div class="container">
+                <div class="row">
+        <div class="col-sm-6 text-left">
+          <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24th July 2020</span> &nbsp;&nbsp;&nbsp;<span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>          
+        </div>
+        <div class="col-sm-6 text-right tXtLft">
+          <div class="fb-share-button" 
+data-href="https://roseknowslaw.com/blogs/dog-bite-attorney/" 
+data-layout="button_count">
+</div>
+<div class="DBlk">
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<script type="IN/Share" data-url="https://roseknowslaw.com/blogs/dog-bite-attorney/"></script>
+</div>
+<div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/dog-bite-attorney/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+        </div>
+      </div><br><br>
                 <div class="row justify-content-center stand-heading">
                     <h1  style="text-transform: none;">When to see a dog bite attorney?</h1>
                     <div class="col-xl-12 col-md-11 test-center">

@@ -1512,31 +1512,31 @@ window.onclick = function(event) {
           </div>
           <div class="post-entry col-2 pad">
             <!-- <img src="assets/images/badge1.png" class="img-size"> -->
-            <img src="https://roseknowslaw.com/assets/images/badge1.png" class="img-size">
+            <img src="https://roseknowslaw.com/assets/images/badge1.png" alt="badges" class="img-size">
           </div>
           <div class="post-entry col-2 pad">
             <!-- <img src="assets/images/badge2.png" class="img-size"> -->
-            <img src="https://roseknowslaw.com/assets/images/badge2.png" class="img-size">
+            <img src="https://roseknowslaw.com/assets/images/badge2.png" alt="badges" class="img-size">
           </div>
           <div class="post-entry col-2 pad">
             <!-- <img src="assets/images/badge3.jpg" class="img-size"> -->
-            <img src="https://roseknowslaw.com/assets/images/badge3.jpg" class="img-size">
+            <img src="https://roseknowslaw.com/assets/images/badge3.jpg" alt="badges" class="img-size">
           </div>
           <div class="post-entry col-2 pad">
             <!-- <img src="assets/images/badge4.jpg" class="img-size"> -->
-            <img src="https://roseknowslaw.com/assets/images/badge4.jpg" class="img-size">
+            <img src="https://roseknowslaw.com/assets/images/badge4.jpg" alt="badges" class="img-size">
           </div>
           <div class="post-entry col-2 pad">
             <!-- <img src="assets/images/badge5A.png" class="img-size"> -->
-            <img src="https://roseknowslaw.com/assets/images/badge5A.png" class="img-size">
+            <img src="https://roseknowslaw.com/assets/images/badge5A.png" alt="badges" class="img-size">
           </div>
           <div class="post-entry col-2 pad">
             <!-- <img src="assets/images/badge5B.png" class="img-size"> -->
-            <img src="https://roseknowslaw.com/assets/images/badge5B.png" class="img-size">
+            <img src="https://roseknowslaw.com/assets/images/badge5B.png" alt="badges" class="img-size">
           </div>
           <div class="post-entry col-2 pad">
             <!-- <img src="assets/images/badge6.jpg" class="img-size"> -->
-            <img src="https://roseknowslaw.com/assets/images/badge6.jpg" class="img-size">
+            <img src="https://roseknowslaw.com/assets/images/badge6.jpg" alt="badges" class="img-size">
           </div>
 
       </div><br>

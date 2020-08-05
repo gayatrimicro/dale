@@ -45,6 +45,126 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="72x72" href="">
     <link rel="apple-touch-icon" sizes="114x114" href="">
 	<title>Testimonials | Dale R. Rose PLLC</title>
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '729679074434095'); 
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript>
+
+<img height="1" width="1"
+
+src="https://www.facebook.com/tr?id=729679074434095&ev=PageView
+
+&noscript=1"/>
+
+</noscript>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Legal Services",
+  "image": "",
+  "description": "Personal Injury Attorney Services",
+  "brand": "Dale Rose",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "8",
+    "bestRating": "10",
+    "worstRating": "1",
+    "ratingCount": "5",
+    "reviewCount": "5"
+  },
+  "review": [{
+    "@type": "Review",
+    "name": "Jane Matthew",
+    "reviewBody": "Dale understood the financial uncertainty that I faced and worked hard to ensure I received compensation quickly, which meant I had peace of mind and could focus on my rehabilitation.",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "8",
+      "bestRating": "10",
+      "worstRating": "1"
+    },
+    "datePublished": "2019-11-13",
+    "author": {"@type": "Person", "name": "Jane Matthews"},
+    "publisher": {"@type": "Organization", "name": "Dale Rose"}
+  },{
+    "@type": "Review",
+    "name": "Alan Grant",
+    "reviewBody": "Dale Rose painstakingly went into my costs, my loss of earnings, and the extent to which I would probably not make a full recovery.",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "7",
+      "bestRating": "10",
+      "worstRating": "1"
+    },
+    "datePublished": "2019-12-20",
+    "author": {"@type": "Person", "name": "Alan Grant"},
+    "publisher": {"@type": "Organization", "name": "Dale Rose"}
+  },{
+    "@type": "Review",
+    "name": "Darren Branch",
+    "reviewBody": "Late last year we contacted Mr. Rose in reference to a personal injury. Mr. Rose walked us through the process and took the time to explain what was happening while he was fighting for us. Mr. Rose and his staff were great and were in contact throughout the entire year it took to resolve our case. He exceeded our expectations and obtained an outstanding settlement for our case. I would recommend him to anyone looking for a great knowledgeable lawyer.",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "9",
+      "bestRating": "10",
+      "worstRating": "1"
+    },
+    "datePublished": "2020-01-16",
+    "author": {"@type": "Person", "name": "Darren Branch"},
+    "publisher": {"@type": "Organization", "name": "Dale Rose"}
+  },{
+    "@type": "Review",
+    "name": "Gail Sutton",
+    "reviewBody": "Dale Rose has been very helpful. I was in total shock, I couldn't absorb anything when I was first told and I haven't been able to focus on the positive side of this.",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "7",
+      "bestRating": "10",
+      "worstRating": "1"
+    },
+    "datePublished": "2020-02-08",
+    "author": {"@type": "Person", "name": "Gail Sutton"},
+    "publisher": {"@type": "Organization", "name": "Dale Rose"}
+  },{
+    "@type": "Review",
+    "name": "Mark Ray",
+    "reviewBody": "The whole experience with Dale was completely different to the other solicitors. He treated me like a person. He was sympathetic and understood I was going through a bad time.",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "9",
+      "bestRating": "10",
+      "worstRating": "1"
+    },
+    "datePublished": "2020-02-25",
+    "author": {"@type": "Person", "name": "Mark Ray"},
+    "publisher": {"@type": "Organization", "name": "Dale Rose"}
+  }]
+}
+</script>
+
+<!-- End Facebook Pixel Code -->
 
 
     <meta name="description" content="Find out what past clients say about McKinney’s top-rated personal injury attorney, Dale Rose.  Experience integrity & justice. Call for Free Consultation."/>

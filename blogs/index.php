@@ -43,6 +43,41 @@ var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bot
     <link rel="apple-touch-icon" sizes="114x114" href="">
     
     <title>Blog | Dale R. Rose</title>
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '729679074434095'); 
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript>
+
+<img height="1" width="1"
+
+src="https://www.facebook.com/tr?id=729679074434095&ev=PageView
+
+&noscript=1"/>
+
+</noscript>
+
+<!-- End Facebook Pixel Code -->
 
     <meta name="description" content="Read the latest personal injury news &amp; legal articles from filing a claim to getting the compensation you deserve. Educate yourself about the law." >
 
@@ -296,6 +331,20 @@ img.emoji {
             padding: 6px !important;
             width: 50% !important; 
         }
+        .DBlk{
+    display: inline-block;
+    margin-left: 15px;
+}
+.DBlk2{
+    display: inline-block;
+    margin-left: 15px;
+        vertical-align: -webkit-baseline-middle;
+}
+.DisB{
+    width: 100%;
+    display: block;
+        margin-top: 40px;
+}
         
 
         @media (max-width: 600px){
@@ -383,6 +432,16 @@ img.emoji {
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZDPT9M"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     
 <div id="loader">
     <div class="loader-content">
@@ -439,6 +498,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="container-fluid">
                     <div class="row ">
+                        <div class="post-entry col-12">
+                            <div class="row align-items-center  box-shadow">
+                                <div class="col-12 col-xl-4">
+                                    <div class="media-wrap  burn-anime">
+                                        <a href="#"><img src="../assets/images/blog/carAcc.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Reasons to hire personal injury attorney" /></a>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-xl-8">
+                                    <div class="content">
+                                        <div class="mob-content" style="padding: 20px;">
+                                        <h2 class="font-header heading-blog">Best Personal Injury Lawyer in McKinney, Texas</h2>
+                                        <hr class="divider-line">
+                                        <div class="DisB">
+                                            <div class="fb-share-button" data-href="https://roseknowslaw.com/blogs/best-personal-injury-lawyer" data-layout="button_count"></div>
+                                            <div class="DBlk">
+                                                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://roseknowslaw.com/blogs/best-personal-injury-lawyer/"></script>
+                                            </div>
+                                            <div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/best-personal-injury-lawyer/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                            </div>
+                                        </div>
+                                            <h4 class="t-justify description-content">When you or anyone you know gets injured due to someone else’s negligence, the lawyer who helps you get compensation from the responsible people is a personal injury lawyer.</h4>
+
+                                            <a href="best-personal-injury-lawyer/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a> 
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                         <div class="post-entry col-12">
                             <div class="row align-items-center  box-shadow">
@@ -451,7 +539,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="content">
                                         <div class="mob-content" style="padding: 20px;">
                                         <h2 class="font-header heading-blog">Get Help from an Expert Plano Car Accident Lawyer </h2>
-                                            <hr class="divider-line"><br>
+                                        <hr class="divider-line">
+                                        <div class="DisB">
+                                            <div class="fb-share-button" data-href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/" data-layout="button_count"></div>
+                                            <div class="DBlk">
+                                                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/"></script>
+                                            </div>
+                                            <div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/plano-car-accident-lawyer/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                            </div>
+                                        </div>
                                             <h4 class="t-justify description-content">Due to the overwhelming number of motor vehicles on the road like cars, trucks, bikes, buses and more, it is extremely difficult to navigate traffic for vehicle owners and pedestrians alike.</h4>
 
                                             <a href="plano-car-accident-lawyer/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a> 
@@ -474,7 +570,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="content">
                                         <div class="mob-content" style="padding: 20px;">
                                         <h2 class="font-header heading-blog">Things You Should Know About Brain Injury Lawsuit</h2>
-                                            <hr class="divider-line"><br>
+                                            <hr class="divider-line">
+                                            <div class="DisB">
+                                                <div class="fb-share-button" data-href="https://roseknowslaw.com/blogs/brain-injury-lawsuit/" data-layout="button_count"></div>
+                                                <div class="DBlk">
+                                                    <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://roseknowslaw.com/blogs/brain-injury-lawsuit/"></script>
+                                                </div>
+                                                <div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/brain-injury-lawsuit/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                                </div>
+                                            </div>
                                             <h4 class="t-justify description-content">What are brain injuries and can you apply for a personal injury lawsuit?</h4>
 
                                             <a href="brain-injury-lawsuit/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a> 
@@ -497,7 +601,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="content">
                                         <div class="mob-content" style="padding: 20px;">
                                         <h2 class="font-header heading-blog">Slip and fall injuries in the USA</h2>
-                                            <hr class="divider-line"><br>
+                                            <hr class="divider-line">
+                                            <div class="DisB">
+                                                <div class="fb-share-button" data-href="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/" data-layout="button_count"></div>
+                                                <div class="DBlk">
+                                                    <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/"></script>
+                                                </div>
+                                                <div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/slip-fall-injury-lawyer/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                                </div>
+                                            </div>
                                             <h4 class="t-justify description-content">Slip-and-fall injuries are more common than you think. Many times, emergency rooms of hospitals are full of victims of slip-and-fall injuries.</h4>
 
                                             <a href="slip-fall-injury-lawyer/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a> 
@@ -521,7 +633,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="content">
                                         <div class="mob-content" style="padding: 20px;">
                                         <h2 class="font-header heading-blog">The Rise of Truck Accidents in Texas </h2>
-                                            <hr class="divider-line"><br>
+                                            <hr class="divider-line">
+                                            <div class="DisB">
+                                                <div class="fb-share-button" data-href="https://roseknowslaw.com/blogs/truck-accidents-texas/" data-layout="button_count"></div>
+                                                <div class="DBlk">
+                                                    <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://roseknowslaw.com/blogs/truck-accidents-texas/"></script>
+                                                </div>
+                                                <div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/truck-accidents-texas/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                                </div>
+                                            </div>
                                             <h4 class="t-justify description-content">What happens when you find out that your family member has been injured and hospitalized due to a truck accident? </h4>
 
                                             <a href="truck-accidents-texas/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a>
@@ -548,7 +668,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="content">
                                         <div class="mob-content" style="padding: 20px;">
                                         <h2 class="font-header heading-blog">When to See a Dog-bite Attorney</h2>
-                                            <hr class="divider-line"><br>
+                                            <hr class="divider-line">
+                                            <div class="DisB">
+                                                <div class="fb-share-button" data-href="https://roseknowslaw.com/blogs/dog-bite-attorney/" data-layout="button_count"></div>
+                                                <div class="DBlk">
+                                                    <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://roseknowslaw.com/blogs/dog-bite-attorney/"></script>
+                                                </div>
+                                                <div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/dog-bite-attorney/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                                </div>
+                                            </div>
                                             <h4 class="t-justify description-content">Reach a qualified dog bite attorney to make sure your rights are safeguarded. The sooner after the bite occurs that you contact an attorney, the better your chances are for recovery.</h4>
 
                                             <a href="dog-bite-attorney/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a>
@@ -570,7 +698,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="content">
                                         <div class="mob-content" style="padding: 20px;">
                                         <h2 class="font-header heading-blog">Benefits of Hiring a Personal Injury Lawyer</h2>
-                                            <hr class="divider-line"><br>
+                                            <hr class="divider-line">
+                                            <div class="DisB">
+                                                <div class="fb-share-button" data-href="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/" data-layout="button_count"></div>
+                                                <div class="DBlk">
+                                                    <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/"></script>
+                                                </div>
+                                                <div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                                </div>
+                                            </div>
                                             <h4 class="t-justify description-content">Dale Rose is a leading personal injury lawyer in the U.S. Understanding the benefits of hiring a personal injury lawyer helps in making the right decision to help your case.</h4>
  
                                             <a href="benefits-of-hiring-personal-injury-lawyer/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a>
@@ -593,7 +729,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="content">
                                         <div class="mob-content" style="padding: 20px;">
                                         <h2 class="font-header heading-blog">Reasons to Hire a Personal Injury Attorney</h2>
-                                            <hr class="divider-line"><br>
+                                            <hr class="divider-line">
+                                            <div class="DisB">
+                                                <div class="fb-share-button" data-href="https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/" data-layout="button_count"></div>
+                                                <div class="DBlk">
+                                                    <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/"></script>
+                                                </div>
+                                                <div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                                </div>
+                                            </div>
                                             <h4 class="t-justify description-content">Learn when to Hire an Experienced Personal Injury Attorney to make the best decisions on your behalf &amp; ensure that you are compensated for your injuries.</h4>
 
                                             <a href="reasons-to-hire-personal-injury-attorney/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a> 
@@ -623,6 +767,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-xl-4 mob-display-n">
                        <h2 class="font-header" style="color: #005153;">Recent posts</h2>
                        <hr>
+                       <h3 class="font-header" style="color: #005153;padding: 10px 0;">
+                                        <a href="best-personal-injury-lawyer/">
+                                           Best Personal Injury Lawyer in McKinney, Texas
+                                        </a>
+                                    </h3>
+                                    <hr>
                        <h3 class="font-header" style="color: #005153;padding: 10px 0;">
                                         <a href="plano-car-accident-lawyer/">
                                            Get Help from an Expert Plano Car Accident Lawyer
