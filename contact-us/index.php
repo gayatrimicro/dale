@@ -407,9 +407,9 @@ text-transform: uppercase;
 <link rel='stylesheet' id=''  href='../assets/css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id=''  href='../assets/css/main-about.css' type='text/css' media='all' />
 <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
-<script type='text/javascript' src='../assets/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='../assets/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='../assets/js/modernizr.custom.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/3.1.1/modernizr.custom.min.js"></script>
 
 
 

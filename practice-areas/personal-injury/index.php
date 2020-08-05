@@ -141,9 +141,9 @@ img.emoji {
 <link rel='stylesheet' id=''  href='../../assets/css/jquery.mCustomScrollbar.css' type='text/css' media='all' />
 <link rel='stylesheet' id=''  href='../../assets/css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id=''  href='../../assets/css/main-about.css' type='text/css' media='all' />
-<script type='text/javascript' src='../../assets/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='../../assets/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='../../assets/js/modernizr.custom.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/3.1.1/modernizr.custom.min.js"></script>
 
 
 

@@ -129,9 +129,9 @@ img.emoji {
 <link rel='stylesheet' id=''  href='https://roseknowslaw.com/assets/css/jquery.mCustomScrollbar.css' type='text/css' media='all' />
 <link rel='stylesheet' id=''  href='https://roseknowslaw.com/assets/css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id=''  href='https://roseknowslaw.com/assets/css/main-about.css' type='text/css' media='all' />
-<script type='text/javascript' src='https://roseknowslaw.com/assets/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://roseknowslaw.com/assets/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://roseknowslaw.com/assets/js/modernizr.custom.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/3.1.1/modernizr.custom.min.js"></script>
 
 <link rel="icon" href="../../assets/images/favicon.png" type="image/gif" sizes="16x16">
     <link rel="apple-touch-icon" href="../../assets/images/favicon.ico">
