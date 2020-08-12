@@ -502,6 +502,36 @@ fjs.parentNode.insertBefore(js, fjs);
                             <div class="row align-items-center  box-shadow">
                                 <div class="col-12 col-xl-4">
                                     <div class="media-wrap  burn-anime">
+                                        <a href="#"><img src="../assets/images/blog/crn2.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Reasons to hire personal injury attorney" /></a>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-xl-8">
+                                    <div class="content">
+                                        <div class="mob-content" style="padding: 20px;">
+                                        <h2 class="font-header heading-blog">Crane Collapse</h2>
+                                        <hr class="divider-line">
+                                        <div class="DisB">
+                                            <div class="fb-share-button" data-href="https://roseknowslaw.com/blogs/crane-collapse-in-texas" data-layout="button_count"></div>
+                                            <div class="DBlk">
+                                                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://roseknowslaw.com/blogs/crane-collapse-in-texas/"></script>
+                                            </div>
+                                            <div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/crane-collapse-in-texas/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                            </div>
+                                        </div>
+                                            <h4 class="t-justify description-content">Crane collapse incidents in the US are rare but not unheard of. There are two major crane collapse accidents that come to mind - the Seattle crane collapse and the Dallas crane collapse.</h4>
+
+                                            <a href="crane-collapse-in-texas/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a> 
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="post-entry col-12">
+                            <div class="row align-items-center  box-shadow">
+                                <div class="col-12 col-xl-4">
+                                    <div class="media-wrap  burn-anime">
                                         <a href="#"><img src="../assets/images/blog/carAcc.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Reasons to hire personal injury attorney" /></a>
                                     </div>
                                 </div>
@@ -767,6 +797,13 @@ fjs.parentNode.insertBefore(js, fjs);
                     <div class="col-xl-4 mob-display-n">
                        <h2 class="font-header" style="color: #005153;">Recent posts</h2>
                        <hr>
+                       <h3 class="font-header" style="color: #005153;padding: 10px 0;">
+                                        <a href="crane-collapse-in-texas/">
+                                           Crane Collapse in Texas
+                                        </a>
+                                    </h3>
+                                    <hr>
+                       
                        <h3 class="font-header" style="color: #005153;padding: 10px 0;">
                                         <a href="best-personal-injury-lawyer/">
                                            Best Personal Injury Lawyer in McKinney, Texas
