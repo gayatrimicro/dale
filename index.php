@@ -1509,27 +1509,43 @@ style="background-image:url(assets/images/accident-adult.jpg);">
                         <div class="sticky-block">
                             <div class="post-entry burn-anime">
                                 <div class="media-wrap">
-                                    <a href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/">
+                                    <a href="https://roseknowslaw.com/blogs/crane-collapse-in-texas/">
 
 
 
 
-                                        <img width="768" height="880" src="assets/images/blog/bpil.png" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Brain Injury Lawyer" />
+                                        <img width="768" height="880" src="assets/images/blog/crncol.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Brain Injury Lawyer" />
 
 
                                     </a>
                                 </div>
                                 <div class="post-details">
                                     <div class="meta">
-                                        <a href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/" rel="tag">FROM THE BLOG</a>                    
+                                        <a href="https://roseknowslaw.com/blogs/crane-collapse-in-texas/" rel="tag">FROM THE BLOG</a>                    
                                         
                                     </div>
-                                    <p><a href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/">Best Personal Injury Lawyer in McKinney, Texas</a></p>
+                                    <p><a href="https://roseknowslaw.com/blogs/crane-collapse-in-texas/"> Crane Collapse in Texas</a></p>
                                 </div>
                             </div>
                         </div>
-                    </div>                                                                                                                                  <div class="col-xl-6">
+                    </div>                                                                                                                                   <div class="col-xl-6">
                         <div class="row">
+                            <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
+                    <div class="media-wrap">
+
+                     <a href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/">
+                         <img img width="500" height="640" src="assets/images/blog/bpil2.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Benefits of Hiring a Personal Injury Lawyer" sizes="(max-width: 500px) 100vw, 500px" />
+                     </a>
+
+
+                 </div>
+                 <div class="post-details">
+                    <div class="meta">
+                        <a href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/" rel="tag">From the blog</a>            
+                    </div>
+                    <p><a href="https://roseknowslaw.com/blogs/plano-car-accident-lawyer/">Best Personal Injury Lawyer in McKinney, Texas</a></p>
+                </div>
+            </div>
                             <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
                 <div class="media-wrap">
                     <a href="https://roseknowslaw.com/blogs/reasons-to-hire-personal-injury-attorney/">
@@ -1602,22 +1618,7 @@ style="background-image:url(assets/images/accident-adult.jpg);">
                     </div>
                 </div> 
 
-                <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
-                    <div class="media-wrap">
-
-                     <a href="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/">
-                         <img img width="500" height="640" src="assets/images/personal-injury-lawyer.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Benefits of Hiring a Personal Injury Lawyer" sizes="(max-width: 500px) 100vw, 500px" />
-                     </a>
-
-
-                 </div>
-                 <div class="post-details">
-                    <div class="meta">
-                        <a href="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/" rel="tag">From the blog</a>            
-                    </div>
-                    <p><a href="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/">Benefits of Hiring a Personal Injury Lawyer</a></p>
-                </div>
-            </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </div>
     </div>
 </div><!-- .diff-scroll -->
 <div class="row">
