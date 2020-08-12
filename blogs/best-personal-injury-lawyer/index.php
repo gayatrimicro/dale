@@ -86,20 +86,20 @@ src="https://www.facebook.com/tr?id=729679074434095&ev=PageView
     <meta property="og:type" content="Blog">
     <meta property="og:title" content="Best Personal Injury Lawyer in McKinney, Texas">
     <meta property="og:description" content="One of the most experienced personal injury lawyers in McKinney, TX is Mr. Dale R. Rose PLLC. Call us - (972) 737-1333 to request a free consultation.">
-    <meta property="og:url" content="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/">
+    <meta property="og:url" content="https://roseknowslaw.com/blogs/best-personal-injury-lawyer/">
     <meta property="og:image" content="https://roseknowslaw.com/assets/images/blog-banner-car-accident.jpg">
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Best Personal Injury Lawyer in McKinney, Texas">
     <meta name="twitter:description" content="One of the most experienced personal injury lawyers in McKinney, TX is Mr. Dale R. Rose PLLC. Call us - (972) 737-1333 to request a free consultation.">
     <meta name="twitter:image" content="https://roseknowslaw.com/assets/images/blog-banner-car-accident.jpg">
-    <meta name="twitter:url" content="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/">
+    <meta name="twitter:url" content="https://roseknowslaw.com/blogs/best-personal-injury-lawyer/">
 
 
     <meta name="robots" content="index, follow" />
 
-    <link rel="canonical" href="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/">
-    <link rel="alternate" href="https://roseknowslaw.com/blogs/benefits-of-hiring-personal-injury-lawyer/" hreflang="en-us" />
+    <link rel="canonical" href="https://roseknowslaw.com/blogs/best-personal-injury-lawyer/">
+    <link rel="alternate" href="https://roseknowslaw.com/blogs/best-personal-injury-lawyer/" hreflang="en-us" />
 
 
         <style type="text/css">
