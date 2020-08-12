@@ -443,8 +443,10 @@ data-layout="button_count">
                        <!-- <h3>Dale Rose is a leading personal injury lawyer in the U.S. Understanding the benefits of hiring a personal injury lawyer helps in making the right decision to help your case.</h3><br>-->
                        <div class="row">
                            <div class="col-sm-12">
-                            <h1 style="text-transform: none;">Who is a  Personal Injury Lawyer?</h1>
-                               <h3>When you or anyone you know gets injured due to someone else’s negligence, the lawyer who helps you get compensation from the responsible people is a <b>personal injury lawyer</b>. </h3>
+                            <h1 style="text-transform: none; text-align: center;">Best Personal Injury Lawyer in McKinney, Texas</h1>
+                            <br><br>
+                            <h1 style="text-transform: none;font-size: 27px;font-weight: 600;">Who is a  Personal Injury Lawyer?</h1>
+                               <h3>When you or anyone you know gets injured due to someone else’s negligence, the lawyer who helps you get compensation from the responsible people is a <b>personal injury lawyer</b>. </h2>
                         <h3>They are also called as ‘Trial lawyers’ even though a lot of personal injury claims get settled outside of the courthouse. Some of the common examples of personal injuries for which you can sue the responsible are - slip and fall injuries at the workplace and accidents, defective products, malpractice where someone’s health in on line, road accidents and collisions, etc.</h3>
                         <h3><b>One of the most experienced personal injury lawyers in McKinney, TX is Mr. Dale R. Rose PLLC.</b> He has 25+ years of experience and has been a lead attorney for 155 personal trials and has secured millions of dollars in compensation for his clients. </h3>
                         <h3><b>Call us - <a href="tel:(972) 737-1333">(972) 737-1333</a> to request a free consultation with an experienced personal injury lawyer in McKinney, Texas.</b></h3><br><br>
@@ -458,7 +460,8 @@ data-layout="button_count">
             <div class="container">
                 <div class="row">
                            <div class="col-sm-12">
-                            <h1 style="text-transform: none;">What is the meaning of practice areas in Personal Injury Law?</h1><br>
+
+                            <h1 style="text-transform: none;font-size: 27px;font-weight: 600;">What is the meaning of practice areas in Personal Injury Law?</h1><br>
                                
                                <div class="row">
                                    <div class="col-sm-6">
@@ -484,7 +487,7 @@ data-layout="button_count">
 
                        <div class="row">
                            <div class="col-sm-12">
-                            <h1 style="text-transform: none;">What exactly does a Personal Injury Attorney do?</h1>
+                            <h1 style="text-transform: none;font-size: 27px;font-weight: 600;">What exactly does a Personal Injury Attorney do?</h1>
                                <h3>To put the process of how an experienced McKinney Personal Injury Lawyer handles a personal injury claim and makes sure that you get the compensation you deserve, here’s a list -</h3>
                        <ul>
                            <li><b>Initial Free Consultation</b> - An experienced lawyer like Dale Rose who specializes in personal injury law, will talk to you about the exact details of your situation in detail and weigh in whether a personal injury claim can be made.</li><br>
