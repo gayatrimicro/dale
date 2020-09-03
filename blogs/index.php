@@ -497,7 +497,37 @@ fjs.parentNode.insertBefore(js, fjs);
                     </div>
                 </div>
                 <div class="container-fluid">
-                    <div class="row ">
+                    <div class="row">
+                        <div class="post-entry col-12">
+                            <div class="row align-items-center  box-shadow">
+                                <div class="col-12 col-xl-4">
+                                    <div class="media-wrap  burn-anime">
+                                        <a href="#"><img src="../assets/images/blog/wd0.jpg" class="attachment-1060x650 size-1060x650 wp-post-image" alt="Reasons to hire personal injury attorney" /></a>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-xl-8">
+                                    <div class="content">
+                                        <div class="mob-content" style="padding: 20px;">
+                                        <h2 class="font-header heading-blog">Wrongful Death</h2>
+                                        <hr class="divider-line">
+                                        <div class="DisB">
+                                            <div class="fb-share-button" data-href="https://roseknowslaw.com/blogs/wrongful-death" data-layout="button_count"></div>
+                                            <div class="DBlk">
+                                                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://roseknowslaw.com/blogs/wrongful-death/"></script>
+                                            </div>
+                                            <div class="DBlk2"><a href="https://twitter.com/share?ref_src=https://roseknowslaw.com/blogs/wrongful-death/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                            </div>
+                                        </div>
+                                            <h4 class="t-justify description-content">When a person dies as a result of someone’s negligence or unintentional actions, it is called a wrongful death. When the relatives decide to bring justice to their loved one who died, they can file a wrongful death lawsuit with the help of an experienced personal injury lawyer.</h4>
+
+                                            <a href="wrongful-death/"><button type="button" class="req_btn btn-claim btn-blog">Read More</button></a> 
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="post-entry col-12">
                             <div class="row align-items-center  box-shadow">
                                 <div class="col-12 col-xl-4">

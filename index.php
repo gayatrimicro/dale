@@ -1509,27 +1509,42 @@ style="background-image:url(assets/images/accident-adult.jpg);">
                         <div class="sticky-block">
                             <div class="post-entry burn-anime">
                                 <div class="media-wrap">
-                                    <a href="https://roseknowslaw.com/blogs/crane-collapse-in-texas/">
+                                    <a href="https://roseknowslaw.com/blogs/wrongful-death/">
 
 
 
 
-                                        <img width="768" height="880" src="assets/images/blog/crncol.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Brain Injury Lawyer" />
+                                        <img width="768" height="880" src="assets/images/blog/wd4.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Brain Injury Lawyer" />
 
 
                                     </a>
                                 </div>
                                 <div class="post-details">
                                     <div class="meta">
-                                        <a href="https://roseknowslaw.com/blogs/crane-collapse-in-texas/" rel="tag">FROM THE BLOG</a>                    
+                                        <a href="https://roseknowslaw.com/blogs/wrongful-death/" rel="tag">FROM THE BLOG</a>                    
                                         
                                     </div>
-                                    <p><a href="https://roseknowslaw.com/blogs/crane-collapse-in-texas/"> Crane Collapse in Texas</a></p>
+                                    <p><a href="https://roseknowslaw.com/blogs/wrongful-death/"> Wrongful Death</a></p>
                                 </div>
                             </div>
                         </div>
                     </div>                                                                                                                                   <div class="col-xl-6">
                         <div class="row">
+                            <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
+                    <div class="media-wrap">
+
+                        <a href="https://roseknowslaw.com/blogs/crane-collapse-in-texas/">
+                            <img img width="500" height="640" src="assets/images/blog/wd5.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Dog Bite Attorney" sizes="(max-width: 500px) 100vw, 500px" />
+                        </a>
+                    </div>
+                    <div class="post-details">
+                        <div class="meta">
+                            <a href="https://roseknowslaw.com/blogs/crane-collapse-in-texas/" rel="tag">From the blog</a>            
+                        </div>
+                        <p><a href="https://roseknowslaw.com/blogs/crane-collapse-in-texas/">Crane Collapse in Texas</a></p>
+                    </div>
+                </div>
+
                             <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
                     <div class="media-wrap">
 
@@ -1603,20 +1618,7 @@ style="background-image:url(assets/images/accident-adult.jpg);">
                         <p><a href="https://roseknowslaw.com/blogs/truck-accidents-texas/">The Rise of Truck Accidents in Texas</a></p>
                     </div>
                 </div>  
-                <div class="post-entry col-12 col-sm-4 col-xl-6 burn-anime">
-                    <div class="media-wrap">
-
-                        <a href="https://roseknowslaw.com/blogs/dog-bite-attorney/">
-                            <img img width="500" height="640" src="assets/images/dog-bite.jpg" class="attachment-1060x880 size-1060x880 wp-post-image" alt="Dog Bite Attorney" sizes="(max-width: 500px) 100vw, 500px" />
-                        </a>
-                    </div>
-                    <div class="post-details">
-                        <div class="meta">
-                            <a href="https://roseknowslaw.com/blogs/dog-bite-attorney/" rel="tag">From the blog</a>            
-                        </div>
-                        <p><a href="https://roseknowslaw.com/blogs/dog-bite-attorney/">When to See a Dog-bite Attorney</a></p>
-                    </div>
-                </div> 
+                 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </div>
     </div>
