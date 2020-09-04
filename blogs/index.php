@@ -828,6 +828,12 @@ fjs.parentNode.insertBefore(js, fjs);
                        <h2 class="font-header" style="color: #005153;">Recent posts</h2>
                        <hr>
                        <h3 class="font-header" style="color: #005153;padding: 10px 0;">
+                                        <a href="wrongful-death/">
+                                           Wrongful Death
+                                        </a>
+                                    </h3>
+                       <hr>
+                       <h3 class="font-header" style="color: #005153;padding: 10px 0;">
                                         <a href="crane-collapse-in-texas/">
                                            Crane Collapse in Texas
                                         </a>
